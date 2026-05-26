@@ -33,6 +33,7 @@ EXPECTED_COLUMNS = {
         "fecha",
         "nombre_paciente",
         "tipo_consulta",
+        "medico_cargo",
         "telefono_contacto",
         "correo_electronico",
         "direccion",
@@ -66,7 +67,6 @@ EXPECTED_COLUMNS = {
         "nombre_completo",
         "medicamentos_unidades",
         "fecha_prescripcion",
-        "medico_cargo",
         "sucursal",
     ],
 }

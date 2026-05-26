@@ -114,6 +114,12 @@ def make_pharmacy_id(site: str, year: int, local_index: int) -> str:
     return f"FARM_{cfg.SITES[site]['code']}_{year}_{local_index:06d}"
 
 
+def physician_for_transaction(site: str, transaction_id: str) -> str:
+    doctors = cfg.SITES[site]["doctors"]
+    stable_value = sum((index + 1) * ord(char) for index, char in enumerate(transaction_id))
+    return doctors[stable_value % len(doctors)]
+
+
 def vary_name(patient: Patient) -> str:
     mode = weighted_choice(cfg.NAME_VARIATION_PROBABILITIES)
     full = patient.full_name
@@ -305,6 +311,7 @@ def make_transaction_rows(population: dict[str, list[Patient]]) -> tuple[dict[tu
                 first_text = maybe_invalid_date(first_date, site)
                 transaction_id = make_transaction_id(patient, site, tx_date, local_index)
                 transaction_name = vary_name(patient)
+                physician = physician_for_transaction(site, transaction_id)
                 context = TransactionContext(
                     patient=patient,
                     site=site,
@@ -325,6 +332,7 @@ def make_transaction_rows(population: dict[str, list[Patient]]) -> tuple[dict[tu
                         "fecha": tx_text,
                         "nombre_paciente": transaction_name,
                         "tipo_consulta": consultation_type,
+                        "medico_cargo": physician,
                         "telefono_contacto": apply_phone_quality(patient.phone, site),
                         "correo_electronico": apply_email_quality(patient.email),
                         "direccion": patient.address,
@@ -527,7 +535,6 @@ def make_prescription_rows(contexts: list[TransactionContext]) -> dict[tuple[str
             "nombre_completo": vary_recorded_name_format_only(context.transaction_name),
             "medicamentos_unidades": medications,
             "fecha_prescripcion": context.transaction_date_text,
-            "medico_cargo": random.choice(cfg.SITES[context.site]["doctors"]),
             "sucursal": context.branch,
         }
         rows_by_file[(context.site, context.year)].append(row)

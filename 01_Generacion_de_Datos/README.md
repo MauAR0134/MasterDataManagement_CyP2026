@@ -23,6 +23,6 @@ Cardinalidad generada:
 ```text
 transacciones: 15000
 clinica: 15000
-prescripciones: 8237
-total: 38237
+prescripciones: 8258
+total: 38258
 ```

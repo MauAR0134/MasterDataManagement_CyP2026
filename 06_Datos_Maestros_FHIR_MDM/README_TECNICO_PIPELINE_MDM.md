@@ -41,8 +41,8 @@ total archivos: 27
 ```text
 transacciones: 15000
 clinica: 15000
-prescripciones: 8237
-total raw: 38237
+prescripciones: 8258
+total raw: 38258
 ```
 
 ### 2.3 Reglas De Dependencia Raw
@@ -157,8 +157,8 @@ prescription_request_probability_per_transaction = 0.55
 Resultado validado:
 
 ```text
-prescripciones = 8237
-prescripciones/transacciones = 54.91%
+prescripciones = 8258
+prescripciones/transacciones = 55.05%
 ```
 
 ### 3.4 Fechas Operativas
@@ -407,7 +407,7 @@ source_file
 Origen:
 
 ```text
-prescripciones.medico_cargo
+transacciones.medico_cargo
 ```
 
 Tabla final:
@@ -421,7 +421,7 @@ Reglas:
 ```text
 todos los trabajadores actuales tienen rol = medico
 id_trabajador = MED_[consecutivo]
-area_hospitalaria = no_especificada
+area_hospitalaria = Division Medica
 ```
 
 Decision:
@@ -435,6 +435,13 @@ Resultado:
 
 ```text
 Workers_Practitioner = 15 registros
+```
+
+Propagacion:
+
+```text
+transacciones.medico_cargo -> Workers_Practitioner.id_trabajador
+Transacciones_Encounter.id_trabajador -> Prescripciones_MedicationRequest.id_trabajador
 ```
 
 ## 10. Linkage De Eventos Y Derivacion De id_consulta
@@ -521,7 +528,7 @@ fecha_prescripcion_iso = fecha_iso
 Resultado:
 
 ```text
-prescripciones enlazadas = 8237
+prescripciones enlazadas = 8258
 prescription_without_consultation = 0
 transactions_without_prescription = 6763
 ```
@@ -712,11 +719,11 @@ ContactPoints: 6811
 Addresses: 6811
 Transacciones_Encounter: 15000
 Clinico_Observation: 15000
-Prescripciones_MedicationRequest: 8237
-Prescripcion_Detalle_Medicamento: 15545
+Prescripciones_MedicationRequest: 8258
+Prescripcion_Detalle_Medicamento: 15587
 Workers_Practitioner: 15
 Medicamentos_Cost: 24
-Solicitudes_Bimestrales: 1266
+Solicitudes_Bimestrales: 1248
 ```
 
 ### 12.1 Dimensiones Administrativas Vigentes

@@ -1,4 +1,4 @@
-"""Construye la tabla FHIR-inspired Practitioner/Workers desde medico_cargo."""
+"""Construye la tabla FHIR-inspired Practitioner/Workers desde Encounter raw."""
 
 from __future__ import annotations
 
@@ -7,8 +7,8 @@ from mdm_utils import normalize_name, read_rows, write_rows
 
 
 def main() -> None:
-    prescriptions = read_rows(cfg.STANDARDIZED_DIR / "prescripciones_standardized.csv")
-    names = sorted(set(normalize_name(row["medico_cargo"]) for row in prescriptions if row["medico_cargo"]))
+    transactions = read_rows(cfg.STANDARDIZED_DIR / "transacciones_standardized.csv")
+    names = sorted(set(normalize_name(row["medico_cargo"]) for row in transactions if row["medico_cargo"]))
     workers = []
     mapping = {}
     for index, name in enumerate(names, start=1):
@@ -23,13 +23,14 @@ def main() -> None:
                 "fhir_equivalent": "Practitioner",
             }
         )
-    for row in prescriptions:
+    for row in transactions:
         row["id_trabajador"] = mapping.get(normalize_name(row["medico_cargo"]), "")
     write_rows(cfg.RELATIONAL_DIR / "Workers_Practitioner.csv", workers)
-    write_rows(cfg.STANDARDIZED_DIR / "prescripciones_standardized_workers.csv", prescriptions)
+    write_rows(cfg.STANDARDIZED_DIR / "transacciones_standardized_workers.csv", transactions)
     (cfg.RELATIONAL_DIR / "README_workers.md").write_text(
         "# Workers / Practitioner\n\n"
-        "Tabla derivada de `medico_cargo`. En esta version todos los trabajadores son "
+        "Tabla derivada de `transacciones.medico_cargo`, atributo observado de cada "
+        "consulta. En esta version todos los trabajadores son "
         "medicos asignados a `Division Medica`; el diseno admite roles y areas "
         "adicionales en futuras cargas.\n",
         encoding="utf-8",

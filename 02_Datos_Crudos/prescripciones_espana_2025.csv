@@ -1,918 +1,882 @@
-id_farmacia,nombre_completo,medicamentos_unidades,fecha_prescripcion,medico_cargo,sucursal
-FARM_ESP_2025_000001,irene jimenez fernandez,"levotiroxina3,insulina0",2025-11-24,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000002,marta lopez jimenez,"orlistat2,rosuvastatina1,metformina2",2025-06-16,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000003,RAFAEL LOPEZ RODRIGUEZ,enalapril2,2025-12-12,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000004,MIGUEL GOMEZ RUIZ,"omeprazol3,paracetamol1",2025-09-29,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000005,CARLOS SANCHEZ DIAZ,"sulfatoferroso3,acidofolico3",2025-07-17,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000006,claudia gomez fernandez,"paracetamol2,ibuprofeno3,omeprazol1",2025-08-07,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000007,Irene Lopez Lopez,"metformina4,orlistat4",2025-09-13,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000008,MARIA RODRIGUEZ RUIZ,atorvastatina2,2025-07-02,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000009,SERGIO GOMEZ MARTIN,"metformina4,glibenclamida3",2025-10-15,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000010,IRENE HERNANDEZ RODRIGUEZ,"pregabalina3,ibuprofeno2,omeprazol1",2025-01-19,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000011,maria rodriguez ruiz,"sulfatoferroso2,acidofolico3",2025-11-25,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000012,PAULA LOPEZ RUIZ,vareniclina3,2025-07-02,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000013,javier martinez rodriguez,enalapril3,2025-07-13,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000014,ANTONIO PEREZ,"atorvastatina4,rosuvastatina3",2025-10-07,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000015,sergio perez diaz,"omeprazol2,ibuprofeno3",2025-09-19,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000016,SARA RUIZ RODRIGUEZ,rosuvastatina4,2025-03-11,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000017,sara martinez hernandez,"rosuvastatina3,atorvastatina1",2025-09-25,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000018,Isabel Perez Lopez,bupropion1,2025-03-13,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000019,DANIEL RUIZ HERNANDEZ,"metformina1,orlistat2,vareniclina3",2025-05-29,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000020,DANIEL LOPEZ GARCIA,"vareniclina1,bupropion2",2025-07-29,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000021,Isabel Garcia Lopez,amlodipino4,2025-04-10,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000022,rafael sanchez ruiz,"rosuvastatina3,insulina4,glibenclamida2",2025-06-22,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000023,L. Diaz Martin,amoxicilina4,2025-10-16,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000024,miguel martin hernandez,paracetamol3,2025-12-27,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000025,P. Diaz Lopez,vareniclina2,2025-08-12,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000026,MANUEL SANCHEZ LOPEZ,"ibuprofeno3,paracetamol2",2025-10-09,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000027,elena garcia martinez,omeprazol4,2025-05-15,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000028,Paula Goez Garcia,"orlistat3,metformina2",2025-09-20,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000029,claudia lopez lopez,"losartan3,amlodipino2,atorvastatina1",2025-10-03,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000030,J. Ruiz Jimenez,atorvastatina2,2025-08-07,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000031,Paula Hernandez Ruiz,"metformina3,orlistat3",2025-11-06,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000032,david jimenez jimenez,"atorvastatina1,glibenclamida4",2025-12-19,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000033,M. SANCHEZ FERNANDEZ,"ibuprofeno3,amlodipino2,atorvastatina3",2025-08-11,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000034,Manuel Martinez Jimenez,"losartan3,paracetamol2,atorvastatina4",2025-04-16,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000035,ISABEL PEREZ JIMENEZ,enalapril1,2025-06-06,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000036,I. SANCHEZ FERNANDEZ,losartan2,2025-06-05,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000037,ANTONIO PEREZ MARTIN,"paracetamol2,metformina1,ibuprofeno2",2025-02-14,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000038,ISABEL HERNANDEZ GOMEZ,"ibuprofeno2,naproxeno3",2025-07-10,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000039,S. SANCHEZ PEREZ,diclofenaco3,2025-04-11,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000040,alvaro perez sanchez,omeprazol2,2025-08-05,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000041,david hernandez sanchez,omeprazol2,2025-08-05,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000042,L. Rodriguez Rodriguez,"ibuprofeno1,omeprazol4,paracetamol2",2025-07-22,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000043,carlos garcia garcia,"paracetamol1,omeprazol2",2025-11-01,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000044,CLAUDIA PEREZ MARTINEZ,amlodipino2,2025-08-08,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000045,marta lopez martin,"omeprazol2,paracetamol2,ibuprofeno3",2025-10-24,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000046,C. Martin Diaz,"ibuprofeno3,paracetamol4",2025-02-11,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000047,miguel rodriguz hernandez,rosuvastatina2,2025-02-04,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000048,pablo rodriguez garcia,"vareniclina2,bupropion4",2025-06-06,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000049,MIGUEL GARCIA JIMENEZ,"rosuvastatina3,atorvastatina1",2025-07-16,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000050,ALEJANDRO GARCIA GOMEZ,"orlistat1,vareniclina2,rosuvastatina3",2025-07-15,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000051,Irene Sanchez Hernandez,"bupropion2,vareniclina2",2025-12-18,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000052,Pablo Martin Gomez,"rosuvastatina4,atorvastatina2",2025-02-26,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000053,carmen diaz perez,"omeprazol4,paracetamol2",2025-10-12,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000054,DANIEL FERNANDEZ SANCHEZ,"omeprazol4,paracetamol1",2025-01-06,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000055,I. Diaz Martinez,paracetamol3,2025-08-12,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000056,Lucia Sanchez Hernandez,vareniclina3,2025-06-23,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000057,SERGIO FERNANDEZ GOMEZ,orlistat3,2025-08-18,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000058,David Jimenez Gomez,"bupropion1,vareniclina-1",2025-12-25,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000059,sergio jimenez martinez,"paracetamol2,losartan3",2025-05-10,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000060,ISABEL JIMENEZ GARCIA,"atorvastatina4,acidofolico4,sulfatoferroso3",2025-03-12,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000061,Manuel Diaz Diaz,"bupropion4,enalapril2,vareniclina2",2025-03-17,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000062,LUCIA RUIZ GARCIA,"glibenclamida3,metformina3,vareniclina4",2025-03-03,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000063,DANIEL RUIZ GARCIA,enalapril3,2025-04-25,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000064,D. MARTINEZ JIMENEZ,"glibenclamida3,insulina2",2025-06-09,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000065,NURIA MARTIN HERNANDEZ,"bupropion2,vareniclina4",2025-09-02,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000066,LUCIA RUIZ,"vareniclina4,orlistat4,metformina3",2025-08-06,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000067,MANUEL FERNANDEZ SANCHEZ,"metformina3,vareniclina2,atorvastatina4",2025-04-03,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000068,lucia martin rodriguez,"metformina2,insulina1",2025-04-09,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000069,sara lopez fernandez,"loratadina2,paracetamol4",2025-07-27,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000070,ALEJANDRO MARTINEZ JIMENEZ,bupropion1,2025-08-15,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000071,Pablo Perez Martin,ibuprofeno4,2025-09-20,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000072,C. Hernandez Gomez,metformina2,2025-12-19,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000073,nuria sanchez martinez,bupropion4,2025-03-25,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000074,ANTONIO SANCHEZ RODRIGUEZ,"rosuvastatina1,atorvastatina1",2025-03-11,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000075,A. DIAZ JIMENEZ,insulina3,2025-05-29,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000076,marta ruiz perez,atorvastatina4,2025-03-22,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000077,PABLO RUIZ FERNANDEZ,insulina3,2025-10-02,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000078,Laura Sanchez Lopez,"paracetamol3,ibuprofeno4,omeprazol3",2025-01-26,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000079,Pablo Jimenez Fernandez,"omeprazol2,amoxicilina1,diclofenaco1",2025-02-19,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000080,SARA SANCHEZ MARTIN,"rosuvastatina1,atorvastatina4",2025-01-21,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000081,MARTA PEREZ GARCIA,"orlistat4,metformina1",2025-09-18,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000082,Maria Gomez Martinez,"ibuprofeno2,paracetamol3",2025-04-13,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000083,manuel fernandez sanchez,"metformina3,orlistat3",2025-04-08,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000084,irene perez lopez,"levotiroxina3,ibuprofeno2",2025-11-10,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000085,laura gomez martin,losartan-1,2025-01-27,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000086,Carlos Diaz Lopez,"rosuvastatina1,atorvastatina2",2025-01-29,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000087,alvaro gomez hernandez,"omeprazol2,ketorolaco0",2025-10-30,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000088,MIGUEL FERNANDEZ FERNANDEZ,bupropion2,2025-09-01,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000089,M. Diaz Garcia,insulina3,2025-09-17,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000090,Carlos Hernandez Jimenez,"atorvastatina1,rosuvastatina4",2025-10-20,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000091,DAVID MARTINEZ JIMENEZ,"insulina4,metformina3",2025-05-04,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000092,C. Rodriguez Martin,"naproxeno4,gabapentina4,ibuprofeno4",2025-05-14,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000093,LUCIA FERNANDEZ JIMENEZ,"amlodipino1,enalapril2",2025-11-20,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000094,MIGUEL GARCIA GARCIA,"losartan3,enalapril2",2025-04-22,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000095,MARTA DIAZ MARTIN,"sulfatoferroso4,acidofolico1",2025-08-30,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000096,Sergio Gomez Martin,"acidofolico3,sulfatoferroso4",2025-10-31,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000097,elena garcia martinez,"rosuvastatina2,metformina2",2025-12-08,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000098,LAURA RODRIGUEZ RUIZ,"insulina2,glibenclamida3",2025-02-11,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000099,ALVARO LOPEZ HERNANDEZ,"rosuvastatina2,metformina2,losartan4",2025-06-06,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000100,SARA RODRIGUEZ MARTIN,vareniclina2,2025-10-01,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000101,DAVID RODRIGUEZ RUIZ,loratadina4,2025-03-21,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000102,LUCIA JIMENEZ DIAZ,atorvastatina1,2025-07-21,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000103,MANUEL SANCHEZ GARCIA,"vareniclina1,metformina3,bupropion1",2025-12-05,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000104,alvaro martin perez,"ibuprofeno4,paracetamol4",2025-02-06,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000105,irene sanchez,ibuprofeno2,2025-12-31,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000106,David Hernandez Martin,"atorvastatina2,rosuvastatina4",2025-02-24,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000107,lucia ruiz diaz,"metformina2,orlistat2",2025-10-17,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000108,Carmen Garcia Sanchez,"vareniclina2,bupropion2",2025-11-09,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000109,CLAUDIA MARTIN FERNANDEZ,losartan3,2025-03-23,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000110,NURIA GOMEZ GOMEZ,"orlistat1,metformina3",2025-02-07,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000111,J. MARTIN MARTIN,bupropion-2,2025-11-21,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000112,alvaro garcia sanchez,"atorvastatina2,rosuvastatina2",2025-07-01,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000113,Isabel Perez Jimenez,"enalapril4,amlodipino2,losartan1",2025-06-19,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000114,claudia gomez,"paracetamol1,omeprazol1",2025-08-30,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000115,CARMEN GARCIA RODRIGUEZ,"gabapentina1,omeprazol2,naproxeno4",2025-05-14,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000116,MIGUEL MARTIN GARCIA,"sulfatoferroso1,acidofolico4",2025-01-06,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000117,Lucia Sanchez Diaz,"glibenclamida1,insulina3,rosuvastatina4",2025-03-10,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000118,Alvaro Gomez Rodriguez,"acidofolico1,sulfatoferroso3",2025-07-12,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000119,David Perez Diaz,"orlistat1,metformina4",2025-09-28,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000120,sara ruiz ruiz,"vareniclina2,bupropion1",2025-11-04,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000121,ISABEL PEREZ MARTINEZ,"omeprazol1,levotiroxina3",2025-11-25,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000122,Claudia Perez Gomez,omeprazol1,2025-01-19,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000123,daniel roriguez lopez,"glibenclamida1,insulina4,metformina3",2025-08-17,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000124,miguel diaz lopez,"bupropion2,vareniclina2",2025-08-22,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000125,Pablo Garcia,"atorvastatina99,rosuvastatina4",2025-12-03,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000126,A. LOPEZ RODRIGUEZ,bupropion2,2025-06-06,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000127,daniel perez jimenez,"atorvastatina3,paracetamol120,omeprazol1",2025-12-21,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000128,ELENA GOMEZ SANCHEZ,"orlistat1,metformina2",2025-12-28,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000129,ALVARO JIMENEZ FERNANDEZ,"bupropion3,vareniclina1",2025-01-31,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000130,lucia grcia gomez,"omeprazol2,atorvastatina2",2025-06-04,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000131,laura ruiz martinez,"vareniclina3,bupropion1",2025-12-20,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000132,antonio rodriguez lopez,vareniclina4,2025-10-09,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000133,DAVID SANCHEZ HERNANDEZ,"acidofolico2,sulfatoferroso1",2025-10-30,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000134,elena hernandez martinez,"atorvastatina2,bupropion4",2025-09-30,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000135,david jimenez jimenez,"glibenclamida3,atorvastatina2,insulina2",2025-03-18,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000136,david gomez diaz,"naproxeno2,gabapentina2,pregabalina3",2025-02-19,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000137,SARA LOPEZ HERNANDEZ,atorvastatina4,2025-06-18,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000138,Pablo Rodriguez Gomez,"rosuvastatina2,orlistat3,metformina2",2025-08-04,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000139,RAFAEL LOPEZ RUIZ,"vareniclina1,bupropion4",2025-01-03,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000140,Rafael Martin Ruiz,"ibuprofeno2,paracetamol4,omeprazol2",2025-07-04,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000141,c. martin martinez,ibuprofeno1,2025-07-14,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000142,Rafael Diaz Jimenez,"metformina4,insulina4,glibenclamida3",2025-08-13,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000143,C. SANCHEZ JIMENEZ,omeprazol3,2025-02-23,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000144,ALEJANDRO MARTINEZ,"enalapril3,losartan2",2025-01-29,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000145,Alvaro Lopez Diaz,"metformina1,orlistat3",2025-09-22,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000146,sergio lopez hernandez,"loratadina1,ibuprofeno4,omeprazol3",2025-06-10,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000147,D. Sanchez Jimenez,vareniclina1,2025-12-14,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000148,alvaro sanchez fernandez,enalapril1,2025-08-11,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000149,s. garcia jimenez,"losartan1,atorvastatina1,amlodipino4",2025-09-21,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000150,Javier Rodriguez Lopez,"rosuvastatina3,amlodipino2",2025-03-20,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000151,Claudia Hernandez Sanchez,bupropion3,2025-05-17,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000152,C. GOMEZ MARTIN,"insulina1,rosuvastatina4",2025-07-06,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000153,carlos diaz rodriguez,"ibuprofeno4,paracetamol2",2025-03-28,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000154,p. lopez hernandez,"ketorolaco4,ibuprofeno1,paracetamol2",2025-01-09,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000155,ANTONIO MARTIN FERNANDEZ,"omeprazol4,paracetamol2",2025-04-30,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000156,nuria sanchez diaz,"amlodipino2,vareniclina1,bupropion1",2025-04-06,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000157,claudia ruiz martin,"atorvastatina2,enalapril2",2025-07-08,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000158,D. Martinez Rodriguez,"vareniclina1,sulfatoferroso4",2025-10-11,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000159,p. gomez martin,"insulina3,metformina1,glibenclamida2",2025-08-30,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000160,m. rodriguez gomez,"omeprazol2,insulina2,ibuprofeno4",2025-11-07,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000161,Lucia Martinez Gomez,ibuprofeno3,2025-06-14,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000162,ALVARO LOPEZ JIMENEZ,"sulfatoferroso4,acidofolico2",2025-01-14,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000163,CARLOS LOPEZ,"atorvastatina3,rosuvastatina3",2025-01-29,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000164,D. JIMENEZ HERNANDEZ,glibenclamida1,2025-02-01,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000165,Rafael Martinez Martinez,"amoxicilina1,ibuprofeno2",2025-05-15,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000166,Lucia Sanchez Hernandez,"atorvastatina1,vareniclina1,bupropion1",2025-05-28,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000167,JAVIER FERNANDEZ MARTIN,paracetamol3,2025-07-31,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000168,Javier Garcia Lopez,"metformina2,orlistat1",2025-03-13,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000169,Manuel Martin Jimenez,rosuvastatina2,2025-06-10,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000170,LUCIA FERNANDEZ GARCIA,"ibuprofeno2,levotiroxina4,omeprazol2",2025-12-25,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000171,carmen martin diaz,"paracetamol1,omeprazol2,ibuprofeno4",2025-05-28,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000172,Miguel Gomez Ruiz,paracetamol1,2025-07-28,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000173,manuel jimenez lopez,"sulfatoferroso3,acidofolico3",2025-05-09,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000174,Carlos Gomez Martin,"orlistat1,metformina2",2025-05-09,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000175,CARLOS GOMEZ MARTIN,"orlistat4,metformina3",2025-12-09,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000176,marta jimenez ruiz,"omeprazol3,ibuprofeno2,paracetamol1",2025-10-26,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000177,Irene Martin Perez,"gabapentina2,naproxeno2",2025-02-03,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000178,miguel garcia lopez,"amlodipino3,enalapril3",2025-08-26,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000179,Antonio Gomez Sanchez,rosuvastatina4,2025-09-27,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000180,RAFAEL RUZ MARTIN,"losartan2,paracetamol1",2025-07-13,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000181,MARTA LOPEZ GOMEZ,"amlodipino1,orlistat4,metformina3",2025-09-22,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000182,DANIEL DIAZ LOPEZ,bupropion3,2025-07-23,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000183,MIGUEL RODRIGUEZ GARCIA,"atorvastatina2,rosuvastatina2",2025-12-11,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000184,CLAUDIA MARTIN MARTINEZ,"levotiroxina3,metformina4",2025-01-01,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000185,carlos diaz fernandez,"glibenclamida1,losartan3,metformina1",2025-02-16,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000186,DAVID DAZ RODRIGUEZ,"paracetamol1,omeprazol2,ibuprofeno2",2025-11-24,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000187,Lucia Gomez Ruiz,orlistat4,2025-01-24,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000188,Isabel Martin Ruiz,"paracetamol4,ibuprofeno2,metformina1",2025-10-23,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000189,ALEJANDRO LOPZ GARCIA,"losartan1,enalapril1",2025-01-31,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000190,claudia garcia sanchez,"paracetamol3,ibuprofeno4",2025-07-18,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000191,maria martinez sanchez,pregabalina4,2025-06-04,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000192,claudia diaz fernandez,enalapril3,2025-08-20,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000193,MARTA RUIZ,"atorvastatina1,rosuvastatina4",2025-04-14,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000194,daniel hernandez hernandez,"omeprazol3,paracetamol4,ibuprofeno3",2025-08-31,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000195,ALVARO HERNANDEZ LOPEZ,"losartan2,enalapril2",2025-03-14,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000196,J. Gomez Lopez,amlodipino2,2025-07-10,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000197,Antonio Diaz,"ibuprofeno2,insulina3",2025-02-07,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000198,JAVIER RODRIGUEZ FERNANDEZ,"bupropion1,vareniclina3",2025-12-19,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000199,MIGUEL JIMENEZ PEREZ,"amoxicilina3,omeprazol1,diclofenaco1",2025-03-19,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000200,ALEJANDRO LOPEZ,insulina1,2025-03-03,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000201,Claudia Lopez,"atorvastatina3,rosuvastatina1",2025-02-05,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000202,alvaro hernandez perez,"orlistat3,metformina1,vareniclina2",2025-02-25,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000203,Laura Ruiz Jimenez,"atorvastatina0,rosuvastatina1",2025-09-22,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000204,ALVARO HERNANDEZ JIMENEZ,"bupropion1,vareniclina3",2025-12-21,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000205,paula diaz garcia,"omeprazol3,ibuprofeno4",2025-01-16,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000206,PAULA HERNANDEZ MARTINEZ,omeprazol4,2025-08-16,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000207,marta garcia jimenez,"vareniclina2,bupropion1",2025-04-13,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000208,Alejandro Ruiz Gomez,paracetamol4,2025-05-01,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000209,DANIEL LOPEZ SANCHEZ,"acidofolico3,sulfatoferroso3",2025-04-27,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000210,N. RUIZ LOPEZ,"glibenclamida4,insulina4",2025-12-07,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000211,Alvaro Garcia Ruiz,"sulfatoferroso3,enalapril1",2025-01-04,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000212,ALEJANDRO LOPEZ LOPEZ,paracetamol1,2025-07-26,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000213,maria sanchez fernandez,orlistat3,2025-02-16,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000214,Pablo Ruiz Ruiz,"glibenclamida1,metformina2",2025-12-01,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000215,JAVIER DIAZ GOMEZ,metformina4,2025-11-30,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000216,m. lopez jimenez,"vareniclina3,metformina1",2025-05-24,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000217,Rafael Fernandez Rodriguez,"atorvastatina3,rosuvastatina3",2025-02-10,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000218,irene jimenez jimenez,bupropion3,2025-10-05,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000219,i. gomez gomez,orlistat4,2025-01-28,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000220,irene gomez hernandez,"ibuprofeno1,omeprazol1",2025-04-29,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000221,CLAUDIA JIMENEZ PEREZ,"omeprazol2,ibuprofeno3,paracetamol3",2025-04-04,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000222,Alvaro Martin Sanchez,"bupropion2,acidofolico2,atorvastatina4",2025-03-02,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000223,Daniel Diaz Diaz,losartan1,2025-12-10,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000224,IRENE DIAZ HERNANDEZ,amlodipino4,2025-08-26,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000225,David Ruiz Martin,sulfatoferroso4,2025-04-10,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000226,carlos gomez gomez,"atorvastatina1,rosuvastatina4",2025-06-16,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000227,Elena Diaz Fernandez,omeprazol1,2025-01-28,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000228,PAULA GOMEZ LOPEZ,"vareniclina2,insulina3",2025-01-01,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000229,Nuria Hernandez Gomez,"bupropion3,insulina-1",2025-02-05,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000230,carlos garcia martin,vareniclina2,2025-02-22,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000231,Miguel Lopez Ruiz,"atorvastatina4,rosuvastatina1,sulfatoferroso3",2025-08-04,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000232,sergio rodriguez diaz,"vareniclina1,bupropion2",2025-03-20,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000233,MANUEL RODRIGUEZ PEREZ,"vareniclina2,bupropion4",2025-07-05,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000234,Miguel Martin Sanchez,"amlodipino4,enalapril1,losartan1",2025-05-29,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000235,alvaro diaz rodriguez,"omeprazol4,paracetamol1,ibuprofeno0",2025-03-04,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000236,Alvaro Hernandez Lopez,"losartan2,enalapril4",2025-09-26,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000237,irene fernandez fernandez,glibenclamida0,2025-08-06,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000238,Lucia Fernandez Jimenez,ketorolaco2,2025-07-28,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000239,Marta Lopez Ruiz,paracetamol1,2025-07-18,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000240,Maria Martin Fernandez,ibuprofeno3,2025-11-17,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000241,Antonio Perez Hernandez,vareniclina1,2025-10-04,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000242,ALVARO PEREZ GOMEZ,ibuprofeno4,2025-09-08,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000243,SERGIO GARCIA RODRIGUEZ,"omeprazol2,naproxeno4,gabapentina2",2025-10-12,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000244,claudia ruiz gomez,ketorolaco3,2025-12-11,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000245,PABLO GOMEZ RUIZ,acidofolico3,2025-03-15,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000246,manuel jimeez ruiz,loratadina4,2025-03-22,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000247,r. jimenez sanchez,"orlistat4,atorvastatina3",2025-02-02,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000248,ISABEL DIAZ RUIZ,paracetamol1,2025-10-21,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000249,SERGIO SANCHEZ JIMENEZ,"ibuprofeno2,paracetamol1,levotiroxina-1",2025-10-15,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000250,ALEJANDRO MARTINEZ RODRIGUEZ,"insulina1,glibenclamida2,metformina2",2025-11-11,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000251,MIGUEL MARTIN SANCHEZ,amlodipino1,2025-02-12,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000252,carlos sanchez martin,"losartan3,insulina4,rosuvastatina3",2025-07-15,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000253,Elena Fenandez Gomez,"vareniclina3,bupropion2",2025-03-23,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000254,MARTA FERNANDEZ MARTINEZ,"enalapril1,vareniclina1,losartan3",2025-01-13,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000255,PAULA FERNANDEZ MARTINEZ,"orlistat3,metformina1",2025-07-15,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000256,DAVID LOPEZ GARCIA,"vareniclina1,bupropion2",2025-07-17,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000257,carmen lopez ruiz,"amlodipino3,enalapril4,losartan1",2025-01-02,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000258,JAVIER GOMEZ LOPEZ,"omeprazol1,ibuprofeno1",2025-05-31,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000259,Carmen Jimenez Perez,"bupropion4,orlistat4",2025-03-25,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000260,D. Martin Diaz,"enalapril1,amlodipino2,losartan4",2025-02-20,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000261,Isabel Ruiz,"omeprazol4,ketorolaco1,paracetamol4",2025-04-10,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000262,Marta Garcia Sanchez,"rosuvastatina2,atorvastatina3",2025-07-26,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000263,NURIA HERNNDEZ GARCIA,"paracetamol3,omeprazol3",2025-04-24,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000264,Miguel Fernandez Hernandez,"omeprazol2,amlodipino4,paracetamol2",2025-04-22,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000265,irene perez ruiz,"losartan3,metformina4",2025-11-22,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000266,IRENE SANCHEZ RUIZ,"metformina1,orlistat1",2025-11-01,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000267,isabel jimenez ruiz,rosuvastatina4,2025-01-31,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000268,D. PEREZ DIAZ,orlistat4,2025-03-03,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000269,ANTONIO JIMENEZ PEREZ,paracetamol3,2025-04-05,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000270,antonio lopez rodriguez,atorvastatina4,2025-01-10,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000271,sergio martinez gomez,"rosuvastatina1,atorvastatina2",2025-07-29,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000272,R. FERNANDEZ FERNANDEZ,acidofolico3,2025-03-04,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000273,ANTONIO RUIZ PEREZ,"metformina4,glibenclamida2,insulina1",2025-06-29,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000274,DAVID GARCIA DIAZ,"amoxicilina2,diclofenaco2",2025-09-19,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000275,paula gomez garcia,atorvastatina1,2025-02-07,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000276,RAFAEL FERNANDEZ GOMEZ,omeprazol2,2025-01-08,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000277,Pablo Garcia Hernandez,"atorvastatina1,rosuvastatina3",2025-10-22,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000278,rafael martinez hernandez,"ibuprofeno2,ketorolaco2",2025-10-09,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000279,MARIA RODRIGUEZ DIAZ,"omeprazol2,ibuprofeno3,paracetamol2",2025-01-12,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000280,rafael gomez gomez,"ibuprofeno-1,paracetamol4,omeprazol2",2025-08-04,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000281,D. MARTINEZ MARTINEZ,"paracetamol3,ibuprofeno3",2025-10-21,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000282,D. MARTINEZ RUIZ,orlistat1,2025-09-01,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000283,nuria lopez perez,"atorvastatina3,rosuvastatina1",2025-10-06,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000284,MIGUEL MARTIN RUIZ,"atorvastatina2,rosuvastatina4",2025-06-18,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000285,David Ruiz,omeprazol4,2025-01-29,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000286,LAURA RODRIGUEZ GARCIA,"omeprazol4,ibuprofeno2,diclofenaco1",2025-12-25,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000287,marta lopez hernandez,orlistat1,2025-04-15,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000288,P. HERNANDEZ RUIZ,"metformina4,orlistat3",2025-01-11,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000289,Paula Diaz Fernandez,"orlistat2,metformina2",2025-06-16,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000290,David Perez Ruiz,"rosuvastatina1,atorvastatina4",2025-02-20,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000291,Sara Lopez Rodriguez,acidofolico3,2025-08-10,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000292,Nuria Gomez Sanchez,rosuvastatina2,2025-03-23,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000293,Maria Diaz Sanchez,paracetamol2,2025-08-16,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000294,DAVID FERNANDEZ MARTINEZ,"losartan4,amlodipino2",2025-05-15,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000295,manuel martin hernandez,vareniclina3,2025-08-02,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000296,daniel ruiz perez,"vareniclina1,acidofolico4,amlodipino3",2025-08-03,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000297,MANUEL SANCHEZ GARCIA,bupropion1,2025-09-14,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000298,lucia sanchez jimenez,"paracetamol4,ketorolaco3",2025-03-05,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000299,ALEJANDRO SANCEZ MARTINEZ,"paracetamol1,ibuprofeno2,omeprazol3",2025-02-11,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000300,L. Hernandez Fernandez,"sulfatoferroso1,acidofolico4",2025-07-20,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000301,nuria hernandez sanchez,"amlodipino2,atorvastatina3,losartan3",2025-12-14,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000302,elena gomez garcia,"orlistat3,metformina3",2025-04-06,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000303,pablo perez diaz,"paracetamol3,atorvastatina2",2025-11-09,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000304,CARMEN MARTINEZ,loratadina4,2025-01-16,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000305,Maria Rodriguez Diaz,"omeprazol3,paracetamol-2,ibuprofeno1",2025-08-29,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000306,CARLOS FERNANDEZ MARTINEZ,amlodipino3,2025-01-02,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000307,Rafael Ruiz Ruiz,amlodipino3,2025-01-11,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000308,isabel lopez fernandez,amlodipino3,2025-10-28,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000309,carlos garcia garcia,"amlodipino1,omeprazol1,losartan1",2025-12-29,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000310,sara rodriguez lopez,enalapril4,2025-09-11,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000311,DANIEL JIMENEZ MARTINEZ,"bupropion1,losartan4",2025-06-28,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000312,Antonio Ruiz Rodriguez,"vareniclina1,bupropion1",2025-07-28,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000313,rafael sanchez diaz,"atorvastatina4,amlodipino1",2025-08-07,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000314,sara hernandez jimenez,"losartan2,amlodipino4,paracetamol4",2025-02-10,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000315,Lucia Martinez Jimenez,losartan3,2025-06-20,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000316,ANTONIO RODRIGUEZ LOPEZ,glibenclamida4,2025-06-07,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000317,lucia fernandez martin,"metformina3,orlistat1",2025-07-12,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000318,Antonio Rodriguez Rodriguez,ibuprofeno1,2025-07-29,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000319,LUCIA RUIZ MARTINEZ,ibuprofeno4,2025-04-05,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000320,antonio rodriguez lopez,omeprazol4,2025-08-03,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000321,RAFAEL RUIZ GARCIA,"ibuprofeno3,amoxicilina3,paracetamol4",2025-03-27,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000322,Alejandro Hernandez Gomez,"enalapril4,amlodipino2,losartan3",2025-09-08,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000323,Alejandro Martin Fernandez,amlodipino4,2025-06-21,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000324,ISABEL LOPEZ PEREZ,omeprazol1,2025-04-10,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000325,Paula Ruiz Ruiz,enalapril4,2025-02-02,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000326,Sara Martin,"rosuvastatina1,atorvastatina4",2025-10-29,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000327,Antonio Sanchez Perez,"losartan1,amlodipino3,paracetamol4",2025-10-14,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000328,Rafael Martinez Martinez,omeprazol4,2025-09-26,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000329,RAFAEL PEREZ PEREZ,amoxicilina1,2025-08-09,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000330,Miguel Jimenez Ruiz,"ibuprofeno2,omeprazol2,loratadina4",2025-08-03,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000331,MIGUEL GOMEZ GOMEZ,"acidofolico2,metformina1,rosuvastatina4",2025-06-21,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000332,PAULA JIMENEZ LOPEZ,losartan1,2025-12-28,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000333,elena garcia gomez,ibuprofeno2,2025-10-05,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000334,LAURA GOMEZ GARCIA,"acidofolico2,sulfatoferroso1",2025-09-27,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000335,nuria gomez,"losartan2,omeprazol2",2025-09-26,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000336,S. Martinez Hernandez,atorvastatina3,2025-07-05,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000337,claudia mrtin fernandez,"sulfatoferroso4,acidofolico2",2025-01-22,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000338,RAFAEL RODRIGUEZ MARTIN,"paracetamol2,ibuprofeno2,ketorolaco3",2025-01-27,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000339,M. Ruiz Lopez,"omeprazol3,paracetamol2",2025-06-18,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000340,ISABEL GARCIA LOPEZ,bupropion1,2025-08-05,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000341,antonio fernandez lopez,"omeprazol4,paracetamol1,metformina2",2025-05-15,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000342,Laura Lopez Garcia,"sulfatoferroso3,acidofolico3",2025-04-05,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000343,Elena Ruiz Sanchez,enalapril4,2025-05-05,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000344,ELENA GOMEZ LOPEZ,"rosuvastatina3,sulfatoferroso1,bupropion1",2025-07-05,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000345,Sergio Sanchez Jimenez,"omeprazol3,paracetamol2,ibuprofeno2",2025-01-05,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000346,alejandro perez hernandez,rosuvastatina1,2025-08-16,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000347,sara martinez rodriguez,"omeprazol1,paracetamol3,insulina2",2025-07-07,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000348,marta martinez,"atorvastatina2,omeprazol3",2025-09-28,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000349,carlos diaz,"omeprazol4,paracetamol4,loratadina2",2025-07-04,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000350,Irene Sanchez Martin,"vareniclina0,enalapril4,bupropion2",2025-03-31,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000351,carlos gomez,rosuvastatina1,2025-09-16,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000352,Maria Garcia Fernandez,ibuprofeno0,2025-01-26,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000353,LAURA DIAZ PEREZ,sulfatoferroso1,2025-05-28,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000354,isabel ruiz martinez,amlodipino4,2025-08-17,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000355,Alvaro Lopez Rodriguez,"metformina4,orlistat4",2025-02-05,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000356,sergio garcia gomez,"vareniclina4,atorvastatina3,rosuvastatina3",2025-07-22,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000357,alvaro gomez rodriguez,"sulfatoferroso3,acidofolico1",2025-06-12,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000358,NURIA JIMENEZ RUIZ,"metformina4,rosuvastatina2",2025-04-12,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000359,manuel garcia ruiz,ibuprofeno1,2025-08-09,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000360,R. Martin Fernandez,"losartan2,enalapril3,amlodipino2",2025-03-28,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000361,JAVIER GOMEZ LOPEZ,sulfatoferroso4,2025-05-27,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000362,maria sanhez gomez,"bupropion2,vareniclina4",2025-07-22,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000363,SARA MARTIN FERNANDEZ,"metformina3,orlistat2",2025-06-04,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000364,MANUEL RUIZ GARCIA,"atorvastatina3,losartan1",2025-08-03,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000365,Javier Lopez Gomez,"atorvastatina2,rosuvastatina2",2025-08-09,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000366,Miguel Gomez Perez,"vareniclina4,bupropion1",2025-12-28,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000367,DAVID DIAZ SANCHEZ,"atorvastatina4,rosuvastatina4",2025-06-03,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000368,Rafael Lopez Ruiz,"bupropion3,vareniclina1",2025-10-02,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000369,ALEJANDRO MARTIN,"ibuprofeno2,paracetamol1,metformina2",2025-03-02,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000370,david fernandez gomez,"rosuvastatina2,atorvastatina120",2025-06-13,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000371,ALEJANDRO HERNANDEZ DIAZ,"paracetamol1,omeprazol2",2025-06-21,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000372,Paula Lopez Martin,"atorvastatina4,rosuvastatina4",2025-03-21,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000373,David Jimenez Martin,"enalapril3,atorvastatina3,losartan3",2025-10-03,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000374,LAURA LOPEZ DIAZ,"amlodipino4,enalapril3",2025-01-13,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000375,MARTA FERNANDEZ HERNANDEZ,omeprazol3,2025-06-24,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000376,MARTA LOPEZ FERNANDEZ,enalapril2,2025-08-29,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000377,david perez perez,"amlodipino3,atorvastatina2,omeprazol3",2025-05-26,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000378,ANTONIO PEREZ RUIZ,"rosuvastatina1,atorvastatina4",2025-04-28,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000379,elena rodriguez ruiz,omeprazol1,2025-01-24,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000380,Marta Garcia,"omeprazol2,paracetamol2",2025-01-27,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000381,nuria martinez gomez,"rosuvastatina2,atorvastatina1",2025-02-01,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000382,M. Diaz Lopez,"enalapril1,amlodipino2,rosuvastatina3",2025-12-08,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000383,david perez perez,omeprazol3,2025-11-04,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000384,SARA RUIZ PEREZ,"acidofolico1,sulfatoferroso2",2025-04-23,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000385,irene prez fernandez,"rosuvastatina3,enalapril2,amlodipino3",2025-01-24,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000386,Sergio Rodriguez Diaz,"vareniclina4,bupropion4",2025-07-30,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000387,ALVARO RUIZ,"losartan2,amlodipino1,enalapril3",2025-04-04,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000388,NURIA HERNANDEZ GARCIA,"ibuprofeno2,diclofenaco1",2025-07-19,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000389,Laura Sanchez Jimenez,atorvastatina1,2025-11-29,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000390,CLAUDIA HERNANDEZ SANCHEZ,"glibenclamida4,insulina2,metformina4",2025-11-28,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000391,D. RUIZ GARCIA,"enalapril1,atorvastatina2,losartan3",2025-06-19,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000392,maria perez diaz,"paracetamol2,omeprazol3,ibuprofeno4",2025-03-05,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000393,isabel sanchez jimenez,"losartan2,amlodipino2",2025-12-16,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000394,M. Gomez Lopez,ibuprofeno1,2025-04-19,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000395,manuel perez lopez,"omeprazol1,ibuprofeno2,paracetamol3",2025-04-30,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000396,Antonio Garcia Rodriguez,"amlodipino1,enalapril1",2025-03-29,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000397,CARMEN MARTIN,"paracetamol3,diclofenaco2",2025-11-01,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000398,R. Rodriguez Hernandez,paracetamol3,2025-03-18,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000399,sara hernandez ruiz,"bupropion1,vareniclina3",2025-11-27,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000400,Pablo Garcia Martin,"paracetamol3,ibuprofeno2",2025-08-25,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000401,CARLOS PEREZ HERNANDEZ,"paracetamol3,ibuprofeno3",2025-10-18,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000402,Antonio Diaz Garcia,"vareniclina2,bupropion2",2025-01-28,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000403,alvaro sanchez martinez,"amlodipino4,metformina3,insulina1",2025-12-02,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000404,c. garcia sanchez,levotiroxina3,2025-07-28,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000405,Pablo Hernandez Jimenez,atorvastatina4,2025-10-13,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000406,A. SANCHEZ MARTIN,bupropion4,2025-03-06,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000407,Daniel Martinez Fernandez,ibuprofeno1,2025-04-30,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000408,MARTA HERNANDEZ GARCIA,"glibenclamida2,amlodipino3",2025-05-25,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000409,Rafael Jimenez Lopez,"bupropion4,metformina3",2025-10-04,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000410,Antonio Lopez Rodriguez,atorvastatina4,2025-09-13,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000411,laura martin garcia,"omeprazol3,paracetamol2,ibuprofeno3",2025-02-14,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000412,JAVIER FERNANDEZ SANCHEZ,"ibuprofeno3,levotiroxina3,omeprazol1",2025-05-14,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000413,alejandro martinez garcia,"amlodipino4,losartan1,enalapril1",2025-02-28,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000414,laura sanchez perez,"bupropion2,vareniclina1",2025-08-23,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000415,javier gomez diaz,paracetamol4,2025-02-05,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000416,Pablo Diaz Gomez,"glibenclamida2,insulina2,metformina4",2025-07-14,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000417,Miguel Lopez Perez,"amlodipino2,enalapril3",2025-06-07,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000418,MANUEL LOPEZ MARTINEZ,"bupropion3,vareniclina4",2025-12-29,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000419,MARTA JIMENEZ GOMEZ,orlistat4,2025-09-05,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000420,CARLOS MARTIN FERNANDEZ,"vareniclina4,bupropion2",2025-04-04,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000421,nuria martin sanchez,"pregabalina1,omeprazol4",2025-02-17,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000422,M. Hernandez Sanchez,"vareniclina1,atorvastatina3",2025-11-02,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000423,carmen hernandez sanchez,"amlodipino2,ibuprofeno3,paracetamol4",2025-07-06,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000424,daniel rodriguez martin,ibuprofeno2,2025-04-22,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000425,sara lopez ruiz,paracetamol3,2025-12-29,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000426,Marta Ruiz,"paracetamol4,diclofenaco3,amoxicilina4",2025-03-21,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000427,Elena Hernandez Lopez,paracetamol2,2025-11-08,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000428,Antonio Fernandez Martin,"atorvastatina1,rosuvastatina4",2025-08-26,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000429,Irene Lopez Martinez,"rosuvastatina1,atorvastatina3",2025-08-05,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000430,laura hernandez rodriguez,atorvastatina4,2025-01-02,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000431,Claudia Hernandez Garcia,metformina2,2025-09-03,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000432,sergio ruiz,"atorvastatina1,rosuvastatina1",2025-04-16,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000433,ALEJANDRO MARTIN SANCHEZ,"amlodipino3,enalapril2,losartan2",2025-11-25,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000434,IRENE SANCHEZ GARCIA,ketorolaco1,2025-05-02,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000435,maria martinez diaz,orlistat4,2025-09-02,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000436,david garcia ruiz,ibuprofeno2,2025-01-28,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000437,alvaro perez lopez,"ibuprofeno4,paracetamol2",2025-01-05,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000438,Paula Martin Martin,"metformina4,omeprazol2",2025-09-08,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000439,ALEJANDRO MARTIN SANCHEZ,"amlodipino4,losartan4,enalapril4",2025-03-07,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000440,LUCIA LOPEZ,"orlistat1,bupropion3",2025-12-13,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000441,sergio garcia rodriguez,"pregabalina3,naproxeno1",2025-01-04,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000442,Isabel Diaz Perez,vareniclina4,2025-12-09,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000443,nuria gomez gomez,"metformina1,orlistat2",2025-01-11,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000444,Isabel Sanchez Ruiz,"ibuprofeno2,pregabalina3",2025-12-19,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000445,Daniel Hernndez Hernandez,atorvastatina4,2025-06-25,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000446,sara diaz rodriguez,"orlistat4,metformina3",2025-05-16,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000447,PABLO PEREZ MARTINEZ,"paracetamol3,naproxeno2",2025-11-29,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000448,paula jimenez fernandez,metformina4,2025-09-19,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000449,Pablo Sanchez Perez,"amoxicilina2,ibuprofeno1",2025-10-20,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000450,DAVID GARCIA PEREZ,"enalapril3,amlodipino2,losartan4",2025-09-25,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000451,Maria Gomez Martin,vareniclina4,2025-11-07,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000452,irene sanchez,"atorvastatina4,rosuvastatina3,orlistat2",2025-08-01,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000453,PAULA MARTIN FERNANDEZ,"bupropion3,vareniclina1",2025-08-19,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000454,carmen jimenez perez,acidofolico2,2025-01-08,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000455,CARLOS DIAZ DIAZ,metformina3,2025-05-03,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000456,ISABEL GOMEZ SANCHEZ,"ibuprofeno3,paracetamol1",2025-11-04,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000457,DANIEL LOPEZ MARTIN,"omeprazol3,ibuprofeno-2",2025-02-15,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000458,carlos rodriguez diaz,levotiroxina3,2025-04-08,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000459,manuel martinez lopez,amlodipino4,2025-09-28,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000460,antonio jimenez,"amlodipino4,enalapril4,losartan4",2025-07-07,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000461,Elena Ruiz Lopez,"amlodipino1,omeprazol3",2025-02-11,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000462,pablo sanchez rodriguez,"metformina3,glibenclamida2",2025-11-20,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000463,Elena Fernandez Gomez,vareniclina1,2025-02-27,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000464,daniel rodriguez jimenez,"metformina3,rosuvastatina1",2025-07-30,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000465,Alvaro Hernandez,bupropion2,2025-09-09,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000466,s. sanchez perez,"omeprazol120,ibuprofeno4,paracetamol4",2025-02-04,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000467,pablo jimenez fernandez,"ibuprofeno-2,omeprazol3",2025-02-21,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000468,Sergio Martinez,"ibuprofeno4,omeprazol1,paracetamol2",2025-08-07,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000469,manuel martin jimenez,paracetamol4,2025-09-10,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000470,Javier Diaz Ruiz,"bupropion3,amlodipino1,enalapril4",2025-07-13,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000471,Alejandro Perez Hernandez,atorvastatina2,2025-04-29,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000472,Carmen Hernndez Sanchez,"paracetamol1,amoxicilina3,ibuprofeno1",2025-12-25,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000473,rafael perez gomez,"sulfatoferroso1,acidofolico3",2025-09-30,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000474,ISABEL RODRIGUEZ RUIZ,"sulfatoferroso1,metformina4,orlistat1",2025-10-21,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000475,Paula Fernandez Martin,losartan2,2025-07-17,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000476,JAVIER LOPEZ MARTINEZ,"orlistat4,metformina3",2025-09-08,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000477,ALEJANDRO LOPEZ,"orlistat3,amlodipino3",2025-03-03,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000478,javier martin martin,"bupropion3,vareniclina2",2025-11-10,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000479,SARA GOMEZ GOMEZ,"atorvastatina1,paracetamol3,ibuprofeno2",2025-05-21,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000480,J. GOMEZ GOMEZ,"omeprazol4,paracetamol4",2025-12-05,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000481,David Rodriguez Jimenez,"paracetamol1,omeprazol1,ibuprofeno4",2025-05-25,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000482,CLAUDIA GOMEZ HERNANDEZ,paracetamol1,2025-01-13,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000483,javier sanchez diaz,"ibuprofeno3,paracetamol2,loratadina4",2025-08-19,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000484,antonio ruiz,"atorvastatina2,rosuvastatina4",2025-06-28,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000485,A. LOPEZ RUIZ,"metformina1,vareniclina4",2025-03-13,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000486,paula garcia diaz,ketorolaco4,2025-05-11,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000487,carmen garcia fernandez,diclofenaco4,2025-03-10,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000488,Irene Diaz Diaz,"diclofenaco3,omeprazol1",2025-06-17,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000489,Alvaro Lopez Martin,"atorvastatina4,metformina4,orlistat3",2025-10-30,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000490,irene gomez gomez,"losartan3,enalapril2",2025-01-09,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000491,SARA DIAZ RODRIGUEZ,"orlistat1,metformina2",2025-04-11,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000492,David Garcia Perez,"bupropion4,glibenclamida4,vareniclina3",2025-12-06,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000493,Lucia Perez Hernandez,orlistat1,2025-10-02,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000494,alejandro perez martin,"amoxicilina4,diclofenaco3,ibuprofeno2",2025-01-31,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000495,marta diaz perez,"ibuprofeno4,omeprazol2,paracetamol1",2025-08-18,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000496,daniel martin rodriguez,"vareniclina3,glibenclamida3,bupropion2",2025-01-05,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000497,Manuel Sanchez Martinez,"metformina1,glibenclamida1",2025-05-26,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000498,MARIA GARCIA PEREZ,"bupropion2,sulfatoferroso1,glibenclamida4",2025-06-04,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000499,MARTA RUIZ,paracetamol2,2025-09-07,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000500,sergio martin,losartan3,2025-07-24,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000501,Irene Jimenez Hernandez,vareniclina1,2025-06-08,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000502,paula perez fernandez,bupropion4,2025-08-30,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000503,C. RODRIGUEZ PEREZ,vareniclina2,2025-07-29,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000504,N. GARCIA MARTINEZ,"enalapril2,insulina1",2025-11-24,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000505,rafael ruiz ruiz,"amlodipino3,losartan2,enalapril1",2025-01-07,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000506,Pablo Garcia,rosuvastatina1,2025-08-19,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000507,ISABEL RUIZ JIMENEZ,"paracetamol4,ibuprofeno1,omeprazol4",2025-02-03,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000508,sergio rodriguez diaz,rosuvastatina2,2025-01-24,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000509,SERGIO DIAZ RODRIGUEZ,metformina2,2025-10-05,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000510,carmen garcia rodriguez,ibuprofeno1,2025-07-11,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000511,LAURA DIAZ PEREZ,"acidofolico1,sulfatoferroso3",2025-07-13,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000512,irene fernandez diaz,"atorvastatina3,rosuvastatina2",2025-10-21,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000513,Elena Rodriguez Martinez,amlodipino2,2025-06-16,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000514,Sara Perez Rodriguez,"atorvastatina3,rosuvastatina1",2025-06-28,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000515,CARLOS HERNANDEZ DIAZ,"ibuprofeno4,paracetamol4",2025-12-01,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000516,LUCIA LOPEZ JIMENEZ,"amlodipino3,losartan2,paracetamol2",2025-05-17,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000517,alejandro lopez ruiz,glibenclamida-1,2025-04-05,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000518,Nuria Gomez Gomez,"metformina1,insulina4,levotiroxina3",2025-08-30,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000519,antonio ruiz rodriguez,"bupropion3,vareniclina3",2025-05-11,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000520,SARA RODRIGUEZ MARTIN,"insulina2,metformina1,glibenclamida4",2025-01-09,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000521,CARLOS JIMENEZ,omeprazol1,2025-05-13,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000522,RAFAEL MARTIN GOMEZ,"atorvastatina2,rosuvastatina2",2025-05-17,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000523,c. gomez hernandez,rosuvastatina2,2025-08-01,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000524,DANIEL DIAZ RUIZ,rosuvastatina1,2025-05-17,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000525,Daniel Lopez Sanchez,sulfatoferroso4,2025-05-01,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000526,MANUEL RUIZ MARTIN,"omeprazol2,pregabalina1,ibuprofeno2",2025-09-07,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000527,j. sanchez diaz,"vareniclina1,bupropion4",2025-11-05,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000528,daniel garcia rodriguez,ibuprofeno1,2025-11-03,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000529,CARMEN PEREZ HERNANDEZ,"omeprazol2,amlodipino2,paracetamol1",2025-06-14,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000530,Carmen Jimenez Perez,sulfatoferroso1,2025-02-11,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000531,Maria Rodriuez Diaz,metformina2,2025-05-27,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000532,sara lopez jimenez,"metformina4,glibenclamida4,insulina3",2025-12-31,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000533,nuria lopez,omeprazol1,2025-01-20,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000534,Miguel Ruiz Fernandez,"bupropion4,vareniclina3",2025-07-07,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000535,ALEJANDRO SANCHEZ RODRIGUEZ,omeprazol3,2025-10-01,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000536,carmen gomez martinez,"rosuvastatina2,atorvastatina1",2025-01-04,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000537,isabel rodriguez diaz,ibuprofeno4,2025-04-01,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000538,Lucia Garcia Rodriguez,"vareniclina3,bupropion1,sulfatoferroso1",2025-01-03,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000539,ALVARO LOPEZ SANCHEZ,ibuprofeno1,2025-08-23,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000540,Manuel Gomez Jimenez,"ketorolaco3,paracetamol4,ibuprofeno3",2025-09-14,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000541,Sergio Sanchez Garcia,"bupropion4,vareniclina1",2025-11-07,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000542,Carlos Gomez Perez,"vareniclina2,bupropion1",2025-11-11,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000543,MANUEL GARCIA GARCIA,"ibuprofeno3,omeprazol2",2025-06-27,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000544,Miguel Sanchez Ruiz,metformina4,2025-04-26,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000545,Rafael Jimenez Martinez,rosuvastatina1,2025-03-05,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000546,m. lopez lopez,paracetamol3,2025-01-27,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000547,Maria Martin Fernandez,"ibuprofeno1,paracetamol3,omeprazol1",2025-01-18,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000548,daniel perez jimenez,omeprazol2,2025-06-01,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000549,Javier Perez Diaz,"paracetamol2,insulina3",2025-12-17,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000550,ELENA DIAZ HERNANDEZ,diclofenaco4,2025-07-04,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000551,ANTONIO RUIZ,"glibenclamida4,insulina2,metformina2",2025-08-09,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000552,daniel gomez martinez,"omeprazol4,ibuprofeno1,paracetamol1",2025-10-16,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000553,Manuel Fernandez Sanchez,metformina2,2025-01-28,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000554,pablo hernandez fernandez,"atorvastatina2,rosuvastatina3",2025-01-05,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000555,RAFAEL RUIZ GARCIA,"ibuprofeno1,naproxeno4",2025-07-14,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000556,Maria Perez Fernandez,enalapril1,2025-07-11,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000557,claudia ruiz martin,atorvastatina2,2025-08-08,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000558,Paula Gomez Lopez,insulina3,2025-02-13,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000559,paula garcia,ibuprofeno3,2025-07-03,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000560,carmen garcia fernandez,enalapril2,2025-03-14,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000561,rafael jimenez martinez,"atorvastatina1,rosuvastatina4",2025-08-15,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000562,A. Diaz Sanchez,acidofolico1,2025-10-25,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000563,CARMEN JIMENEZ RODRIGUEZ,metformina2,2025-07-13,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000564,sergio lopez gomez,"atorvastatina2,rosuvastatina2",2025-01-27,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000565,javier sanchez fernandez,"paracetamol4,gabapentina3",2025-07-13,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000566,claudia hernandez hernandez,"paracetamol2,loratadina3",2025-01-11,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000567,alvaro diaz rodriguez,omeprazol2,2025-08-30,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000568,nuria hernandez gomez,"insulina2,glibenclamida1",2025-02-03,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000569,daniel lopez rodriguez,bupropion2,2025-05-04,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000570,MARTA RODRIGUEZ,"vareniclina2,rosuvastatina1",2025-09-15,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000571,MARTA SANCHEZ GARCIA,"levotiroxina3,paracetamol3,metformina2",2025-05-08,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000572,lucia gomez fernandez,"orlistat2,metformina4",2025-12-11,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000573,M. Sanchez Ruiz,amlodipino3,2025-04-11,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000574,PAULA JIMENEZ LOPEZ,"enalapril4,losartan3",2025-09-13,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000575,Marta Gomez Rodriguez,"orlistat2,metformina4",2025-01-14,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000576,M. MARTINEZ MARTINEZ,"insulina3,metformina3,omeprazol1",2025-06-10,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000577,CLAUDIA GARCIA SANCHEZ,"vareniclina3,bupropion1,rosuvastatina2",2025-10-04,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000578,Elena Garcia Perez,"glibenclamida4,metformina1,sulfatoferroso1",2025-05-30,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000579,C. RODRIGUEZ RODRIGUEZ,"atorvastatina3,omeprazol3,amlodipino2",2025-06-08,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000580,ALVARO GARCIA JIMENEZ,"acidofolico1,sulfatoferroso2",2025-07-12,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000581,Elena Garcia Martinez,omeprazol3,2025-06-28,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000582,IRENE MARTINEZ RUIZ,glibenclamida1,2025-08-07,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000583,I. GARCIA MARTIN,"enalapril4,amlodipino3,losartan1",2025-04-22,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000584,carlos perez garcia,paracetamol4,2025-03-30,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000585,alejandro perez diaz,paracetamol4,2025-06-03,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000586,rafael diaz martinez,"bupropion4,enalapril0,amlodipino2",2025-08-08,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000587,Alejandro Ruiz Ruiz,"gabapentina3,omeprazol3,naproxeno4",2025-02-07,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000588,Pablo Jimenez Lopez,vareniclina2,2025-08-05,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000589,ANTONIO MARTINEZ SANCHEZ,bupropion4,2025-10-09,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000590,Pablo Gomez Garcia,"vareniclina99,atorvastatina-2",2025-05-03,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000591,Claudia Martin Fernandez,"acidofolico0,sulfatoferroso3",2025-03-04,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000592,PAULA HERNANDEZ SANCHEZ,atorvastatina3,2025-01-08,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000593,daniel lopez rodriguez,vareniclina2,2025-01-01,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000594,CARMEN MARTINEZ JIMENEZ,"paracetamol4,omeprazol4",2025-08-26,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000595,L. MARTIN RUIZ,enalapril3,2025-07-18,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000596,javier rodriguez martin,rosuvastatina1,2025-10-03,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000597,Marta Hernandez Rodriguez,metformina3,2025-09-12,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000598,isabel garcia diaz,ibuprofeno1,2025-06-15,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000599,A. Rodriguez Diaz,"paracetamol4,metformina3,ibuprofeno1",2025-08-17,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000600,ISABEL RUIZ GOMEZ,metformina2,2025-01-04,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000601,MANUEL LOPEZ HERNANDEZ,bupropion3,2025-11-21,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000602,Marta Martinez Gomez,"metformina4,orlistat1",2025-08-17,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000603,C. HERNANDEZ SANCHEZ,losartan4,2025-08-19,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000604,isabel martin fernandez,"rosuvastatina2,atorvastatina4",2025-12-05,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000605,M. Jimenez Ruiz,"omeprazol3,insulina120",2025-02-15,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000606,ALEJANDRO GARCIA GOMEZ,"orlistat2,metformina2",2025-10-24,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000607,NURIA RUIZ PEREZ,"ibuprofeno2,paracetamol1",2025-06-24,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000608,CARLOS MARTIN,"omeprazol3,atorvastatina1,losartan3",2025-07-02,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000609,nuria hernandez jimenez,ibuprofeno4,2025-01-01,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000610,Irene Gomez Perez,"omeprazol4,losartan3",2025-07-16,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000611,Miguel Rodriguez Hernandez,"metformina1,orlistat4,amlodipino2",2025-09-03,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000612,alvaro garcia martin,"paracetamol3,ibuprofeno2,omeprazol1",2025-10-10,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000613,RAFAEL RODRIGUEZ GOMEZ,acidofolico2,2025-01-02,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000614,DANIEL GOMEZ LOPEZ,"vareniclina2,bupropion4",2025-06-04,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000615,antonio perez hernandez,ibuprofeno1,2025-05-24,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000616,N. PEREZ DIAZ,"orlistat1,atorvastatina4,rosuvastatina4",2025-12-28,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000617,DANIEL LOPEZ SANCHEZ,"sulfatoferroso2,acidofolico2",2025-01-13,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000618,Maria Ruiz Sanchez,"omeprazol4,atorvastatina1,paracetamol2",2025-10-14,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000619,rafael jimenez garcia,"atorvastatina2,rosuvastatina4",2025-09-25,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000620,David Hernandez Hernandez,"orlistat1,glibenclamida4,metformina4",2025-03-07,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000621,CARMEN GOMEZ HERNANDEZ,"metformina4,ibuprofeno4,omeprazol4",2025-06-04,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000622,J. Fernandez Sanchez,ketorolaco2,2025-03-10,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000623,LAURA MARTINEZ RODRIGUEZ,"atorvastatina2,rosuvastatina1",2025-10-08,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000624,carlos garcia lopez,"enalapril4,amlodipino3,losartan4",2025-10-03,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000625,PABLO MARTIN GARCIA,"diclofenaco1,amoxicilina1,paracetamol4",2025-01-23,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000626,lucia jimenez gomez,"ibuprofeno3,paracetamol1,gabapentina1",2025-07-01,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000627,Antonio Sanchez Perez,"glibenclamida3,orlistat2,metformina-2",2025-11-23,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000628,isabel jimenez martin,amlodipino2,2025-05-22,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000629,MARTA GARCIA DIAZ,"orlistat2,metformina4",2025-07-21,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000630,Claudia Rodriguez,"rosuvastatina4,atorvastatina99",2025-03-29,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000631,Isabel Garcia Garcia,paracetamol2,2025-07-12,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000632,CLAUDIA HERNANDEZ LOPEZ,"ibuprofeno1,paracetamol3",2025-04-20,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000633,laura lopez sanchez,rosuvastatina2,2025-11-03,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000634,DANIEL MARTINEZ GARCIA,"paracetamol2,ketorolaco3",2025-01-27,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000635,L. Jimenez Perez,omeprazol4,2025-10-11,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000636,elena rodriguez martin,"ketorolaco2,omeprazol2,paracetamol1",2025-09-05,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000637,Sara Perez,"orlistat4,losartan2",2025-01-04,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000638,CARLOS MARTINEZ RODRIGUEZ,"metformina2,acidofolico4,sulfatoferroso1",2025-08-24,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000639,David Lopez Jimenez,"vareniclina2,bupropion2",2025-02-07,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000640,MARTA DIAZ GARCIA,"rosuvastatina4,insulina3,atorvastatina2",2025-06-18,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000641,SERGIO HERNANDEZ MARTINEZ,"amlodipino1,enalapril1,rosuvastatina1",2025-07-12,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000642,maria diaz gomez,paracetamol1,2025-01-07,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000643,CLAUDIA GARCIA SANCHEZ,"rosuvastatina3,atorvastatina2",2025-03-12,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000644,RAFAEL FERNANDEZ,"paracetamol4,omeprazol3",2025-07-01,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000645,Elena Martin Diaz,"losartan4,amlodipino2,enalapril1",2025-06-15,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000646,Irene Martinez Perez,pregabalina4,2025-01-29,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000647,carlos diaz perez,metformina4,2025-07-08,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000648,marta fernandez garcia,omeprazol2,2025-02-07,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000649,manuel jimenez gomez,"atorvastatina2,losartan3",2025-09-05,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000650,maria rodriguez sanchez,"ibuprofeno3,ketorolaco1,omeprazol4",2025-04-16,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000651,David Fernandez Ruiz,"enalapril1,amlodipino1,losartan1",2025-02-23,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000652,C. Sanchez Fernandez,amlodipino1,2025-01-07,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000653,javier perez martinez,"glibenclamida1,vareniclina4",2025-09-26,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000654,nuria hernandez sanchez,losartan2,2025-03-16,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000655,alejandro hernandez diaz,vareniclina1,2025-06-27,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000656,D. Lopez Diaz,insulina3,2025-12-26,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000657,Miguel Hernandez Perez,enalapril1,2025-05-22,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000658,SERGIO HERNANDEZ DIAZ,"vareniclina2,bupropion1",2025-03-22,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000659,alvaro lopez hernandez,"metformina3,glibenclamida3",2025-12-09,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000660,laura perez ruiz,vareniclina1,2025-05-09,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000661,PAULA RUIZ MARTIN,"atorvastatina1,rosuvastatina1",2025-08-18,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000662,rafael lopez perez,glibenclamida1,2025-05-23,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000663,ISABEL SANCHEZ RODRIGUEZ,"metformina1,orlistat120",2025-08-03,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000664,NURIA FERNANDEZ DIAZ,"paracetamol3,ibuprofeno1",2025-04-08,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000665,Rafael Diaz Martinez,"bupropion3,losartan4",2025-04-22,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000666,irene garcia martinez,"acidofolico1,sulfatoferroso2",2025-06-04,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000667,sara diaz ruiz,"rosuvastatina4,sulfatoferroso4",2025-08-04,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000668,manuel sanchez,"atorvastatina2,rosuvastatina2",2025-03-20,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000669,Javier Lopez Martinez,"orlistat1,metformina2",2025-01-12,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000670,carlos lopez lopez,"glibenclamida3,insulina3",2025-03-30,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000671,sergio martinez perez,"ibuprofeno2,paracetamol2,omeprazol1",2025-05-22,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000672,pablo perez rodriguez,"rosuvastatina3,atorvastatina3",2025-11-24,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000673,alejandro gomez perez,"amlodipino4,omeprazol2,atorvastatina1",2025-06-21,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000674,alejandro diaz garcia,metformina2,2025-01-23,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000675,javier gomez gomez,atorvastatina2,2025-03-27,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000676,Paula Martin Fernandez,paracetamol3,2025-05-28,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000677,laura diaz martinez,"ibuprofeno2,paracetamol1,omeprazol1",2025-07-27,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000678,MARTA LOPEZ JIMENEZ,"atorvastatina4,rosuvastatina3",2025-02-26,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000679,carlos jimenez diaz,"vareniclina2,bupropion1",2025-11-21,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000680,MIGUEL LOPEZ,enalapril1,2025-01-28,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000681,CLAUDIA RODRIGUEZ DIAZ,"rosuvastatina2,atorvastatina4",2025-06-27,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000682,MARIA RUIZ SANCHEZ,"bupropion1,vareniclina3",2025-10-20,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000683,Daniel Perez Perez,metformina3,2025-09-20,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000684,David Lopez Ruiz,losartan2,2025-03-19,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000685,LAURA FERNANDEZ RODRIGUEZ,levotiroxina4,2025-02-16,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000686,lucia ruiz hernandez,"enalapril4,losartan2,amlodipino4",2025-06-19,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000687,p. lopez lopez,ibuprofeno3,2025-02-28,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000688,SARA GOMEZ GARCIA,"ketorolaco2,omeprazol4",2025-08-03,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000689,Elena Hernandez Martinez,"atorvastatina3,vareniclina3,rosuvastatina3",2025-06-24,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000690,isabel martin martin,"ibuprofeno2,paracetamol4,omeprazol3",2025-09-29,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000691,miguel martinez sanchez,acidofolico1,2025-09-30,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000692,R. GOMEZ GARCIA,bupropion1,2025-01-19,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000693,nuria diaz rodriguez,paracetamol4,2025-11-19,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000694,elena garcia diaz,"vareniclina1,bupropion2",2025-10-18,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000695,ISABEL GARCIA DIAZ,ibuprofeno1,2025-03-15,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000696,Javier Gmez Diaz,"omeprazol4,amlodipino4,atorvastatina1",2025-07-04,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000697,DANIEL MARTINEZ RUIZ,metformina2,2025-04-08,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000698,Alvaro Fernandez Rodriguez,"ibuprofeno3,paracetamol2,ketorolaco1",2025-03-12,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000699,MIGUEL RODRIGUEZ GOMEZ,"enalapril1,amlodipino3",2025-02-12,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000700,carmen fernandez fernandez,"levotiroxina2,insulina3,paracetamol1",2025-08-08,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000701,PABLO SANCHEZ HERNANDEZ,ibuprofeno1,2025-08-08,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000702,MANUEL SANCHEZ LOPEZ,paracetamol4,2025-01-01,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000703,Sergio Perez Sanchez,enalapril1,2025-06-03,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000704,ALVARO LOPEZ,"orlistat2,metformina2",2025-11-11,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000705,PAULA LOPEZ RODRIGUEZ,"enalapril1,amlodipino1,losartan3",2025-10-18,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000706,manuel diaz martinez,"omeprazol2,amoxicilina4,paracetamol2",2025-04-19,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000707,Nuria Rodriguez Rodriguez,"insulina3,glibenclamida4,metformina1",2025-11-23,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000708,NURIA RODRIGUEZ,omeprazol3,2025-08-07,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000709,alejandro hernandez diaz,"glibenclamida3,insulina4",2025-09-05,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000710,Sergio Garcia Perez,paracetamol2,2025-12-13,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000711,RAFAEL DIAZ RODRIGUEZ,"metformina4,rosuvastatina4",2025-07-24,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000712,PABLO FERNANDEZ MARTINEZ,vareniclina3,2025-03-10,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000713,carmen hernandez jimenez,"amlodipino1,omeprazol4,ibuprofeno3",2025-12-09,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000714,sara ruiz rodriguez,"vareniclina3,bupropion1",2025-11-17,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000715,PABLO SANCHEZ GARCIA,ibuprofeno4,2025-02-09,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000716,CLAUDIA HERNANDEZ RODRIGUEZ,enalapril4,2025-12-03,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000717,IRENE MARTIN PEREZ,"vareniclina1,bupropion3",2025-06-03,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000718,Paula Hernandez Martin,"bupropion-1,vareniclina4",2025-11-22,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000719,ALVARO GARCIA SANCHEZ,"losartan1,amlodipino1",2025-09-23,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000720,carlos hernandez diaz,atorvastatina1,2025-11-27,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000721,a. sanchez martin,vareniclina4,2025-12-07,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000722,RAFAEL JIMENEZ DIAZ,metformina2,2025-04-08,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000723,PAULA DIAZ JIMENEZ,"vareniclina1,bupropion2",2025-09-06,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000724,Nuria Hernandez Ruiz,"metformina3,losartan2",2025-08-11,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000725,DANIEL HERNANDEZ HERNANDEZ,ibuprofeno2,2025-04-11,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000726,paula martin lopez,"rosuvastatina4,insulina3",2025-09-30,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000727,Irene Lopez Sanchez,"metformina4,orlistat3",2025-05-09,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000728,antonio diaz martinez,"ibuprofeno2,paracetamol4,atorvastatina-1",2025-03-14,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000729,irene lopez martin,losartan3,2025-06-30,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000730,Marta Diaz,"omeprazol1,ketorolaco3,paracetamol1",2025-11-04,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000731,e. martinez sanchez,"paracetamol2,ibuprofeno1,loratadina3",2025-08-25,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000732,ALEJANDRO RODRIGUEZ MARTINEZ,bupropion4,2025-01-16,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000733,DANIEL HERNANDEZ HERNANDEZ,metformina1,2025-07-12,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000734,Maria Diaz Perez,diclofenaco3,2025-04-01,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000735,elena martinez ruiz,metformina2,2025-09-18,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000736,Pablo Garcia,"atorvastatina1,rosuvastatina3",2025-11-02,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000737,LAURA JIMENEZ RUIZ,vareniclina1,2025-09-06,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000738,Alvaro Martinez Fernandez,"omeprazol1,paracetamol3,ibuprofeno2",2025-01-14,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000739,LAURA SANCHEZ GARCIA,omeprazol4,2025-08-20,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000740,carmen garcia garcia,"vareniclina2,atorvastatina2",2025-06-16,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000741,antonio ruiz hernandez,ibuprofeno2,2025-12-29,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000742,DANIEL MARTIN GARCIA,"omeprazol1,insulina3",2025-06-07,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000743,Carlos Sanchez Diaz,"rosuvastatina3,atorvastatina4",2025-02-12,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000744,Pablo Martin,"metformina1,orlistat4",2025-01-15,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000745,NURIA RUIZ MARTIN,"ibuprofeno4,amlodipino4",2025-08-30,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000746,Laura Rodriguez Ruiz,vareniclina4,2025-07-05,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000747,antonio hernandez rodriguez,"paracetamol3,omeprazol2",2025-09-24,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000748,claudia sanchez gomez,"vareniclina3,atorvastatina3,losartan1",2025-02-04,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000749,Carlos Martin Perez,"ibuprofeno4,paracetamol3,ketorolaco4",2025-01-26,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000750,MANUEL DIAZ LOPEZ,"atorvastatina2,rosuvastatina2",2025-10-15,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000751,IRENE PEREZ RUIZ,"omeprazol1,losartan1,paracetamol4",2025-07-03,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000752,Lucia Lopez Hernandez,"metformina1,losartan2",2025-07-10,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000753,Miguel Gomz Sanchez,"paracetamol4,ibuprofeno4",2025-11-18,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000754,Rafael Jimenez Diaz,"metformina3,glibenclamida2,insulina4",2025-07-12,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000755,Claudia Lopez Martin,"bupropion3,vareniclina3",2025-05-21,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000756,MARTA GOMEZ MARTINEZ,bupropion3,2025-02-10,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000757,SARA LOPEZ RUIZ,"losartan4,atorvastatina3",2025-08-10,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000758,nuria perez sanchez,"bupropion4,vareniclina1",2025-09-23,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000759,L. JIMENEZ RUIZ,atorvastatina3,2025-08-08,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000760,Sara Hernandez Fernandez,"metformina2,glibenclamida1",2025-12-09,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000761,javier jimenez lopez,vareniclina3,2025-05-28,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000762,sergio diaz fernandez,"paracetamol1,omeprazol2,ketorolaco1",2025-03-23,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000763,MANUEL HERNANDEZ PEREZ,"orlistat1,atorvastatina1,amlodipino4",2025-12-25,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000764,Marta Ruiz Sanchez,"bupropion1,rosuvastatina1,vareniclina0",2025-01-20,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000765,Carmen Perez Jimenez,"amlodipino4,enalapril1",2025-03-11,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000766,paula lopez lopez,vareniclina-2,2025-03-22,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000767,Daniel Sanchez Hernandez,"paracetamol4,ibuprofeno3",2025-09-24,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000768,MANUEL JIMEEZ LOPEZ,"sulfatoferroso3,acidofolico4",2025-06-23,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000769,Elena Fernandez Jimenez,enalapril3,2025-09-02,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000770,irene perez lopez,paracetamol4,2025-02-14,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000771,Miguel Lopez Lopez,atorvastatina1,2025-07-31,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000772,SERGIO FERNANDEZ FERNANDEZ,"rosuvastatina4,vareniclina3,atorvastatina1",2025-02-15,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000773,Isabel Rodriguez Hernandez,"losartan1,amlodipino3,enalapril4",2025-05-07,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000774,Pablo Perez Martin,omeprazol1,2025-03-07,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000775,NURIA DIAZ RODRIGUEZ,"ibuprofeno3,paracetamol3,omeprazol3",2025-11-08,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000776,SARA MARTIN,"bupropion2,vareniclina1",2025-11-30,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000777,R. Fernandez Lopez,"insulina3,orlistat2,bupropion4",2025-01-29,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000778,M. Sanchez Fernandez,"ketorolaco2,ibuprofeno3,omeprazol1",2025-04-13,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000779,RAFAEL JIMENEZ MARTINEZ,rosuvastatina4,2025-10-20,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000780,MARTA JIMENEZ,vareniclina2,2025-03-18,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000781,JAVIER RODRIGUEZ GOMEZ,bupropion3,2025-05-30,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000782,david jimenez martin,rosuvastatina2,2025-10-22,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000783,antonio ruiz ruiz,ibuprofeno1,2025-02-08,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000784,manuel ruiz lopez,rosuvastatina3,2025-05-26,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000785,DANIEL RUIZ FERNANDEZ,omeprazol4,2025-06-18,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000786,l. fernandez garcia,"losartan3,enalapril3",2025-12-30,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000787,MIGUEL PEREZ GARCIA,"ibuprofeno4,omeprazol4",2025-08-08,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000788,rafael fernandez garcia,insulina3,2025-04-04,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000789,Antonio Perez Martin,"ibuprofeno2,omeprazol4",2025-06-30,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000790,I. PEREZ GOMEZ,"vareniclina2,bupropion3",2025-12-24,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000791,alvaro ruiz,"paracetamol1,losartan2",2025-01-26,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000792,antonio perez hernandez,diclofenaco4,2025-06-08,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000793,nuria hernandez,"ibuprofeno4,omeprazol1,paracetamol2",2025-11-29,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000794,Irene Martin Fernandez,"ketorolaco2,ibuprofeno2",2025-12-09,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000795,marta lopez fernandez,"enalapril4,losartan1",2025-10-18,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000796,PAULA MARTIN MARTIN,"omeprazol1,losartan3,ibuprofeno2",2025-02-22,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000797,pablo jimenez lopez,"glibenclamida3,insulina4",2025-09-21,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000798,miguel fernandez,orlistat1,2025-04-27,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000799,carlos lopez fernandez,metformina4,2025-07-21,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000800,Carmen Jienez Jimenez,vareniclina1,2025-03-05,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000801,I. SANCHEZ LOPEZ,amlodipino3,2025-02-20,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000802,m. lopez garcia,"gabapentina1,pregabalina4,omeprazol3",2025-12-21,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000803,ANTONIO PEREZ RUIZ,"rosuvastatina3,atorvastatina3",2025-05-18,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000804,MANUEL MARTINEZ RUIZ,"amoxicilina4,ibuprofeno2,diclofenaco3",2025-01-15,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000805,NURIA SANCHEZ FERNANDEZ,rosuvastatina4,2025-09-23,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000806,elena gomez garcia,rosuvastatina3,2025-04-11,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000807,marta gomez martin,"bupropion1,vareniclina1",2025-03-21,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000808,Alvaro Martinez Fernandez,rosuvastatina2,2025-08-10,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000809,ANTONIO FERNANEZ DIAZ,"rosuvastatina3,atorvastatina2",2025-10-27,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000810,Miguel Gomez Sanchez,"atorvastatina3,rosuvastatina-2",2025-05-07,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000811,Claudia Loez Garcia,losartan3,2025-12-13,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000812,David Martinez,insulina1,2025-08-01,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000813,Sergio Perez Garcia,"losartan2,amlodipino3,enalapril3",2025-10-20,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000814,Claudia Ruiz Hernandez,"rosuvastatina3,orlistat4,atorvastatina3",2025-06-03,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000815,DANIEL LOPEZ MARTINEZ,omeprazol3,2025-01-20,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000816,rafael ruiz diaz,"omeprazol1,amlodipino4",2025-04-18,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000817,CARMEN GOMEZ RODRIGUEZ,"acidofolico0,metformina1",2025-08-18,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000818,CARMEN GARCIA JIMENEZ,"metformina1,orlistat3",2025-02-18,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000819,Laura Ruiz Jimenez,atorvastatina1,2025-05-18,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000820,LAURA RUIZ PEREZ,"paracetamol1,atorvastatina3",2025-12-28,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000821,Javier Diaz Ruiz,"losartan1,amlodipino1,enalapril1",2025-04-18,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000822,DAVID GARCIA PEREZ,"insulina1,glibenclamida2",2025-03-25,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000823,laura rodriguez ruiz,"vareniclina3,bupropion4",2025-06-10,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000824,laura rodriguez martinez,"diclofenaco3,paracetamol2",2025-10-13,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000825,claudia gomez martin,"glibenclamida3,atorvastatina3,insulina4",2025-08-28,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000826,david sanchez fernandez,"omeprazol1,amoxicilina4",2025-09-29,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000827,CARLOS MARTINEZ RODRIGUEZ,omeprazol3,2025-10-03,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000828,ISABEL PEREZ LOPEZ,bupropion1,2025-06-02,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000829,Alejandro Sanchez Diaz,"amlodipino3,atorvastatina1",2025-05-31,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000830,Daniel Martin Martin,"omeprazol4,paracetamol1,gabapentina2",2025-01-17,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000831,Sergio Ruiz Fernandez,"omeprazol1,amoxicilina1",2025-07-03,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000832,Elena Martin Lopez,metformina4,2025-09-06,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000833,carlos sanchez rodriguez,omeprazol4,2025-05-03,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000834,CARMEN RUIZ RODRIGUEZ,"insulina2,glibenclamida4,metformina4",2025-08-24,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000835,carlos lpez lopez,atorvastatina2,2025-11-25,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000836,ALVARO RODRIGUEZ DIAZ,"vareniclina4,bupropion3",2025-07-11,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000837,DAVID MARTIN GARCIA,metformina3,2025-03-31,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000838,PAULA LOPEZ LOPEZ,rosuvastatina2,2025-08-28,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000839,DAVID RODRIGUEZ MARTINEZ,"enalapril3,insulina2",2025-10-25,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000840,MANUEL JIMENEZ PEREZ,"diclofenaco1,ibuprofeno3",2025-09-12,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000841,alvaro martinez lopez,ibuprofeno3,2025-06-15,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000842,CARMEN DIAZ,amoxicilina4,2025-06-05,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000843,A. Gomez Garcia,"insulina2,glibenclamida1,vareniclina2",2025-09-10,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000844,Marta Garcia Diaz,"bupropion1,vareniclina3",2025-03-23,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000845,PAULA FERNANDEZ SANCHEZ,"ibuprofeno1,atorvastatina3,omeprazol3",2025-12-11,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000846,Miguel Martin Garcia,acidofolico2,2025-03-14,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000847,LUCIA SANCHEZ,"amlodipino4,enalapril4",2025-07-08,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000848,alvaro sanchez martin,"vareniclina2,bupropion3",2025-12-22,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000849,daniel jimenez diaz,"sulfatoferroso2,orlistat1",2025-04-10,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000850,nuria sanchez garcia,"orlistat2,metformina2",2025-04-11,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000851,LAURA DIAZ MARTINEZ,"orlistat2,glibenclamida3,insulina1",2025-04-01,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000852,LAURA GOMEZ JIMENEZ,"insulina4,paracetamol2",2025-02-28,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000853,N. HERNANDEZ JIMENEZ,metformina4,2025-03-13,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000854,DAVID PEREZ RUIZ,"rosuvastatina3,atorvastatina4",2025-11-28,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000855,j. diaz ruiz,"amlodipino2,bupropion2,losartan2",2025-10-19,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000856,Elena Hernandez Rodriguez,"atorvastatina4,rosuvastatina3,vareniclina3",2025-02-12,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000857,SERGIO MARTINEZ RODRIGUEZ,"paracetamol2,atorvastatina4",2025-08-03,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000858,MIGUEL RODRIGUEZ MARTINEZ,"atorvastatina2,rosuvastatina3",2025-12-18,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000859,CLAUDIA GOMEZ GOMEZ,"amlodipino1,losartan2",2025-02-19,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000860,antonio jimenez martin,"paracetamol3,levotiroxina4,omeprazol3",2025-06-05,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000861,SARA RODRIGUEZ LOPEZ,acidofolico2,2025-01-13,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000862,MANUEL RODRIGUEZ JIMENEZ,ibuprofeno1,2025-08-17,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000863,d. martin hernandez,paracetamol2,2025-05-15,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000864,CARMEN MARTINEZ PEREZ,"metformina2,orlistat3",2025-10-02,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000865,Paula Martinez Gomez,"rosuvastatina4,atorvastatina2",2025-02-15,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000866,sergio rodriguez perez,"omeprazol3,ibuprofeno2",2025-06-26,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000867,javier martin hernandez,"omeprazol2,insulina1",2025-07-27,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000868,Sara Garcia Hernandez,paracetamol2,2025-04-10,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000869,CARMEN SANCHEZ,atorvastatina2,2025-09-02,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000870,Antonio Garcia Hernandez,"paracetamol2,omeprazol1",2025-01-24,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000871,CLAUDIA DIAZ FERNANDEZ,"insulina1,glibenclamida1,amlodipino4",2025-07-22,Dr. Pablo Lopez,Hospital Central Espana
-FARM_ESP_2025_000872,alvaro hernandez martinez,"ibuprofeno3,paracetamol4",2025-03-29,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000873,ANTONIO DIAZ GOMEZ,"gabapentina4,omeprazol3",2025-04-18,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000874,DANIEL PEREZ GARCIA,atorvastatina1,2025-09-05,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000875,Manuel Hernandez Martinez,"omeprazol2,paracetamol4,ibuprofeno4",2025-05-01,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000876,carmen martin jimenez,"acidofolico4,sulfatoferroso3",2025-11-05,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000877,MARTA PEREZ FERNANDEZ,enalapril1,2025-02-17,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000878,antonio martin gomez,"insulina4,levotiroxina3",2025-02-08,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000879,LAURA DIAZ MARTINEZ,"insulina2,metformina2,orlistat4",2025-04-30,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000880,pablo martin gomez,"atorvastatina1,rosuvastatina2",2025-10-08,Dra. Marta Sanchez,Hospital Central Espana
-FARM_ESP_2025_000881,SERGIO PEREZ RODRIGUEZ,"omeprazol2,ketorolaco1",2025-08-04,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000882,Alvaro Sanchez Ruiz,vareniclina0,2025-06-11,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000883,p. hernandez martinez,ketorolaco3,2025-11-11,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000884,s. hernandez ruiz,"bupropion3,vareniclina2",2025-08-01,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000885,MARTA RODRIGUEZ,ibuprofeno1,2025-09-10,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000886,Carmen Grcia Ruiz,"insulina4,metformina2,glibenclamida4",2025-08-05,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000887,ISABEL DIAZ MARTINEZ,orlistat2,2025-03-24,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000888,Daniel Rodriguez Fernandez,"paracetamol3,metformina3",2025-02-15,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000889,marta ruiz perez,atorvastatina2,2025-05-17,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000890,Pablo Martin Lopez,paracetamol2,2025-04-24,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000891,sergio gomez,"metformina1,glibenclamida2",2025-03-04,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000892,Carlos Fernandez Jimenez,"glibenclamida1,metformina2,insulina3",2025-05-08,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000893,Lucia Ruiz,"vareniclina4,bupropion1,acidofolico2",2025-04-03,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000894,marta jimenez gomez,"vareniclina3,orlistat4,metformina3",2025-11-17,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000895,Marta Martinez Rodriguez,"glibenclamida3,metformina1,insulina4",2025-03-28,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000896,irene gomez martinez,orlistat4,2025-10-22,Dra. Lucia Garcia,Centro Medico Barcelona
-FARM_ESP_2025_000897,m. perez lopez,"ibuprofeno1,paracetamol3",2025-03-23,Dr. Javier Fernandez,Hospital Central Espana
-FARM_ESP_2025_000898,Marta Jimenez Martinez,"ibuprofeno2,paracetamol1",2025-05-05,Dra. Marta Sanchez,Clinica Madrid Norte
-FARM_ESP_2025_000899,Alejandro Lopez Rodriguez,"atorvastatina4,rosuvastatina3",2025-07-02,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000900,MIGUEL MARTINEZ FERNANDEZ,omeprazol2,2025-10-21,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000901,PAULA JIMENEZ RUIZ,metformina1,2025-09-03,Dr. Pablo Lopez,Clinica Madrid Norte
-FARM_ESP_2025_000902,antonio fernandez,"atorvastatina2,rosuvastatina3",2025-08-05,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000903,Rafael Jimenez Perez,"paracetamol4,ibuprofeno1",2025-12-10,Dra. Carmen Martin,Centro Medico Barcelona
-FARM_ESP_2025_000904,ANTONIO JIMENEZ GARCIA,"glibenclamida2,metformina2",2025-08-17,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000905,Lucia Gomez,"vareniclina4,bupropion2",2025-10-31,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000906,pablo lopez garcia,"orlistat4,metformina2",2025-08-24,Dra. Lucia Garcia,Clinica Madrid Norte
-FARM_ESP_2025_000907,Miguel Gomez Fernandez,losartan3,2025-03-18,Dra. Lucia Garcia,Hospital Central Espana
-FARM_ESP_2025_000908,david garcia perez,amlodipino2,2025-02-24,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000909,Irene Perez Garcia,"losartan3,amlodipino4,enalapril4",2025-10-07,Dr. Pablo Lopez,Centro Medico Barcelona
-FARM_ESP_2025_000910,Alvaro Sanchez Sanchez,orlistat1,2025-10-22,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000911,ALVARO PERZ LOPEZ,"ibuprofeno2,atorvastatina1,amlodipino2",2025-03-21,Dra. Carmen Martin,Clinica Madrid Norte
-FARM_ESP_2025_000912,SERGIO GARCIA PEREZ,"omeprazol1,paracetamol4",2025-04-12,Dr. Javier Fernandez,Clinica Madrid Norte
-FARM_ESP_2025_000913,MARTA RUIZ LOPEZ,"paracetamol2,omeprazol3,gabapentina2",2025-07-25,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000914,Sergio Sanchez Hernandez,"orlistat3,metformina4",2025-11-30,Dra. Carmen Martin,Hospital Central Espana
-FARM_ESP_2025_000915,pablo martinez,sulfatoferroso4,2025-04-09,Dra. Marta Sanchez,Centro Medico Barcelona
-FARM_ESP_2025_000916,claudia rodriguez fernandez,"insulina2,atorvastatina2",2025-12-11,Dr. Javier Fernandez,Centro Medico Barcelona
-FARM_ESP_2025_000917,marta fernandez lopez,"orlistat3,metformina3",2025-04-13,Dra. Lucia Garcia,Hospital Central Espana
+id_farmacia,nombre_completo,medicamentos_unidades,fecha_prescripcion,sucursal
+FARM_ESP_2025_000001,irene jimenez fernandez,"levotiroxina1,metformina1,ibuprofeno2",2025-11-24,Centro Medico Barcelona
+FARM_ESP_2025_000002,Marta Lopez Jimenez,rosuvastatina120,2025-06-16,Clinica Madrid Norte
+FARM_ESP_2025_000003,miguel gomez ruiz,"ibuprofeno4,omeprazol1",2025-09-29,Hospital Central Espana
+FARM_ESP_2025_000004,CARLOS SANCHEZ DIAZ,"acidofolico2,sulfatoferroso2",2025-07-17,Centro Medico Barcelona
+FARM_ESP_2025_000005,claudia gomez fernandez,"paracetamol1,omeprazol1,ibuprofeno3",2025-08-07,Hospital Central Espana
+FARM_ESP_2025_000006,Isabel Lopez Sanchez,"vareniclina1,bupropion1",2025-05-21,Centro Medico Barcelona
+FARM_ESP_2025_000007,Carlos Rodriguez Martin,omeprazol2,2025-02-16,Centro Medico Barcelona
+FARM_ESP_2025_000008,IRENE LOPEZ LOPEZ,"metformina1,orlistat4",2025-09-13,Centro Medico Barcelona
+FARM_ESP_2025_000009,pablo sanchez jimenez,"atorvastatina4,rosuvastatina2",2025-08-03,Clinica Madrid Norte
+FARM_ESP_2025_000010,Irene Hernandez Rodriguez,naproxeno4,2025-01-19,Hospital Central Espana
+FARM_ESP_2025_000011,PAULA LOPEZ RUIZ,"bupropion4,vareniclina2,rosuvastatina1",2025-07-02,Clinica Madrid Norte
+FARM_ESP_2025_000012,MARTA RUIZ RODRIGUEZ,"rosuvastatina2,atorvastatina4",2025-04-19,Clinica Madrid Norte
+FARM_ESP_2025_000013,M. Martinez Lopez,"ibuprofeno3,paracetamol4,omeprazol4",2025-05-17,Hospital Central Espana
+FARM_ESP_2025_000014,PAULA JIMENEZ GARCIA,paracetamol3,2025-12-21,Centro Medico Barcelona
+FARM_ESP_2025_000015,ANTONIO PEREZ,"atorvastatina3,rosuvastatina1",2025-10-07,Clinica Madrid Norte
+FARM_ESP_2025_000016,sergio perez diaz,ibuprofeno2,2025-09-19,Centro Medico Barcelona
+FARM_ESP_2025_000017,antonio ruiz rodriguez,"bupropion3,vareniclina4",2025-12-17,Clinica Madrid Norte
+FARM_ESP_2025_000018,sara fernandez hernandez,"enalapril2,losartan1,amlodipino2",2025-07-10,Centro Medico Barcelona
+FARM_ESP_2025_000019,DANIEL LOPEZ GARCIA,"bupropion4,vareniclina1",2025-07-29,Clinica Madrid Norte
+FARM_ESP_2025_000020,L. DIAZ MARTIN,"amoxicilina4,omeprazol2",2025-10-16,Hospital Central Espana
+FARM_ESP_2025_000021,Miguel Martin Hernandez,losartan1,2025-12-27,Clinica Madrid Norte
+FARM_ESP_2025_000022,P. DIAZ LOPEZ,"vareniclina3,bupropion3",2025-08-12,Clinica Madrid Norte
+FARM_ESP_2025_000023,MANUEL SANCHEZ LOPEZ,"paracetamol4,omeprazol0,ibuprofeno4",2025-10-09,Centro Medico Barcelona
+FARM_ESP_2025_000024,claudia lopez lopez,"paracetamol4,ibuprofeno2",2025-10-03,Clinica Madrid Norte
+FARM_ESP_2025_000025,SARA HERNANDEZ JIMENEZ,omeprazol3,2025-10-27,Clinica Madrid Norte
+FARM_ESP_2025_000026,CARLOS PEREZ,"omeprazol3,ibuprofeno-1",2025-02-07,Hospital Central Espana
+FARM_ESP_2025_000027,Miguel Diaz Garcia,losartan3,2025-02-25,Clinica Madrid Norte
+FARM_ESP_2025_000028,J. Ruiz Jimenez,"losartan3,enalapril1,rosuvastatina1",2025-08-07,Hospital Central Espana
+FARM_ESP_2025_000029,PAULA HERNANDEZ RUIZ,metformina4,2025-11-06,Clinica Madrid Norte
+FARM_ESP_2025_000030,DAVID JIMENEZ JIMENEZ,"atorvastatina4,insulina4",2025-12-19,Hospital Central Espana
+FARM_ESP_2025_000031,marta martinez hernandez,"orlistat2,metformina1",2025-07-06,Centro Medico Barcelona
+FARM_ESP_2025_000032,MANUEL MARTINEZ JIMENEZ,"losartan2,ibuprofeno3,paracetamol4",2025-04-16,Hospital Central Espana
+FARM_ESP_2025_000033,Isabel Perez Jimenez,"losartan4,enalapril3,amlodipino2",2025-06-06,Clinica Madrid Norte
+FARM_ESP_2025_000034,isabel hernandez gomez,"naproxeno1,ibuprofeno1,paracetamol2",2025-07-10,Centro Medico Barcelona
+FARM_ESP_2025_000035,NURIA LOPEZ FERNANDEZ,"losartan2,enalapril2",2025-07-15,Clinica Madrid Norte
+FARM_ESP_2025_000036,S. SANCHEZ PEREZ,"omeprazol4,amoxicilina1",2025-04-11,Hospital Central Espana
+FARM_ESP_2025_000037,PAULA RUIZ RODRIGUEZ,ibuprofeno1,2025-08-11,Hospital Central Espana
+FARM_ESP_2025_000038,alejandro lopez lopez,paracetamol2,2025-05-24,Centro Medico Barcelona
+FARM_ESP_2025_000039,L. Rodriguez Rodriguez,"omeprazol3,paracetamol4,ibuprofeno1",2025-07-22,Clinica Madrid Norte
+FARM_ESP_2025_000040,claudia perez martinez,amlodipino4,2025-08-08,Clinica Madrid Norte
+FARM_ESP_2025_000041,Marta Lopez Martin,"ketorolaco1,ibuprofeno2,paracetamol4",2025-10-24,Hospital Central Espana
+FARM_ESP_2025_000042,Miguel Rodriguz Hernandez,"atorvastatina2,rosuvastatina2",2025-02-04,Hospital Central Espana
+FARM_ESP_2025_000043,Pablo Rodriguez Garcia,"bupropion1,vareniclina3",2025-06-06,Clinica Madrid Norte
+FARM_ESP_2025_000044,PABLO GOMEZ RODRIGUEZ,ibuprofeno1,2025-08-02,Centro Medico Barcelona
+FARM_ESP_2025_000045,Miguel Garcia Jimenez,"atorvastatina2,rosuvastatina2",2025-07-16,Centro Medico Barcelona
+FARM_ESP_2025_000046,alejandro garcia gomez,atorvastatina2,2025-07-15,Hospital Central Espana
+FARM_ESP_2025_000047,irene sanchez hernandez,"vareniclina2,bupropion1",2025-12-18,Centro Medico Barcelona
+FARM_ESP_2025_000048,daniel fernandez sanchez,"omeprazol1,paracetamol3",2025-01-06,Hospital Central Espana
+FARM_ESP_2025_000049,I. DIAZ MARTINEZ,"amoxicilina4,ibuprofeno4",2025-08-12,Clinica Madrid Norte
+FARM_ESP_2025_000050,Lucia Sanchez Hernandez,"bupropion4,rosuvastatina1",2025-06-23,Clinica Madrid Norte
+FARM_ESP_2025_000051,SERGIO FERNANDEZ GOMEZ,"orlistat1,metformina2,rosuvastatina1",2025-08-18,Clinica Madrid Norte
+FARM_ESP_2025_000052,DAVID JIMENEZ GOMEZ,"bupropion4,vareniclina1",2025-12-25,Clinica Madrid Norte
+FARM_ESP_2025_000053,isabel jimenez garcia,"acidofolico1,atorvastatina2",2025-03-12,Hospital Central Espana
+FARM_ESP_2025_000054,rafael ruiz martin,"ibuprofeno4,omeprazol2",2025-04-13,Hospital Central Espana
+FARM_ESP_2025_000055,Maria Sanchez,orlistat3,2025-02-01,Clinica Madrid Norte
+FARM_ESP_2025_000056,Lucia Ruiz Garcia,"insulina1,metformina120,vareniclina2",2025-03-03,Centro Medico Barcelona
+FARM_ESP_2025_000057,javier rodriguez diaz,insulina4,2025-04-14,Hospital Central Espana
+FARM_ESP_2025_000058,Manuel Fernandez Sanchez,"vareniclina1,bupropion2",2025-04-03,Clinica Madrid Norte
+FARM_ESP_2025_000059,LUCIA HERNANDEZ HERNANDEZ,metformina3,2025-03-13,Clinica Madrid Norte
+FARM_ESP_2025_000060,sara lopez fernandez,loratadina4,2025-07-27,Centro Medico Barcelona
+FARM_ESP_2025_000061,PABLO PEREZ MARTIN,paracetamol4,2025-09-20,Clinica Madrid Norte
+FARM_ESP_2025_000062,miguel fernandez fernandez,"bupropion1,vareniclina2",2025-11-13,Centro Medico Barcelona
+FARM_ESP_2025_000063,CLAUDIA RODRIGUEZ DIAZ,"rosuvastatina1,atorvastatina4",2025-07-20,Hospital Central Espana
+FARM_ESP_2025_000064,Alvaro Perez Diaz,vareniclina4,2025-02-14,Centro Medico Barcelona
+FARM_ESP_2025_000065,Isabel Lopez Fernandez,"atorvastatina4,rosuvastatina3",2025-11-14,Clinica Madrid Norte
+FARM_ESP_2025_000066,ISABEL DIAZ MARTINEZ,"vareniclina4,rosuvastatina1",2025-11-24,Clinica Madrid Norte
+FARM_ESP_2025_000067,C. HERNANDEZ GOMEZ,"paracetamol3,metformina1,insulina3",2025-12-19,Clinica Madrid Norte
+FARM_ESP_2025_000068,DANIEL GARCIA RODRIGUEZ,ibuprofeno2,2025-02-10,Hospital Central Espana
+FARM_ESP_2025_000069,pablo jimenez fernandez,"amoxicilina1,paracetamol2",2025-02-19,Hospital Central Espana
+FARM_ESP_2025_000070,elena rodriguez hernandez,bupropion4,2025-01-13,Hospital Central Espana
+FARM_ESP_2025_000071,carlos sanchez diaz,"atorvastatina4,rosuvastatina4",2025-01-02,Hospital Central Espana
+FARM_ESP_2025_000072,Sara Sanchez Martin,"atorvastatina4,rosuvastatina2",2025-01-21,Hospital Central Espana
+FARM_ESP_2025_000073,marta perez garcia,"metformina1,orlistat1",2025-09-18,Hospital Central Espana
+FARM_ESP_2025_000074,maria gomez martinez,"diclofenaco4,ibuprofeno2",2025-04-13,Hospital Central Espana
+FARM_ESP_2025_000075,IRENE PEREZ LOPEZ,"insulina4,paracetamol4,metformina4",2025-11-10,Centro Medico Barcelona
+FARM_ESP_2025_000076,laura gomez martin,amlodipino4,2025-01-27,Clinica Madrid Norte
+FARM_ESP_2025_000077,Carlos Diaz Lopez,"rosuvastatina2,atorvastatina1",2025-01-29,Hospital Central Espana
+FARM_ESP_2025_000078,ALVARO GOMEZ HERNANDEZ,"ketorolaco4,paracetamol3",2025-10-30,Clinica Madrid Norte
+FARM_ESP_2025_000079,m. diaz garcia,"glibenclamida2,metformina1,atorvastatina3",2025-09-17,Hospital Central Espana
+FARM_ESP_2025_000080,Isabel Martin Ruiz,ibuprofeno2,2025-01-17,Hospital Central Espana
+FARM_ESP_2025_000081,CARLOS HERNANDEZ JIMENEZ,rosuvastatina2,2025-10-20,Clinica Madrid Norte
+FARM_ESP_2025_000082,maria lopez perez,"vareniclina4,bupropion4",2025-11-07,Centro Medico Barcelona
+FARM_ESP_2025_000083,DAVID MARTINEZ JIMENEZ,"glibenclamida4,insulina3,metformina1",2025-05-04,Hospital Central Espana
+FARM_ESP_2025_000084,LUCIA FERNANDEZ JIMENEZ,metformina1,2025-11-20,Hospital Central Espana
+FARM_ESP_2025_000085,isabel garcia garcia,levotiroxina3,2025-01-16,Clinica Madrid Norte
+FARM_ESP_2025_000086,miguel garcia garcia,"metformina4,amlodipino4",2025-04-22,Hospital Central Espana
+FARM_ESP_2025_000087,laura martinez rodriguez,"atorvastatina4,rosuvastatina4",2025-11-01,Centro Medico Barcelona
+FARM_ESP_2025_000088,Alejandro Ruiz Gomez,amlodipino4,2025-05-11,Clinica Madrid Norte
+FARM_ESP_2025_000089,ELENA GARCIA MARTINEZ,rosuvastatina2,2025-12-08,Hospital Central Espana
+FARM_ESP_2025_000090,javier fernandez rodriguez,atorvastatina2,2025-06-16,Hospital Central Espana
+FARM_ESP_2025_000091,manuel martin jimenez,paracetamol2,2025-01-12,Hospital Central Espana
+FARM_ESP_2025_000092,Daniel Garcia Gomez,"enalapril1,losartan4",2025-10-17,Hospital Central Espana
+FARM_ESP_2025_000093,laura rodriguez ruiz,vareniclina2,2025-02-11,Centro Medico Barcelona
+FARM_ESP_2025_000094,MARTA DIAZ FERNANDEZ,insulina4,2025-02-22,Clinica Madrid Norte
+FARM_ESP_2025_000095,ALVARO LOPEZ HERNANDEZ,"orlistat3,enalapril4,amlodipino1",2025-06-06,Clinica Madrid Norte
+FARM_ESP_2025_000096,sara rodriguez martin,"enalapril3,amlodipino3,bupropion1",2025-10-01,Clinica Madrid Norte
+FARM_ESP_2025_000097,Manuel Sanchez Garcia,"insulina2,glibenclamida2,metformina4",2025-12-05,Clinica Madrid Norte
+FARM_ESP_2025_000098,Maria Ruiz Jimenez,omeprazol3,2025-02-13,Centro Medico Barcelona
+FARM_ESP_2025_000099,Rafael Martinez Hernandez,"paracetamol4,ibuprofeno2",2025-02-11,Centro Medico Barcelona
+FARM_ESP_2025_000100,LUCIA RUIZ DIAZ,"metformina2,orlistat1,vareniclina2",2025-10-17,Clinica Madrid Norte
+FARM_ESP_2025_000101,NURIA GOMEZ GOMEZ,"orlistat4,metformina2",2025-02-07,Clinica Madrid Norte
+FARM_ESP_2025_000102,alvaro garcia sanchez,"rosuvastatina4,atorvastatina2",2025-07-01,Hospital Central Espana
+FARM_ESP_2025_000103,CLAUDIA GOMEZ,paracetamol2,2025-08-30,Clinica Madrid Norte
+FARM_ESP_2025_000104,miguel martin garcia,"acidofolico2,sulfatoferroso1",2025-01-06,Clinica Madrid Norte
+FARM_ESP_2025_000105,isabel perez martinez,"metformina1,ibuprofeno4",2025-11-25,Centro Medico Barcelona
+FARM_ESP_2025_000106,carlos perz sanchez,"amoxicilina2,omeprazol3",2025-12-28,Clinica Madrid Norte
+FARM_ESP_2025_000107,daniel roriguez lopez,"glibenclamida2,metformina3",2025-08-17,Hospital Central Espana
+FARM_ESP_2025_000108,MIGUEL DIAZ LOPEZ,"bupropion4,vareniclina2",2025-08-22,Clinica Madrid Norte
+FARM_ESP_2025_000109,marta jimenez diaz,"ketorolaco3,paracetamol1",2025-11-25,Clinica Madrid Norte
+FARM_ESP_2025_000110,Daniel Perez Jimenez,losartan2,2025-12-21,Centro Medico Barcelona
+FARM_ESP_2025_000111,Lucia Grcia Gomez,"ibuprofeno2,amlodipino1",2025-06-04,Hospital Central Espana
+FARM_ESP_2025_000112,LAURA RUIZ MARTINEZ,"bupropion3,vareniclina1",2025-12-20,Centro Medico Barcelona
+FARM_ESP_2025_000113,DAVID SANCHEZ HERNANDEZ,acidofolico3,2025-10-30,Clinica Madrid Norte
+FARM_ESP_2025_000114,David Fernandez Fernandez,"losartan4,glibenclamida3",2025-06-07,Hospital Central Espana
+FARM_ESP_2025_000115,SARA RODRIGUEZ SANCHEZ,omeprazol4,2025-11-04,Centro Medico Barcelona
+FARM_ESP_2025_000116,IRENE FERNANDEZ DIAZ,"rosuvastatina4,atorvastatina2",2025-11-27,Centro Medico Barcelona
+FARM_ESP_2025_000117,pablo rodriguez gomez,"metformina2,rosuvastatina4",2025-08-04,Centro Medico Barcelona
+FARM_ESP_2025_000118,rafael lopez ruiz,"vareniclina3,bupropion2",2025-01-03,Centro Medico Barcelona
+FARM_ESP_2025_000119,RAFAEL MARTIN RUIZ,"omeprazol2,paracetamol4,ibuprofeno3",2025-07-04,Hospital Central Espana
+FARM_ESP_2025_000120,C. Martin Martinez,naproxeno2,2025-07-14,Hospital Central Espana
+FARM_ESP_2025_000121,miguel sanchez,"amlodipino2,losartan1,enalapril1",2025-11-08,Hospital Central Espana
+FARM_ESP_2025_000122,Alejandro Martinez,amlodipino2,2025-01-29,Clinica Madrid Norte
+FARM_ESP_2025_000123,ISABEL PEREZ LOPEZ,"bupropion2,vareniclina4",2025-11-14,Hospital Central Espana
+FARM_ESP_2025_000124,MARTA SANCHEZ RUIZ,vareniclina4,2025-09-10,Clinica Madrid Norte
+FARM_ESP_2025_000125,D. SANCHEZ JIMENEZ,"vareniclina1,bupropion2",2025-12-14,Centro Medico Barcelona
+FARM_ESP_2025_000126,carlos gomez martinez,"insulina2,glibenclamida4",2025-04-13,Hospital Central Espana
+FARM_ESP_2025_000127,JAVIER RODRIGUEZ LOPEZ,"vareniclina3,rosuvastatina4,losartan4",2025-03-20,Centro Medico Barcelona
+FARM_ESP_2025_000128,s. garcia perez,paracetamol4,2025-09-01,Hospital Central Espana
+FARM_ESP_2025_000129,maria lopez perez,bupropion2,2025-11-26,Clinica Madrid Norte
+FARM_ESP_2025_000130,MARIA HERNANDEZ,"insulina3,metformina3",2025-11-11,Centro Medico Barcelona
+FARM_ESP_2025_000131,CLAUDIA HERNANDEZ SANCHEZ,"bupropion2,vareniclina4",2025-05-17,Centro Medico Barcelona
+FARM_ESP_2025_000132,LAURA GARCIA GARCIA,"atorvastatina4,rosuvastatina1",2025-11-10,Hospital Central Espana
+FARM_ESP_2025_000133,PAULA RUIZ HERNANDEZ,metformina2,2025-06-30,Clinica Madrid Norte
+FARM_ESP_2025_000134,Paula Fernandez Garcia,ibuprofeno2,2025-07-04,Clinica Madrid Norte
+FARM_ESP_2025_000135,D. Martinez Rodriguez,"metformina1,insulina4",2025-10-11,Centro Medico Barcelona
+FARM_ESP_2025_000136,P. GOMEZ MARTIN,"enalapril2,metformina2,amlodipino4",2025-08-30,Hospital Central Espana
+FARM_ESP_2025_000137,IRENE MARTIN PEREZ,vareniclina2,2025-03-05,Centro Medico Barcelona
+FARM_ESP_2025_000138,M. RODRIGUEZ GOMEZ,"paracetamol3,ibuprofeno2,omeprazol3",2025-11-07,Hospital Central Espana
+FARM_ESP_2025_000139,PABLO DIAZ JIMENEZ,"rosuvastatina3,atorvastatina2",2025-12-09,Hospital Central Espana
+FARM_ESP_2025_000140,elena perez martin,"rosuvastatina3,atorvastatina4",2025-10-26,Clinica Madrid Norte
+FARM_ESP_2025_000141,Alvaro Lopez Jimenez,"acidofolico1,sulfatoferroso2",2025-01-14,Clinica Madrid Norte
+FARM_ESP_2025_000142,CARLOS LOPEZ,"atorvastatina4,rosuvastatina2",2025-01-29,Hospital Central Espana
+FARM_ESP_2025_000143,claudia hernandez sanchez,"bupropion1,vareniclina4",2025-02-26,Clinica Madrid Norte
+FARM_ESP_2025_000144,ALEJANDRO LOPEZ RODRIGUEZ,"losartan3,atorvastatina3",2025-01-06,Centro Medico Barcelona
+FARM_ESP_2025_000145,a. martin martin,"paracetamol4,omeprazol2",2025-09-13,Centro Medico Barcelona
+FARM_ESP_2025_000146,Carmen Sanchez Jimenez,"omeprazol1,paracetamol4",2025-12-01,Hospital Central Espana
+FARM_ESP_2025_000147,RAFAEL MARTINEZ MARTINEZ,"diclofenaco4,omeprazol2,paracetamol1",2025-05-15,Centro Medico Barcelona
+FARM_ESP_2025_000148,lucia sanchez hernandez,"rosuvastatina4,atorvastatina4",2025-01-20,Clinica Madrid Norte
+FARM_ESP_2025_000149,paula martin fernandez,vareniclina3,2025-02-08,Clinica Madrid Norte
+FARM_ESP_2025_000150,Lucia Jimenez Gomez,atorvastatina4,2025-03-11,Hospital Central Espana
+FARM_ESP_2025_000151,SARA SANCHEZ PEREZ,"paracetamol2,ibuprofeno1",2025-06-18,Centro Medico Barcelona
+FARM_ESP_2025_000152,paula hernandez perez,bupropion3,2025-11-06,Clinica Madrid Norte
+FARM_ESP_2025_000153,LUCIA FERNANDEZ GARCIA,"metformina2,ibuprofeno1",2025-12-25,Centro Medico Barcelona
+FARM_ESP_2025_000154,miguel gomez ruiz,"ibuprofeno1,omeprazol1,paracetamol3",2025-07-28,Hospital Central Espana
+FARM_ESP_2025_000155,I. GOMEZ RUIZ,rosuvastatina2,2025-04-20,Hospital Central Espana
+FARM_ESP_2025_000156,DAVID GOMEZ PEREZ,"metformina4,orlistat4",2025-01-10,Hospital Central Espana
+FARM_ESP_2025_000157,manuel jimenez lopez,"acidofolico4,sulfatoferroso3",2025-05-09,Hospital Central Espana
+FARM_ESP_2025_000158,Marta Jimenez Ruiz,"paracetamol1,omeprazol4,ibuprofeno2",2025-10-26,Hospital Central Espana
+FARM_ESP_2025_000159,DANIEL JIMENEZ JIMENEZ,bupropion3,2025-08-28,Hospital Central Espana
+FARM_ESP_2025_000160,MIGUEL GARCIA LOPEZ,amlodipino1,2025-08-26,Centro Medico Barcelona
+FARM_ESP_2025_000161,MARIA RODRIGUEZ HERNANDEZ,"glibenclamida4,metformina1",2025-02-16,Hospital Central Espana
+FARM_ESP_2025_000162,ANTONIO GOMEZ SANCHEZ,"rosuvastatina2,atorvastatina4",2025-09-27,Centro Medico Barcelona
+FARM_ESP_2025_000163,MIGUEL RODRIGUEZ GARCIA,atorvastatina3,2025-12-11,Centro Medico Barcelona
+FARM_ESP_2025_000164,Sergio Perez Rodriguez,"naproxeno2,ibuprofeno3,pregabalina2",2025-12-28,Centro Medico Barcelona
+FARM_ESP_2025_000165,I. Martin Ruiz,glibenclamida4,2025-08-15,Hospital Central Espana
+FARM_ESP_2025_000166,DAVID DAZ RODRIGUEZ,"omeprazol3,insulina4",2025-11-24,Hospital Central Espana
+FARM_ESP_2025_000167,maria rodriguez sanchez,"ibuprofeno2,omeprazol4",2025-03-03,Hospital Central Espana
+FARM_ESP_2025_000168,Alejandro Lopz Garcia,"amlodipino4,losartan1,enalapril2",2025-01-31,Centro Medico Barcelona
+FARM_ESP_2025_000169,sergio hernandez diaz,bupropion3,2025-12-08,Hospital Central Espana
+FARM_ESP_2025_000170,MARIA MARTINEZ SANCHEZ,"ibuprofeno4,naproxeno4,paracetamol2",2025-06-04,Hospital Central Espana
+FARM_ESP_2025_000171,Carmen Gomez,"omeprazol1,diclofenaco2,amoxicilina1",2025-11-27,Centro Medico Barcelona
+FARM_ESP_2025_000172,javier rodriguez fernandez,"vareniclina3,bupropion1",2025-12-19,Centro Medico Barcelona
+FARM_ESP_2025_000173,MIGUEL JIMENEZ PEREZ,"paracetamol3,omeprazol4,diclofenaco2",2025-03-19,Hospital Central Espana
+FARM_ESP_2025_000174,alejandro lopez,metformina3,2025-03-03,Clinica Madrid Norte
+FARM_ESP_2025_000175,claudia lopez,"atorvastatina4,rosuvastatina3",2025-02-05,Clinica Madrid Norte
+FARM_ESP_2025_000176,Isabel Lopez Perez,"diclofenaco3,paracetamol4,ibuprofeno2",2025-07-31,Hospital Central Espana
+FARM_ESP_2025_000177,alvaro hernandez jimenez,"vareniclina4,bupropion4",2025-12-21,Hospital Central Espana
+FARM_ESP_2025_000178,Javier Gomez Diaz,"omeprazol1,ibuprofeno1,paracetamol2",2025-06-05,Clinica Madrid Norte
+FARM_ESP_2025_000179,Miguel Lopez Rodriguez,paracetamol3,2025-09-30,Clinica Madrid Norte
+FARM_ESP_2025_000180,Marta Garcia Jimenez,"bupropion4,vareniclina3",2025-04-13,Clinica Madrid Norte
+FARM_ESP_2025_000181,Manuel Garcia Rodriguez,"ibuprofeno1,paracetamol2",2025-06-25,Centro Medico Barcelona
+FARM_ESP_2025_000182,Alejandro Ruiz Gomez,"paracetamol3,omeprazol1,ibuprofeno1",2025-05-01,Hospital Central Espana
+FARM_ESP_2025_000183,rafael garcia martin,"losartan3,amlodipino-2,enalapril3",2025-10-08,Hospital Central Espana
+FARM_ESP_2025_000184,N. Ruiz Lopez,"glibenclamida4,metformina3",2025-12-07,Clinica Madrid Norte
+FARM_ESP_2025_000185,pablo perez gomez,"paracetamol1,ibuprofeno2,gabapentina2",2025-03-02,Clinica Madrid Norte
+FARM_ESP_2025_000186,maria sanchez fernandez,"metformina1,orlistat3",2025-02-16,Clinica Madrid Norte
+FARM_ESP_2025_000187,PABLO RUIZ RUIZ,"insulina1,glibenclamida1,metformina4",2025-12-01,Clinica Madrid Norte
+FARM_ESP_2025_000188,JAVIER DIAZ GOMEZ,metformina2,2025-11-30,Hospital Central Espana
+FARM_ESP_2025_000189,M. Lopez Jimenez,"vareniclina4,orlistat4",2025-05-24,Hospital Central Espana
+FARM_ESP_2025_000190,Alvaro Perez Garcia,"ibuprofeno3,ketorolaco2,omeprazol3",2025-12-29,Centro Medico Barcelona
+FARM_ESP_2025_000191,I. Gomez Gomez,"orlistat3,enalapril4,losartan4",2025-01-28,Clinica Madrid Norte
+FARM_ESP_2025_000192,IRENE RUIZ LOPEZ,"omeprazol1,ibuprofeno2,paracetamol1",2025-08-11,Centro Medico Barcelona
+FARM_ESP_2025_000193,ALVARO MARTIN SANCHEZ,rosuvastatina4,2025-03-02,Centro Medico Barcelona
+FARM_ESP_2025_000194,carlos gomez gomez,rosuvastatina1,2025-06-16,Centro Medico Barcelona
+FARM_ESP_2025_000195,ELENA DIAZ FERNANDEZ,omeprazol2,2025-01-28,Hospital Central Espana
+FARM_ESP_2025_000196,paula gomez lopez,"vareniclina2,bupropion3,metformina3",2025-01-01,Hospital Central Espana
+FARM_ESP_2025_000197,ANTONIO MARTIN MARTIN,"paracetamol2,omeprazol1,atorvastatina4",2025-02-13,Centro Medico Barcelona
+FARM_ESP_2025_000198,miguel martin sanchez,"enalapril3,amlodipino3",2025-05-29,Clinica Madrid Norte
+FARM_ESP_2025_000199,alvaro diaz rodriguez,"omeprazol3,ibuprofeno4,paracetamol1",2025-03-04,Centro Medico Barcelona
+FARM_ESP_2025_000200,IRENE FERNANDEZ FERNANDEZ,"insulina3,losartan4,acidofolico4",2025-08-06,Clinica Madrid Norte
+FARM_ESP_2025_000201,nuria hernandez jimenez,"acidofolico3,rosuvastatina3,orlistat1",2025-09-19,Hospital Central Espana
+FARM_ESP_2025_000202,alejandro hernndez perez,"vareniclina1,bupropion4",2025-02-20,Centro Medico Barcelona
+FARM_ESP_2025_000203,CLAUDIA RUIZ GOMEZ,ketorolaco4,2025-12-11,Centro Medico Barcelona
+FARM_ESP_2025_000204,Pablo Gomez Ruiz,"sulfatoferroso1,acidofolico1",2025-03-15,Centro Medico Barcelona
+FARM_ESP_2025_000205,daniel fernandez lopez,bupropion1,2025-09-05,Centro Medico Barcelona
+FARM_ESP_2025_000206,r. jimenez sanchez,"metformina1,atorvastatina2,rosuvastatina4",2025-02-02,Centro Medico Barcelona
+FARM_ESP_2025_000207,ALVARO DIAZ RODRIGUEZ,"orlistat3,metformina4",2025-05-25,Centro Medico Barcelona
+FARM_ESP_2025_000208,marta jimenez hernandez,ibuprofeno3,2025-07-03,Centro Medico Barcelona
+FARM_ESP_2025_000209,carlos sanchez martin,rosuvastatina1,2025-07-15,Hospital Central Espana
+FARM_ESP_2025_000210,MARTA FERNANDEZ FERNANDEZ,"atorvastatina2,rosuvastatina3",2025-06-13,Clinica Madrid Norte
+FARM_ESP_2025_000211,Paula Fernandez Martinez,orlistat4,2025-07-15,Centro Medico Barcelona
+FARM_ESP_2025_000212,P. SANCHEZ FERNANDEZ,"vareniclina1,bupropion2",2025-01-06,Centro Medico Barcelona
+FARM_ESP_2025_000213,DAVID LOPEZ GARCIA,"vareniclina1,bupropion3",2025-07-17,Clinica Madrid Norte
+FARM_ESP_2025_000214,Javier Gomez Lopez,losartan1,2025-05-31,Clinica Madrid Norte
+FARM_ESP_2025_000215,Isabel Ruiz,"paracetamol3,ibuprofeno3",2025-04-10,Hospital Central Espana
+FARM_ESP_2025_000216,nuria hernndez garcia,"paracetamol1,ketorolaco2,omeprazol3",2025-04-24,Hospital Central Espana
+FARM_ESP_2025_000217,Irene Rodriguez Jimenez,"glibenclamida1,insulina4,atorvastatina1",2025-07-14,Clinica Madrid Norte
+FARM_ESP_2025_000218,Miguel Fernandez Hernandez,"amlodipino2,atorvastatina3",2025-04-22,Centro Medico Barcelona
+FARM_ESP_2025_000219,David Jimenez Gomez,"vareniclina4,bupropion4",2025-06-13,Centro Medico Barcelona
+FARM_ESP_2025_000220,Laura Rodriguez Garcia,ibuprofeno1,2025-12-21,Centro Medico Barcelona
+FARM_ESP_2025_000221,irene sanchez ruiz,atorvastatina1,2025-11-01,Hospital Central Espana
+FARM_ESP_2025_000222,ISABEL JIMENEZ RUIZ,rosuvastatina4,2025-01-31,Hospital Central Espana
+FARM_ESP_2025_000223,D. Perez Diaz,"orlistat1,metformina3",2025-03-03,Hospital Central Espana
+FARM_ESP_2025_000224,ANTONIO LOPEZ RODRIGUEZ,"atorvastatina3,bupropion1,vareniclina2",2025-01-10,Clinica Madrid Norte
+FARM_ESP_2025_000225,Paula Gomez Garcia,atorvastatina3,2025-02-07,Hospital Central Espana
+FARM_ESP_2025_000226,Rafael Fernandez Gomez,"omeprazol1,paracetamol4",2025-01-08,Centro Medico Barcelona
+FARM_ESP_2025_000227,pablo garcia hernandez,"rosuvastatina3,atorvastatina120",2025-10-22,Hospital Central Espana
+FARM_ESP_2025_000228,MANUEL JIMENEZ LOPEZ,"acidofolico1,sulfatoferroso3",2025-06-12,Hospital Central Espana
+FARM_ESP_2025_000229,rafael gomez gomez,omeprazol2,2025-08-04,Centro Medico Barcelona
+FARM_ESP_2025_000230,D. MARTINEZ RUIZ,orlistat1,2025-09-01,Clinica Madrid Norte
+FARM_ESP_2025_000231,miguel martin ruiz,"rosuvastatina1,atorvastatina1",2025-06-18,Centro Medico Barcelona
+FARM_ESP_2025_000232,DAVID RUIZ,omeprazol3,2025-01-29,Hospital Central Espana
+FARM_ESP_2025_000233,MARTA LOPEZ HERNANDEZ,metformina4,2025-04-15,Hospital Central Espana
+FARM_ESP_2025_000234,PABLO JIMENEZ HERNANDEZ,"vareniclina1,atorvastatina2",2025-07-15,Clinica Madrid Norte
+FARM_ESP_2025_000235,nuria gomez sanchez,"rosuvastatina2,atorvastatina2",2025-03-23,Centro Medico Barcelona
+FARM_ESP_2025_000236,JAVIER GOMEZ DIAZ,"omeprazol2,ibuprofeno2",2025-09-21,Clinica Madrid Norte
+FARM_ESP_2025_000237,Alejandro Sanchez Martin,"metformina1,ibuprofeno1",2025-07-26,Clinica Madrid Norte
+FARM_ESP_2025_000238,Maria Diaz Sanchez,gabapentina3,2025-08-16,Centro Medico Barcelona
+FARM_ESP_2025_000239,david fernandez martinez,vareniclina4,2025-05-15,Centro Medico Barcelona
+FARM_ESP_2025_000240,MANUEL MARTIN HERNANDEZ,bupropion2,2025-08-02,Clinica Madrid Norte
+FARM_ESP_2025_000241,Daniel Ruiz Perez,"losartan2,amlodipino3,bupropion4",2025-08-03,Centro Medico Barcelona
+FARM_ESP_2025_000242,Manuel Sanchez Garcia,"insulina3,bupropion0",2025-09-14,Hospital Central Espana
+FARM_ESP_2025_000243,CLAUDIA LOPEZ GARCIA,losartan4,2025-07-01,Centro Medico Barcelona
+FARM_ESP_2025_000244,C. FERNANDEZ DIAZ,"insulina2,omeprazol3,ibuprofeno4",2025-08-22,Centro Medico Barcelona
+FARM_ESP_2025_000245,L. Hernandez Fernandez,acidofolico2,2025-07-20,Clinica Madrid Norte
+FARM_ESP_2025_000246,Daniel Snchez Hernandez,"ibuprofeno1,paracetamol1,omeprazol1",2025-08-20,Hospital Central Espana
+FARM_ESP_2025_000247,NURIA HERNANDEZ SANCHEZ,"amlodipino4,losartan1",2025-12-14,Centro Medico Barcelona
+FARM_ESP_2025_000248,lucia lopez perez,"paracetamol2,ibuprofeno2,omeprazol2",2025-06-09,Centro Medico Barcelona
+FARM_ESP_2025_000249,maria rodriguez diaz,"ibuprofeno4,paracetamol1",2025-08-29,Clinica Madrid Norte
+FARM_ESP_2025_000250,CLAUDIA MARTIN,"amlodipino2,enalapril1,losartan1",2025-07-21,Centro Medico Barcelona
+FARM_ESP_2025_000251,carlos perez perez,"rosuvastatina4,vareniclina4,losartan2",2025-10-22,Centro Medico Barcelona
+FARM_ESP_2025_000252,Rafael Ruiz Ruiz,"losartan1,enalapril4,amlodipino4",2025-01-11,Clinica Madrid Norte
+FARM_ESP_2025_000253,carlos garcia garcia,"amlodipino3,omeprazol1",2025-12-29,Clinica Madrid Norte
+FARM_ESP_2025_000254,Antonio Ruiz Rodriguez,bupropion4,2025-07-28,Centro Medico Barcelona
+FARM_ESP_2025_000255,RAFAEL SANCHEZ DIAZ,"enalapril4,losartan4",2025-08-07,Clinica Madrid Norte
+FARM_ESP_2025_000256,A. DIAZ DIAZ,"vareniclina3,glibenclamida3,bupropion1",2025-03-09,Centro Medico Barcelona
+FARM_ESP_2025_000257,LUCIA MARTINEZ JIMENEZ,"amlodipino4,losartan1,metformina0",2025-06-20,Hospital Central Espana
+FARM_ESP_2025_000258,MARTA MARTINEZ,"insulina1,metformina1,glibenclamida1",2025-09-17,Hospital Central Espana
+FARM_ESP_2025_000259,CARMEN GOMEZ GOMEZ,"bupropion2,vareniclina2",2025-04-26,Centro Medico Barcelona
+FARM_ESP_2025_000260,I. Martin Fernandez,"rosuvastatina3,atorvastatina4",2025-09-23,Clinica Madrid Norte
+FARM_ESP_2025_000261,Antonio Rodriguez Lopez,"metformina2,amlodipino3,losartan2",2025-06-07,Hospital Central Espana
+FARM_ESP_2025_000262,DAVID FERNANDEZ JIMENEZ,metformina3,2025-01-08,Clinica Madrid Norte
+FARM_ESP_2025_000263,Isabel Lopez Perez,"omeprazol1,atorvastatina3",2025-04-10,Hospital Central Espana
+FARM_ESP_2025_000264,Sara Martin,"atorvastatina2,rosuvastatina3",2025-10-29,Hospital Central Espana
+FARM_ESP_2025_000265,D. MARTIN PEREZ,"omeprazol2,ibuprofeno2",2025-05-23,Centro Medico Barcelona
+FARM_ESP_2025_000266,rafael martinez martinez,omeprazol2,2025-09-26,Centro Medico Barcelona
+FARM_ESP_2025_000267,JAVIER RODRIGUEZ DIAZ,"rosuvastatina2,orlistat3,metformina3",2025-03-04,Centro Medico Barcelona
+FARM_ESP_2025_000268,JAVIER MARTIN HERNANDEZ,"omeprazol1,ibuprofeno2,paracetamol2",2025-11-18,Centro Medico Barcelona
+FARM_ESP_2025_000269,RAFAEL PEREZ PEREZ,"amoxicilina1,ibuprofeno-1,omeprazol2",2025-08-09,Clinica Madrid Norte
+FARM_ESP_2025_000270,miguel jimenez ruiz,paracetamol3,2025-08-03,Centro Medico Barcelona
+FARM_ESP_2025_000271,Paula Fernandez Perez,"ibuprofeno2,omeprazol4,paracetamol4",2025-03-06,Hospital Central Espana
+FARM_ESP_2025_000272,PAULA JIMENEZ LOPEZ,"enalapril1,amlodipino3",2025-12-28,Clinica Madrid Norte
+FARM_ESP_2025_000273,Javier Jimenez,paracetamol4,2025-04-06,Centro Medico Barcelona
+FARM_ESP_2025_000274,ELENA GARCIA GOMEZ,"ibuprofeno4,omeprazol3,amlodipino120",2025-10-05,Hospital Central Espana
+FARM_ESP_2025_000275,S. MARTINEZ HERNANDEZ,"atorvastatina-1,rosuvastatina2",2025-07-05,Clinica Madrid Norte
+FARM_ESP_2025_000276,Claudia Mrtin Fernandez,acidofolico3,2025-01-22,Clinica Madrid Norte
+FARM_ESP_2025_000277,RAFAEL RODRIGUEZ MARTIN,"ketorolaco4,paracetamol3,ibuprofeno3",2025-01-27,Clinica Madrid Norte
+FARM_ESP_2025_000278,m. ruiz lopez,paracetamol1,2025-06-18,Centro Medico Barcelona
+FARM_ESP_2025_000279,PAULA RUIZ,"insulina3,paracetamol1,levotiroxina2",2025-10-28,Hospital Central Espana
+FARM_ESP_2025_000280,alvaro perez garcia,"omeprazol2,ibuprofeno1,paracetamol2",2025-06-06,Hospital Central Espana
+FARM_ESP_2025_000281,M. HERNANDEZ RODRIGUEZ,paracetamol3,2025-01-24,Centro Medico Barcelona
+FARM_ESP_2025_000282,Isabel Ruiz Jimenez,"paracetamol2,omeprazol2,ibuprofeno4",2025-06-17,Centro Medico Barcelona
+FARM_ESP_2025_000283,Sara Perez Fernandez,atorvastatina3,2025-09-20,Clinica Madrid Norte
+FARM_ESP_2025_000284,laura lopez garcia,"sulfatoferroso4,acidofolico3",2025-04-05,Clinica Madrid Norte
+FARM_ESP_2025_000285,ALVARO RODRIGUEZ MARTIN,"ibuprofeno3,omeprazol2",2025-06-10,Hospital Central Espana
+FARM_ESP_2025_000286,daniel diaz diaz,"paracetamol2,ketorolaco4",2025-05-07,Centro Medico Barcelona
+FARM_ESP_2025_000287,marta martinez,"losartan3,atorvastatina1",2025-09-28,Hospital Central Espana
+FARM_ESP_2025_000288,Alvaro Martinez Fernandez,"rosuvastatina3,atorvastatina1",2025-05-12,Clinica Madrid Norte
+FARM_ESP_2025_000289,MANUEL SANCHEZ GOMEZ,"metformina3,levotiroxina3",2025-07-06,Hospital Central Espana
+FARM_ESP_2025_000290,Paula Gomez Martinez,gabapentina4,2025-03-23,Hospital Central Espana
+FARM_ESP_2025_000291,MARTA RUIZ RODRIGUEZ,"rosuvastatina2,atorvastatina2",2025-06-16,Clinica Madrid Norte
+FARM_ESP_2025_000292,sergio garcia gomez,"atorvastatina2,bupropion4,vareniclina3",2025-07-22,Clinica Madrid Norte
+FARM_ESP_2025_000293,MANUEL JIMENEZ FERNANDEZ,"levotiroxina2,ibuprofeno2,insulina4",2025-07-18,Hospital Central Espana
+FARM_ESP_2025_000294,alejandro gomez rodriguez,glibenclamida1,2025-03-02,Clinica Madrid Norte
+FARM_ESP_2025_000295,rafael ruiz gomez,omeprazol3,2025-06-14,Hospital Central Espana
+FARM_ESP_2025_000296,NURIA JIMENEZ RUIZ,"metformina4,glibenclamida2,insulina2",2025-04-12,Centro Medico Barcelona
+FARM_ESP_2025_000297,david rodriguez martinez,"omeprazol1,ibuprofeno3,paracetamol1",2025-06-30,Hospital Central Espana
+FARM_ESP_2025_000298,R. Martin Fernandez,"amlodipino4,enalapril3",2025-03-28,Hospital Central Espana
+FARM_ESP_2025_000299,javier gomez lopez,"vareniclina4,acidofolico4",2025-05-27,Clinica Madrid Norte
+FARM_ESP_2025_000300,MARIA SANHEZ GOMEZ,bupropion1,2025-07-22,Clinica Madrid Norte
+FARM_ESP_2025_000301,Pablo Perez Martinez,"ibuprofeno3,paracetamol1",2025-04-12,Clinica Madrid Norte
+FARM_ESP_2025_000302,PAULA FERNANDEZ MARTIN,"losartan3,amlodipino2,enalapril3",2025-09-14,Clinica Madrid Norte
+FARM_ESP_2025_000303,SARA MARTIN FERNANDEZ,"orlistat4,metformina1",2025-06-04,Centro Medico Barcelona
+FARM_ESP_2025_000304,manuel ruiz garcia,"losartan4,atorvastatina2,paracetamol2",2025-08-03,Hospital Central Espana
+FARM_ESP_2025_000305,Isabel Lopez Martinez,atorvastatina1,2025-10-13,Hospital Central Espana
+FARM_ESP_2025_000306,MARIA SANCHEZ FERNANDEZ,"metformina1,orlistat1",2025-09-08,Hospital Central Espana
+FARM_ESP_2025_000307,JAVIER LOPEZ GOMEZ,"atorvastatina4,rosuvastatina1",2025-08-09,Centro Medico Barcelona
+FARM_ESP_2025_000308,miguel gomez perez,"vareniclina2,bupropion4",2025-12-28,Centro Medico Barcelona
+FARM_ESP_2025_000309,DAVID DIAZ SANCHEZ,"atorvastatina1,rosuvastatina1",2025-06-03,Hospital Central Espana
+FARM_ESP_2025_000310,CARLOS DIAZ FERNANDEZ,"enalapril2,insulina4,amlodipino3",2025-11-22,Clinica Madrid Norte
+FARM_ESP_2025_000311,rafael diaz diaz,"vareniclina4,bupropion3",2025-02-20,Hospital Central Espana
+FARM_ESP_2025_000312,ALEJANDRO MARTIN,"insulina4,metformina2,paracetamol2",2025-03-02,Centro Medico Barcelona
+FARM_ESP_2025_000313,ALEJANDRO HERNANDEZ DIAZ,paracetamol3,2025-06-21,Clinica Madrid Norte
+FARM_ESP_2025_000314,A. Fernandez Hernandez,omeprazol1,2025-04-16,Hospital Central Espana
+FARM_ESP_2025_000315,CARLOS DIAZ JIMENEZ,"orlistat1,metformina3",2025-06-06,Hospital Central Espana
+FARM_ESP_2025_000316,Paula Lopez Martin,"atorvastatina2,rosuvastatina1",2025-03-21,Clinica Madrid Norte
+FARM_ESP_2025_000317,Laura Lopez Diaz,"amlodipino2,enalapril3,losartan4",2025-01-13,Hospital Central Espana
+FARM_ESP_2025_000318,m. ruiz garcia,metformina4,2025-03-03,Hospital Central Espana
+FARM_ESP_2025_000319,MARTA FERNANDEZ HERNANDEZ,"omeprazol1,ibuprofeno4",2025-06-24,Centro Medico Barcelona
+FARM_ESP_2025_000320,ALVARO GOMEZ PEREZ,"rosuvastatina2,amlodipino4",2025-12-27,Centro Medico Barcelona
+FARM_ESP_2025_000321,David Perez Perez,"losartan3,omeprazol4,amlodipino2",2025-05-26,Centro Medico Barcelona
+FARM_ESP_2025_000322,marta jimenez martinez,atorvastatina1,2025-06-16,Clinica Madrid Norte
+FARM_ESP_2025_000323,manuel martin martin,atorvastatina4,2025-07-27,Hospital Central Espana
+FARM_ESP_2025_000324,elena rodriguez ruiz,"loratadina4,paracetamol3,omeprazol2",2025-01-24,Hospital Central Espana
+FARM_ESP_2025_000325,marta garcia,"levotiroxina1,ibuprofeno2,metformina4",2025-01-27,Centro Medico Barcelona
+FARM_ESP_2025_000326,JAVIER JIMENEZ LOPEZ,bupropion4,2025-02-08,Clinica Madrid Norte
+FARM_ESP_2025_000327,ALEJANDRO MARTINEZ GARCIA,"losartan4,amlodipino3,enalapril3",2025-06-24,Hospital Central Espana
+FARM_ESP_2025_000328,daniel diaz ruiz,"metformina2,glibenclamida2",2025-06-17,Clinica Madrid Norte
+FARM_ESP_2025_000329,ELENA GOMEZ GARCIA,"enalapril4,sulfatoferroso1,amlodipino4",2025-08-18,Centro Medico Barcelona
+FARM_ESP_2025_000330,nuria martinez gomez,"rosuvastatina1,atorvastatina2",2025-02-01,Centro Medico Barcelona
+FARM_ESP_2025_000331,M. Diaz Lopez,rosuvastatina1,2025-12-08,Centro Medico Barcelona
+FARM_ESP_2025_000332,laura diaz garcia,"orlistat2,metformina3",2025-07-31,Clinica Madrid Norte
+FARM_ESP_2025_000333,Laura Diaz Martinez,"insulina2,sulfatoferroso3,metformina2",2025-04-22,Clinica Madrid Norte
+FARM_ESP_2025_000334,David Perez Perez,ibuprofeno4,2025-11-04,Clinica Madrid Norte
+FARM_ESP_2025_000335,Manuel Diaz Lopez,"atorvastatina1,rosuvastatina1",2025-12-05,Centro Medico Barcelona
+FARM_ESP_2025_000336,Sara Ruiz Perez,sulfatoferroso4,2025-04-23,Hospital Central Espana
+FARM_ESP_2025_000337,irene prez fernandez,"losartan1,atorvastatina0",2025-01-24,Centro Medico Barcelona
+FARM_ESP_2025_000338,Sergio Rodriguez Diaz,"bupropion4,vareniclina2",2025-07-30,Clinica Madrid Norte
+FARM_ESP_2025_000339,nuria hernandez garcia,"omeprazol3,amoxicilina1",2025-07-19,Centro Medico Barcelona
+FARM_ESP_2025_000340,Laura Sanchez Jimenez,atorvastatina3,2025-11-29,Clinica Madrid Norte
+FARM_ESP_2025_000341,ALEJANDRO SANCHEZ SANCHEZ,amlodipino3,2025-12-08,Hospital Central Espana
+FARM_ESP_2025_000342,Laura Jimenez Rodriguez,"diclofenaco2,omeprazol2",2025-05-27,Centro Medico Barcelona
+FARM_ESP_2025_000343,D. RUIZ GARCIA,losartan4,2025-06-19,Clinica Madrid Norte
+FARM_ESP_2025_000344,isabel sanchez jimenez,losartan2,2025-12-16,Centro Medico Barcelona
+FARM_ESP_2025_000345,laura diaz martin,"paracetamol1,omeprazol1,ibuprofeno3",2025-11-21,Hospital Central Espana
+FARM_ESP_2025_000346,m. gomez lopez,omeprazol1,2025-04-19,Hospital Central Espana
+FARM_ESP_2025_000347,Manuel Perez Lopez,"ibuprofeno1,omeprazol1,paracetamol1",2025-04-30,Centro Medico Barcelona
+FARM_ESP_2025_000348,R. RODRIGUEZ HERNANDEZ,"omeprazol2,amoxicilina4",2025-03-18,Hospital Central Espana
+FARM_ESP_2025_000349,sara hernandez ruiz,"bupropion1,vareniclina1",2025-11-27,Hospital Central Espana
+FARM_ESP_2025_000350,PABLO GARCIA MARTIN,"omeprazol1,paracetamol1,ibuprofeno2",2025-08-25,Clinica Madrid Norte
+FARM_ESP_2025_000351,Carlos Perez Hernandez,"paracetamol3,omeprazol2,ketorolaco2",2025-10-18,Clinica Madrid Norte
+FARM_ESP_2025_000352,antonio diaz garcia,"vareniclina1,bupropion1",2025-01-28,Hospital Central Espana
+FARM_ESP_2025_000353,C. GARCIA SANCHEZ,"omeprazol1,ibuprofeno4,paracetamol2",2025-07-28,Clinica Madrid Norte
+FARM_ESP_2025_000354,Pablo Hernandez Jimenez,atorvastatina4,2025-10-13,Clinica Madrid Norte
+FARM_ESP_2025_000355,Daniel Martinez Fernandez,losartan4,2025-04-30,Hospital Central Espana
+FARM_ESP_2025_000356,maria martinez lopez,"metformina1,insulina1,omeprazol2",2025-11-24,Hospital Central Espana
+FARM_ESP_2025_000357,rafael diaz rodriguez,atorvastatina3,2025-04-06,Hospital Central Espana
+FARM_ESP_2025_000358,ISABEL DIAZ SANCHEZ,ibuprofeno1,2025-05-04,Clinica Madrid Norte
+FARM_ESP_2025_000359,ALVARO GOEZ JIMENEZ,"bupropion3,metformina4,orlistat2",2025-01-20,Centro Medico Barcelona
+FARM_ESP_2025_000360,antonio lopez rodriguez,"vareniclina3,atorvastatina1,rosuvastatina2",2025-09-13,Hospital Central Espana
+FARM_ESP_2025_000361,Carlos Diaz Lopez,"rosuvastatina1,atorvastatina4",2025-03-26,Clinica Madrid Norte
+FARM_ESP_2025_000362,LAURA SANCHEZ MARTIN,losartan3,2025-12-23,Hospital Central Espana
+FARM_ESP_2025_000363,Laura Martin Garcia,"paracetamol3,ibuprofeno3",2025-02-14,Centro Medico Barcelona
+FARM_ESP_2025_000364,javier fernandez sanchez,"ibuprofeno2,levotiroxina1,metformina4",2025-05-14,Hospital Central Espana
+FARM_ESP_2025_000365,d. martinez sanchez,"atorvastatina2,rosuvastatina1",2025-01-16,Hospital Central Espana
+FARM_ESP_2025_000366,marta fernandez lopez,orlistat1,2025-06-09,Hospital Central Espana
+FARM_ESP_2025_000367,laura sanchez perez,vareniclina4,2025-08-23,Centro Medico Barcelona
+FARM_ESP_2025_000368,MARTA DIAZ GARCIA,"metformina4,insulina3",2025-09-27,Clinica Madrid Norte
+FARM_ESP_2025_000369,javier gomez diaz,"paracetamol4,ketorolaco2",2025-02-05,Centro Medico Barcelona
+FARM_ESP_2025_000370,David Lopez Gomez,ibuprofeno4,2025-04-06,Centro Medico Barcelona
+FARM_ESP_2025_000371,LUCIA MARTIN,"rosuvastatina2,atorvastatina1",2025-02-22,Centro Medico Barcelona
+FARM_ESP_2025_000372,Miguel Lopez Perez,"enalapril2,losartan3,amlodipino1",2025-06-07,Centro Medico Barcelona
+FARM_ESP_2025_000373,CARMEN LOPEZ SANCHEZ,losartan2,2025-05-21,Centro Medico Barcelona
+FARM_ESP_2025_000374,carlos martin fernandez,"vareniclina2,bupropion1",2025-04-04,Hospital Central Espana
+FARM_ESP_2025_000375,elena garcia martin,"omeprazol4,atorvastatina1",2025-06-06,Hospital Central Espana
+FARM_ESP_2025_000376,M. HERNANDEZ SANCHEZ,"bupropion1,rosuvastatina1,glibenclamida4",2025-11-02,Centro Medico Barcelona
+FARM_ESP_2025_000377,CARMEN HERNANDEZ SANCHEZ,"losartan4,omeprazol3,amlodipino4",2025-07-06,Hospital Central Espana
+FARM_ESP_2025_000378,sara lopez ruiz,"omeprazol1,ketorolaco4",2025-12-29,Centro Medico Barcelona
+FARM_ESP_2025_000379,s. martinez rodriguez,"omeprazol4,metformina4,ibuprofeno4",2025-04-15,Hospital Central Espana
+FARM_ESP_2025_000380,Marta Ruiz,"ibuprofeno1,paracetamol4,diclofenaco2",2025-03-21,Hospital Central Espana
+FARM_ESP_2025_000381,S. RUIZ LOPEZ,"atorvastatina1,rosuvastatina2",2025-07-09,Centro Medico Barcelona
+FARM_ESP_2025_000382,Elena Hernandez Lopez,"omeprazol4,paracetamol1",2025-11-08,Clinica Madrid Norte
+FARM_ESP_2025_000383,sergio perez rodriguez,"paracetamol1,omeprazol3,ibuprofeno4",2025-04-01,Centro Medico Barcelona
+FARM_ESP_2025_000384,david sanchez martin,"insulina2,metformina2,glibenclamida4",2025-02-14,Clinica Madrid Norte
+FARM_ESP_2025_000385,Antonio Fernandez Martin,"rosuvastatina1,atorvastatina3",2025-08-26,Clinica Madrid Norte
+FARM_ESP_2025_000386,Claudia Perez Jimenez,"metformina4,orlistat4",2025-02-08,Clinica Madrid Norte
+FARM_ESP_2025_000387,Irene Lopez Martinez,atorvastatina4,2025-08-05,Centro Medico Barcelona
+FARM_ESP_2025_000388,CLAUDIA HERNANDEZ GARCIA,"orlistat4,metformina-1",2025-09-03,Clinica Madrid Norte
+FARM_ESP_2025_000389,isabel garcia jimenez,"ibuprofeno3,omeprazol1",2025-03-21,Clinica Madrid Norte
+FARM_ESP_2025_000390,PABLO SANCHEZ FERNANDEZ,orlistat2,2025-04-18,Centro Medico Barcelona
+FARM_ESP_2025_000391,Irene Perez Ruiz,"amoxicilina1,ibuprofeno4,diclofenaco4",2025-12-24,Hospital Central Espana
+FARM_ESP_2025_000392,DAVID GARCIA RUIZ,"ketorolaco3,paracetamol3,ibuprofeno2",2025-01-28,Hospital Central Espana
+FARM_ESP_2025_000393,paula martin martin,"ibuprofeno3,insulina4",2025-09-08,Centro Medico Barcelona
+FARM_ESP_2025_000394,alejandro martin sanchez,"losartan1,amlodipino3",2025-03-07,Clinica Madrid Norte
+FARM_ESP_2025_000395,lucia lopez,"metformina-1,bupropion1,orlistat3",2025-12-13,Clinica Madrid Norte
+FARM_ESP_2025_000396,NURIA GOMEZ GOMEZ,"orlistat3,metformina2",2025-01-11,Clinica Madrid Norte
+FARM_ESP_2025_000397,DAVID PEREZ DIAZ,metformina4,2025-08-25,Hospital Central Espana
+FARM_ESP_2025_000398,ISABEL SANCHEZ RUIZ,"ibuprofeno3,naproxeno4",2025-12-19,Centro Medico Barcelona
+FARM_ESP_2025_000399,sara diaz rodriguez,"orlistat3,metformina0",2025-05-16,Clinica Madrid Norte
+FARM_ESP_2025_000400,Alvaro Perez,"omeprazol4,paracetamol2,ibuprofeno2",2025-10-03,Hospital Central Espana
+FARM_ESP_2025_000401,Paula Jimenez Fernandez,"glibenclamida3,metformina3,insulina4",2025-09-19,Clinica Madrid Norte
+FARM_ESP_2025_000402,David Garcia Perez,losartan3,2025-09-25,Hospital Central Espana
+FARM_ESP_2025_000403,Maria Gomez Martin,"vareniclina2,bupropion4",2025-11-07,Centro Medico Barcelona
+FARM_ESP_2025_000404,irene sanchez,"rosuvastatina4,atorvastatina4,metformina4",2025-08-01,Centro Medico Barcelona
+FARM_ESP_2025_000405,Carlos Diaz Diaz,"vareniclina1,metformina3,orlistat2",2025-05-03,Clinica Madrid Norte
+FARM_ESP_2025_000406,sergio rodriguez diaz,vareniclina4,2025-12-06,Centro Medico Barcelona
+FARM_ESP_2025_000407,carlos jimenez jimenez,"bupropion2,vareniclina4",2025-02-21,Hospital Central Espana
+FARM_ESP_2025_000408,Nuria Rodriguez Gomez,metformina4,2025-05-05,Centro Medico Barcelona
+FARM_ESP_2025_000409,ISABEL GOMEZ SANCHEZ,"ibuprofeno1,omeprazol1,paracetamol3",2025-11-04,Centro Medico Barcelona
+FARM_ESP_2025_000410,DANIEL LOPEZ MARTIN,"omeprazol2,paracetamol4",2025-02-15,Centro Medico Barcelona
+FARM_ESP_2025_000411,CARLOS GARCIA RUIZ,paracetamol3,2025-03-17,Clinica Madrid Norte
+FARM_ESP_2025_000412,Pablo Sanchez Rodriguez,insulina4,2025-11-20,Hospital Central Espana
+FARM_ESP_2025_000413,maria garcia hernandez,"insulina4,metformina0,glibenclamida3",2025-01-11,Hospital Central Espana
+FARM_ESP_2025_000414,elena fernandez gomez,vareniclina1,2025-02-27,Clinica Madrid Norte
+FARM_ESP_2025_000415,lucia gacia jimenez,ibuprofeno1,2025-02-22,Hospital Central Espana
+FARM_ESP_2025_000416,s. sanchez perez,omeprazol1,2025-02-04,Hospital Central Espana
+FARM_ESP_2025_000417,Pablo Jimenez Fernandez,"losartan4,atorvastatina2,ibuprofeno3",2025-02-21,Clinica Madrid Norte
+FARM_ESP_2025_000418,Isabel Gomez Martin,"omeprazol1,diclofenaco2",2025-11-05,Clinica Madrid Norte
+FARM_ESP_2025_000419,CLAUDIA MARTINEZ,"amlodipino1,enalapril1,losartan4",2025-12-08,Clinica Madrid Norte
+FARM_ESP_2025_000420,sergio martinez,"paracetamol1,omeprazol1,ibuprofeno2",2025-08-07,Centro Medico Barcelona
+FARM_ESP_2025_000421,MANUEL MARTIN JIMENEZ,"ibuprofeno1,paracetamol4",2025-09-10,Centro Medico Barcelona
+FARM_ESP_2025_000422,Lucia Martinez Jimenez,"enalapril4,losartan2,metformina2",2025-07-12,Centro Medico Barcelona
+FARM_ESP_2025_000423,Javier Diaz Ruiz,"bupropion3,vareniclina4,enalapril4",2025-07-13,Centro Medico Barcelona
+FARM_ESP_2025_000424,Elena Sanchez Sanchez,"diclofenaco3,ibuprofeno2",2025-02-03,Clinica Madrid Norte
+FARM_ESP_2025_000425,CARLOS PEREZ,"atorvastatina3,orlistat2",2025-12-29,Clinica Madrid Norte
+FARM_ESP_2025_000426,alejandro perez hernandez,"rosuvastatina1,atorvastatina1",2025-04-29,Clinica Madrid Norte
+FARM_ESP_2025_000427,CARLOS MARTINEZ GOMEZ,omeprazol1,2025-08-07,Hospital Central Espana
+FARM_ESP_2025_000428,ALEJANDRO LOPEZ,orlistat1,2025-03-03,Centro Medico Barcelona
+FARM_ESP_2025_000429,claudia garcia martin,"paracetamol3,levotiroxina2",2025-12-08,Clinica Madrid Norte
+FARM_ESP_2025_000430,DANIEL RODRIGUEZ MARTIN,ibuprofeno4,2025-12-01,Clinica Madrid Norte
+FARM_ESP_2025_000431,Carlos Rodriguez Sanchez,enalapril3,2025-06-13,Centro Medico Barcelona
+FARM_ESP_2025_000432,Sara Gomez Gomez,"ibuprofeno1,amlodipino3",2025-05-21,Clinica Madrid Norte
+FARM_ESP_2025_000433,J. GOMEZ GOMEZ,"paracetamol4,ibuprofeno1,omeprazol4",2025-12-05,Clinica Madrid Norte
+FARM_ESP_2025_000434,david rodriguez jimenez,"omeprazol4,paracetamol2,ibuprofeno1",2025-05-25,Hospital Central Espana
+FARM_ESP_2025_000435,Paula Martin Diaz,"amoxicilina4,omeprazol4,ibuprofeno3",2025-02-11,Centro Medico Barcelona
+FARM_ESP_2025_000436,lucia fernandez lopez,"bupropion1,vareniclina1",2025-10-03,Centro Medico Barcelona
+FARM_ESP_2025_000437,lucia mrtin diaz,"omeprazol1,paracetamol2",2025-11-22,Centro Medico Barcelona
+FARM_ESP_2025_000438,javier sanchez diaz,"paracetamol4,loratadina2,omeprazol3",2025-08-19,Centro Medico Barcelona
+FARM_ESP_2025_000439,DAVID FERNANDEZ JIMENEZ,"orlistat120,metformina2",2025-01-26,Centro Medico Barcelona
+FARM_ESP_2025_000440,marta diaz gomez,"orlistat2,losartan2",2025-05-05,Clinica Madrid Norte
+FARM_ESP_2025_000441,manuel garcia rodriguez,"sulfatoferroso1,acidofolico3",2025-05-13,Hospital Central Espana
+FARM_ESP_2025_000442,PAULA GARCIA DIAZ,"omeprazol1,ibuprofeno2",2025-05-11,Hospital Central Espana
+FARM_ESP_2025_000443,a. garcia diaz,"atorvastatina2,orlistat2",2025-10-12,Hospital Central Espana
+FARM_ESP_2025_000444,CARMEN GARCIA FERNANDEZ,"amoxicilina4,ibuprofeno1",2025-03-10,Hospital Central Espana
+FARM_ESP_2025_000445,IRENE DIAZ MARTINEZ,"rosuvastatina2,atorvastatina2",2025-03-09,Clinica Madrid Norte
+FARM_ESP_2025_000446,irene diaz diaz,"amoxicilina3,paracetamol4,omeprazol4",2025-06-17,Centro Medico Barcelona
+FARM_ESP_2025_000447,Pablo Fernandez Hernandez,"omeprazol2,atorvastatina4,losartan2",2025-02-28,Clinica Madrid Norte
+FARM_ESP_2025_000448,Sara Diaz Rodriguez,"metformina2,orlistat2",2025-04-11,Centro Medico Barcelona
+FARM_ESP_2025_000449,manuel diaz rodriguez,omeprazol1,2025-01-11,Hospital Central Espana
+FARM_ESP_2025_000450,DAVID GARCIA PEREZ,"metformina1,bupropion3",2025-12-06,Clinica Madrid Norte
+FARM_ESP_2025_000451,Antonio Perez Fernandez,"metformina4,orlistat2",2025-08-11,Clinica Madrid Norte
+FARM_ESP_2025_000452,ALEJANDRO PEREZ MARTIN,ibuprofeno4,2025-01-31,Centro Medico Barcelona
+FARM_ESP_2025_000453,paula gomez lopez,"glibenclamida3,vareniclina2,insulina3",2025-12-16,Clinica Madrid Norte
+FARM_ESP_2025_000454,P. Rodriguez Sanchez,omeprazol4,2025-10-15,Centro Medico Barcelona
+FARM_ESP_2025_000455,Maria Garcia Perez,"insulina4,vareniclina4",2025-06-04,Clinica Madrid Norte
+FARM_ESP_2025_000456,marta ruiz,paracetamol3,2025-09-07,Clinica Madrid Norte
+FARM_ESP_2025_000457,SERGIO MARTIN,"losartan2,rosuvastatina4,amlodipino2",2025-07-24,Clinica Madrid Norte
+FARM_ESP_2025_000458,irene jimenez hernandez,"vareniclina3,bupropion1",2025-06-08,Hospital Central Espana
+FARM_ESP_2025_000459,paula martinez ruiz,"ketorolaco2,ibuprofeno3",2025-10-28,Centro Medico Barcelona
+FARM_ESP_2025_000460,Manuel Ruiz Lopez,"atorvastatina4,rosuvastatina3",2025-10-01,Centro Medico Barcelona
+FARM_ESP_2025_000461,N. GARCIA MARTINEZ,metformina4,2025-11-24,Clinica Madrid Norte
+FARM_ESP_2025_000462,rafael ruiz ruiz,"losartan1,amlodipino2,enalapril1",2025-01-07,Hospital Central Espana
+FARM_ESP_2025_000463,pablo garcia,rosuvastatina1,2025-08-19,Hospital Central Espana
+FARM_ESP_2025_000464,isabel ruiz jimenez,"ibuprofeno3,paracetamol4,omeprazol4",2025-02-03,Centro Medico Barcelona
+FARM_ESP_2025_000465,antonio diaz perez,"bupropion1,orlistat2",2025-10-07,Hospital Central Espana
+FARM_ESP_2025_000466,Carmen Garcia Rodriguez,paracetamol2,2025-07-11,Centro Medico Barcelona
+FARM_ESP_2025_000467,Carmen Ruiz Rodriguez,glibenclamida3,2025-06-28,Hospital Central Espana
+FARM_ESP_2025_000468,Laura Diaz Perez,"sulfatoferroso3,acidofolico2",2025-07-13,Hospital Central Espana
+FARM_ESP_2025_000469,elena rodriguez martinez,"vareniclina2,atorvastatina2,losartan3",2025-06-16,Hospital Central Espana
+FARM_ESP_2025_000470,carlos hernandez diaz,ibuprofeno2,2025-12-01,Clinica Madrid Norte
+FARM_ESP_2025_000471,LUCIA RODRIGUEZ LOPEZ,"insulina3,glibenclamida4,metformina3",2025-07-29,Clinica Madrid Norte
+FARM_ESP_2025_000472,nuria gomez gomez,"paracetamol2,levotiroxina3",2025-08-30,Hospital Central Espana
+FARM_ESP_2025_000473,nuria garcia martinez,"enalapril3,vareniclina1,metformina3",2025-07-26,Centro Medico Barcelona
+FARM_ESP_2025_000474,ISABEL PEREZ RUIZ,"loratadina2,paracetamol1,omeprazol4",2025-09-09,Hospital Central Espana
+FARM_ESP_2025_000475,Rafael Martin Gomez,rosuvastatina1,2025-05-17,Hospital Central Espana
+FARM_ESP_2025_000476,DANIEL DIAZ RUIZ,"glibenclamida1,metformina1,atorvastatina3",2025-05-17,Centro Medico Barcelona
+FARM_ESP_2025_000477,MANUEL RUIZ MARTIN,"naproxeno4,ibuprofeno4",2025-09-07,Clinica Madrid Norte
+FARM_ESP_2025_000478,J. Sanchez Diaz,"vareniclina3,bupropion3",2025-11-05,Centro Medico Barcelona
+FARM_ESP_2025_000479,ALVARO SANCHEZ MARTIN,"metformina-2,orlistat3,bupropion1",2025-02-01,Hospital Central Espana
+FARM_ESP_2025_000480,RAFAEL LOPEZ FERNANDEZ,"omeprazol2,naproxeno2",2025-02-07,Centro Medico Barcelona
+FARM_ESP_2025_000481,CARMEN JIMENEZ PEREZ,acidofolico4,2025-02-11,Centro Medico Barcelona
+FARM_ESP_2025_000482,maria rodriuez diaz,glibenclamida4,2025-05-27,Hospital Central Espana
+FARM_ESP_2025_000483,sara lopez jimenez,metformina4,2025-12-31,Centro Medico Barcelona
+FARM_ESP_2025_000484,SERGIO FERNANDEZ GOMEZ,"metformina2,orlistat4",2025-06-24,Clinica Madrid Norte
+FARM_ESP_2025_000485,Nuria Lopez,"paracetamol4,ibuprofeno4,omeprazol3",2025-01-20,Clinica Madrid Norte
+FARM_ESP_2025_000486,RAFAEL DIAZ MARTINEZ,"atorvastatina2,rosuvastatina1",2025-07-15,Hospital Central Espana
+FARM_ESP_2025_000487,sergio sanchez garcia,bupropion4,2025-11-07,Hospital Central Espana
+FARM_ESP_2025_000488,Manuel Garcia Garcia,"omeprazol2,ibuprofeno1,paracetamol4",2025-06-27,Centro Medico Barcelona
+FARM_ESP_2025_000489,JAVIER RUIZ HERNANDEZ,"bupropion4,rosuvastatina1,vareniclina1",2025-01-17,Clinica Madrid Norte
+FARM_ESP_2025_000490,manuel hernandez perez,"metformina1,amlodipino1",2025-09-18,Hospital Central Espana
+FARM_ESP_2025_000491,M. LOPEZ LOPEZ,"ketorolaco4,omeprazol1",2025-01-27,Centro Medico Barcelona
+FARM_ESP_2025_000492,DANIEL PEREZ JIMENEZ,omeprazol2,2025-06-01,Clinica Madrid Norte
+FARM_ESP_2025_000493,JAVIER PEREZ DIAZ,"ibuprofeno4,insulina2",2025-12-17,Hospital Central Espana
+FARM_ESP_2025_000494,david hernandez martin,rosuvastatina2,2025-07-23,Centro Medico Barcelona
+FARM_ESP_2025_000495,M. Sanchez Gomez,enalapril3,2025-01-31,Clinica Madrid Norte
+FARM_ESP_2025_000496,daniel lopez ruiz,"bupropion1,vareniclina99",2025-08-13,Clinica Madrid Norte
+FARM_ESP_2025_000497,isabel garcia jimenez,atorvastatina2,2025-05-07,Clinica Madrid Norte
+FARM_ESP_2025_000498,Manuel Fernandez Sanchez,"metformina4,orlistat4",2025-01-28,Centro Medico Barcelona
+FARM_ESP_2025_000499,Pablo Hernandez Fernandez,"atorvastatina4,rosuvastatina1",2025-01-05,Centro Medico Barcelona
+FARM_ESP_2025_000500,MARIA PEREZ FERNANDEZ,amlodipino1,2025-07-11,Hospital Central Espana
+FARM_ESP_2025_000501,alvaro perez garcia,"amoxicilina2,ibuprofeno2",2025-10-25,Centro Medico Barcelona
+FARM_ESP_2025_000502,c. gomez sanchez,ibuprofeno3,2025-12-20,Centro Medico Barcelona
+FARM_ESP_2025_000503,claudia ruiz martin,rosuvastatina4,2025-08-08,Clinica Madrid Norte
+FARM_ESP_2025_000504,carmen garcia fernandez,enalapril1,2025-03-14,Clinica Madrid Norte
+FARM_ESP_2025_000505,Rafael Jimenez Martinez,"rosuvastatina1,atorvastatina4",2025-08-15,Clinica Madrid Norte
+FARM_ESP_2025_000506,carmen jimenez rodriguez,metformina1,2025-07-13,Clinica Madrid Norte
+FARM_ESP_2025_000507,Sergio Lopez Gomez,rosuvastatina2,2025-01-27,Hospital Central Espana
+FARM_ESP_2025_000508,Javier Sanchez Fernandez,"pregabalina2,naproxeno2",2025-07-13,Hospital Central Espana
+FARM_ESP_2025_000509,sergio lopez garcia,"bupropion2,vareniclina1",2025-06-29,Clinica Madrid Norte
+FARM_ESP_2025_000510,Alvaro Diaz Rodriguez,"ibuprofeno1,insulina4",2025-08-30,Hospital Central Espana
+FARM_ESP_2025_000511,NURIA HERNANDEZ GOMEZ,"metformina2,insulina4,amlodipino2",2025-02-03,Hospital Central Espana
+FARM_ESP_2025_000512,MARIA DIZ MARTINEZ,"paracetamol3,ibuprofeno1,omeprazol3",2025-06-21,Centro Medico Barcelona
+FARM_ESP_2025_000513,DANIEL LOPEZ RODRIGUEZ,"bupropion2,vareniclina2",2025-05-04,Hospital Central Espana
+FARM_ESP_2025_000514,Isabel Martinez,"vareniclina3,bupropion2",2025-03-08,Clinica Madrid Norte
+FARM_ESP_2025_000515,Alejandro Martinez Lopez,"losartan4,enalapril4,rosuvastatina2",2025-03-08,Clinica Madrid Norte
+FARM_ESP_2025_000516,Alejandro Perez Hernandez,"ibuprofeno3,losartan4",2025-04-18,Centro Medico Barcelona
+FARM_ESP_2025_000517,antonio sanchez perez,"paracetamol2,ibuprofeno2,omeprazol1",2025-01-23,Clinica Madrid Norte
+FARM_ESP_2025_000518,c. rodriguez rodriguez,amlodipino3,2025-06-08,Clinica Madrid Norte
+FARM_ESP_2025_000519,Antonio Garcia Rodriguez,"enalapril1,losartan2,amlodipino1",2025-10-30,Clinica Madrid Norte
+FARM_ESP_2025_000520,ALVARO GARCIA JIMENEZ,"acidofolico4,sulfatoferroso2",2025-07-12,Centro Medico Barcelona
+FARM_ESP_2025_000521,Elena Garcia Martinez,ibuprofeno2,2025-06-28,Hospital Central Espana
+FARM_ESP_2025_000522,p. perez garcia,vareniclina3,2025-03-02,Clinica Madrid Norte
+FARM_ESP_2025_000523,laura perez ruiz,"vareniclina4,bupropion3",2025-09-07,Clinica Madrid Norte
+FARM_ESP_2025_000524,IRENE MARTINEZ RUIZ,metformina3,2025-08-07,Centro Medico Barcelona
+FARM_ESP_2025_000525,Carlos Diaz Martinez,"acidofolico3,sulfatoferroso1",2025-05-20,Centro Medico Barcelona
+FARM_ESP_2025_000526,sergio ruiz,enalapril2,2025-02-04,Hospital Central Espana
+FARM_ESP_2025_000527,ELENA GOMEZ PEREZ,"bupropion2,vareniclina3",2025-08-22,Centro Medico Barcelona
+FARM_ESP_2025_000528,ALEJANDRO RUIZ RUIZ,"paracetamol4,omeprazol2,ibuprofeno3",2025-02-07,Clinica Madrid Norte
+FARM_ESP_2025_000529,IRENE DIAZ SANCHEZ,insulina2,2025-01-24,Centro Medico Barcelona
+FARM_ESP_2025_000530,antonio martinez sanchez,"bupropion3,vareniclina4",2025-12-27,Hospital Central Espana
+FARM_ESP_2025_000531,ISABEL LOPEZ FERNANDEZ,"rosuvastatina4,atorvastatina2",2025-07-03,Clinica Madrid Norte
+FARM_ESP_2025_000532,LUCIA SANCHEZ MARTINEZ,"losartan0,amlodipino3,enalapril3",2025-11-26,Centro Medico Barcelona
+FARM_ESP_2025_000533,Pablo Gomez Garcia,rosuvastatina2,2025-05-03,Clinica Madrid Norte
+FARM_ESP_2025_000534,MIGUEL RODRIGUEZ JIMENEZ,"ketorolaco3,ibuprofeno4,paracetamol4",2025-01-13,Centro Medico Barcelona
+FARM_ESP_2025_000535,CARMEN GARCIA GARCIA,atorvastatina1,2025-05-23,Clinica Madrid Norte
+FARM_ESP_2025_000536,Paula Hernandez Sanchez,"rosuvastatina2,atorvastatina2",2025-01-08,Hospital Central Espana
+FARM_ESP_2025_000537,Carmen Martinez Jimenez,"ibuprofeno2,omeprazol2,paracetamol4",2025-08-26,Centro Medico Barcelona
+FARM_ESP_2025_000538,manuel martin perez,"vareniclina1,bupropion4",2025-10-12,Centro Medico Barcelona
+FARM_ESP_2025_000539,JAVIER RODRIGUEZ MARTIN,rosuvastatina1,2025-10-03,Centro Medico Barcelona
+FARM_ESP_2025_000540,DANIEL LOPEZ MARTIN,"omeprazol1,paracetamol3,ketorolaco3",2025-06-10,Clinica Madrid Norte
+FARM_ESP_2025_000541,a. rodriguez diaz,metformina120,2025-08-17,Hospital Central Espana
+FARM_ESP_2025_000542,Manuel Lopez Hernandez,"glibenclamida1,vareniclina3",2025-11-21,Clinica Madrid Norte
+FARM_ESP_2025_000543,d. martinez sanchez,"rosuvastatina3,atorvastatina4",2025-09-14,Centro Medico Barcelona
+FARM_ESP_2025_000544,LUCIA RODRIGUEZ,"atorvastatina1,amlodipino1,omeprazol120",2025-08-12,Clinica Madrid Norte
+FARM_ESP_2025_000545,Javier Rodriguez Gomez,"bupropion3,vareniclina3",2025-06-08,Centro Medico Barcelona
+FARM_ESP_2025_000546,MARTA MARTINEZ GOMEZ,"orlistat4,metformina4",2025-08-17,Centro Medico Barcelona
+FARM_ESP_2025_000547,Isabel Sanchez Fernandez,"enalapril2,losartan3",2025-10-29,Centro Medico Barcelona
+FARM_ESP_2025_000548,David Perez Ruiz,"rosuvastatina1,atorvastatina3",2025-04-12,Clinica Madrid Norte
+FARM_ESP_2025_000549,M. MARTIN FERNANDEZ,"ibuprofeno3,paracetamol4",2025-10-20,Clinica Madrid Norte
+FARM_ESP_2025_000550,Carmen Rodriguez Martin,"vareniclina2,amlodipino3,enalapril1",2025-08-30,Clinica Madrid Norte
+FARM_ESP_2025_000551,alejandro garcia gomez,"vareniclina1,atorvastatina4,bupropion2",2025-10-24,Hospital Central Espana
+FARM_ESP_2025_000552,nuria ruiz perez,"ibuprofeno4,paracetamol0",2025-06-24,Centro Medico Barcelona
+FARM_ESP_2025_000553,NURIA GOMEZ GOMEZ,"omeprazol1,amoxicilina4,diclofenaco1",2025-10-23,Centro Medico Barcelona
+FARM_ESP_2025_000554,DAVID SANCHEZ JIMENEZ,"vareniclina3,bupropion4",2025-08-23,Clinica Madrid Norte
+FARM_ESP_2025_000555,CARLOS MARTIN,"paracetamol3,ibuprofeno4,amlodipino4",2025-07-02,Hospital Central Espana
+FARM_ESP_2025_000556,Nuria Hernandez Jimenez,"omeprazol3,paracetamol3,ibuprofeno3",2025-01-01,Clinica Madrid Norte
+FARM_ESP_2025_000557,ALEJANDRO RUIZ GARCIA,"metformina3,orlistat3",2025-10-27,Clinica Madrid Norte
+FARM_ESP_2025_000558,irene gomez perez,omeprazol4,2025-07-16,Clinica Madrid Norte
+FARM_ESP_2025_000559,Sara Sanchez Diaz,"insulina4,losartan2,glibenclamida3",2025-08-14,Hospital Central Espana
+FARM_ESP_2025_000560,javier ruiz rodriguez,insulina4,2025-11-15,Clinica Madrid Norte
+FARM_ESP_2025_000561,SARA LOPEZ HERNANDEZ,"metformina4,orlistat1",2025-03-29,Clinica Madrid Norte
+FARM_ESP_2025_000562,ALVARO GARCIA MARTIN,metformina1,2025-10-10,Centro Medico Barcelona
+FARM_ESP_2025_000563,Antonio Perez Hernandez,"ibuprofeno2,omeprazol2",2025-05-24,Hospital Central Espana
+FARM_ESP_2025_000564,N. Perez Diaz,"atorvastatina3,rosuvastatina3,metformina1",2025-12-28,Centro Medico Barcelona
+FARM_ESP_2025_000565,DANIEL LOPEZ SANCHEZ,"sulfatoferroso3,acidofolico1",2025-01-13,Centro Medico Barcelona
+FARM_ESP_2025_000566,maria ruiz sanchez,"amlodipino2,ibuprofeno3",2025-10-14,Centro Medico Barcelona
+FARM_ESP_2025_000567,R. MARTIN GOMEZ,"atorvastatina2,rosuvastatina3",2025-10-04,Clinica Madrid Norte
+FARM_ESP_2025_000568,David Hernandez Hernandez,"orlistat1,bupropion2,glibenclamida3",2025-03-07,Hospital Central Espana
+FARM_ESP_2025_000569,laura martinez rodriguez,atorvastatina3,2025-10-08,Clinica Madrid Norte
+FARM_ESP_2025_000570,Miguel Fernandez Fernandez,"vareniclina2,bupropion1",2025-05-01,Hospital Central Espana
+FARM_ESP_2025_000571,LUCIA JIMENEZ GOMEZ,"omeprazol1,pregabalina3",2025-07-01,Centro Medico Barcelona
+FARM_ESP_2025_000572,David Lopez Gomez,paracetamol1,2025-01-16,Centro Medico Barcelona
+FARM_ESP_2025_000573,ANTONIO SANCHEZ PEREZ,"glibenclamida1,orlistat1",2025-11-23,Centro Medico Barcelona
+FARM_ESP_2025_000574,ISABEL JIMENEZ MARTIN,"orlistat2,amlodipino3",2025-05-22,Clinica Madrid Norte
+FARM_ESP_2025_000575,Marta Garcia Diaz,"orlistat3,metformina3",2025-07-21,Hospital Central Espana
+FARM_ESP_2025_000576,Isabel Garcia Garcia,paracetamol4,2025-07-12,Clinica Madrid Norte
+FARM_ESP_2025_000577,CLAUDIA HERNANDEZ LOPEZ,ketorolaco3,2025-04-20,Clinica Madrid Norte
+FARM_ESP_2025_000578,LAURA LOPEZ SANCHEZ,rosuvastatina3,2025-11-03,Clinica Madrid Norte
+FARM_ESP_2025_000579,Lucia Jimenez Ruiz,"bupropion4,vareniclina4",2025-11-19,Clinica Madrid Norte
+FARM_ESP_2025_000580,daniel martinez garcia,"paracetamol99,ketorolaco-2",2025-01-27,Centro Medico Barcelona
+FARM_ESP_2025_000581,Carmen Diaz Hernandez,glibenclamida4,2025-08-23,Clinica Madrid Norte
+FARM_ESP_2025_000582,L. JIMENEZ PEREZ,"loratadina3,ibuprofeno4",2025-10-11,Clinica Madrid Norte
+FARM_ESP_2025_000583,elena rodriguez martin,"ibuprofeno2,paracetamol1,omeprazol2",2025-09-05,Clinica Madrid Norte
+FARM_ESP_2025_000584,Manuel Garcia Rodriguez,sulfatoferroso3,2025-10-08,Clinica Madrid Norte
+FARM_ESP_2025_000585,Javier Hernandez Rodriguez,"ibuprofeno3,paracetamol3,loratadina1",2025-05-06,Hospital Central Espana
+FARM_ESP_2025_000586,Miguel Martin Perez,ibuprofeno2,2025-06-15,Hospital Central Espana
+FARM_ESP_2025_000587,rafael ruiz diaz,"omeprazol3,paracetamol1",2025-01-14,Centro Medico Barcelona
+FARM_ESP_2025_000588,CARLOS MARTINEZ RODRIGUEZ,acidofolico3,2025-08-24,Centro Medico Barcelona
+FARM_ESP_2025_000589,Sara Ruiz Fernandez,"omeprazol3,metformina2,levotiroxina1",2025-03-31,Centro Medico Barcelona
+FARM_ESP_2025_000590,david lopez jimenez,"bupropion4,vareniclina2",2025-02-07,Centro Medico Barcelona
+FARM_ESP_2025_000591,MARTA DIAZ GARCIA,insulina1,2025-06-18,Clinica Madrid Norte
+FARM_ESP_2025_000592,Maria Diaz Gomez,"omeprazol2,ibuprofeno3",2025-01-07,Centro Medico Barcelona
+FARM_ESP_2025_000593,CLAUDIA GARCIA SANCHEZ,"rosuvastatina4,atorvastatina2",2025-03-12,Clinica Madrid Norte
+FARM_ESP_2025_000594,rafael fernandez,"omeprazol2,ibuprofeno2",2025-07-01,Hospital Central Espana
+FARM_ESP_2025_000595,CARLOS DIAZ PEREZ,metformina3,2025-07-08,Hospital Central Espana
+FARM_ESP_2025_000596,MARTA FERNANDEZ GARCIA,"ibuprofeno3,naproxeno4",2025-02-07,Hospital Central Espana
+FARM_ESP_2025_000597,Manuel Jimenez Gomez,atorvastatina2,2025-09-05,Centro Medico Barcelona
+FARM_ESP_2025_000598,Maria Rodriguez Sanchez,"omeprazol1,ibuprofeno2,paracetamol3",2025-04-16,Centro Medico Barcelona
+FARM_ESP_2025_000599,ALEJANDRO GARCIA GOMEZ,"metformina3,atorvastatina3",2025-08-20,Clinica Madrid Norte
+FARM_ESP_2025_000600,DAVID FERNANDEZ RUIZ,"amlodipino2,enalapril2",2025-02-23,Clinica Madrid Norte
+FARM_ESP_2025_000601,javier fernandez gomez,"paracetamol2,ibuprofeno4,omeprazol3",2025-08-20,Hospital Central Espana
+FARM_ESP_2025_000602,Javier Perez Martinez,vareniclina4,2025-09-26,Centro Medico Barcelona
+FARM_ESP_2025_000603,Javier Garcia Fernandez,"glibenclamida1,metformina2,rosuvastatina2",2025-08-21,Hospital Central Espana
+FARM_ESP_2025_000604,david fernandez perez,"paracetamol4,ibuprofeno4,omeprazol4",2025-04-11,Centro Medico Barcelona
+FARM_ESP_2025_000605,D. Lopez Diaz,"glibenclamida1,insulina3",2025-12-26,Clinica Madrid Norte
+FARM_ESP_2025_000606,NURIA DIAZ RODRIGUEZ,omeprazol3,2025-09-25,Hospital Central Espana
+FARM_ESP_2025_000607,Manuel Loez Hernandez,"insulina2,glibenclamida-1",2025-12-30,Clinica Madrid Norte
+FARM_ESP_2025_000608,MIGUEL HERNANDEZ PEREZ,losartan1,2025-05-22,Hospital Central Espana
+FARM_ESP_2025_000609,SERGIO HERNANDEZ DIAZ,vareniclina1,2025-03-22,Clinica Madrid Norte
+FARM_ESP_2025_000610,MIGUEL GOMEZ HERNANDEZ,"paracetamol1,omeprazol4",2025-02-11,Clinica Madrid Norte
+FARM_ESP_2025_000611,Irene Sanchez Lopez,omeprazol3,2025-08-23,Centro Medico Barcelona
+FARM_ESP_2025_000612,Claudia Garcia Lopez,"paracetamol3,ibuprofeno4",2025-07-23,Hospital Central Espana
+FARM_ESP_2025_000613,Elena Diaz Hernandez,"orlistat4,bupropion1,vareniclina1",2025-02-26,Clinica Madrid Norte
+FARM_ESP_2025_000614,Paula Ruiz Martin,"atorvastatina2,rosuvastatina4",2025-08-18,Hospital Central Espana
+FARM_ESP_2025_000615,nuria fernandez diaz,"ibuprofeno3,omeprazol0",2025-04-08,Clinica Madrid Norte
+FARM_ESP_2025_000616,PAULA MARTIN DIAZ,"paracetamol2,ibuprofeno1",2025-06-07,Hospital Central Espana
+FARM_ESP_2025_000617,Maria Fernandez Ruiz,omeprazol1,2025-03-20,Clinica Madrid Norte
+FARM_ESP_2025_000618,sara diaz ruiz,acidofolico2,2025-08-04,Centro Medico Barcelona
+FARM_ESP_2025_000619,Manuel Sanchez,"atorvastatina1,rosuvastatina1",2025-03-20,Centro Medico Barcelona
+FARM_ESP_2025_000620,CARLOS LOPEZ LOPEZ,"insulina3,metformina3,glibenclamida3",2025-03-30,Hospital Central Espana
+FARM_ESP_2025_000621,SERGIO MARTINEZ PEREZ,"paracetamol3,omeprazol1,ibuprofeno2",2025-05-22,Centro Medico Barcelona
+FARM_ESP_2025_000622,Alejandro Diaz Garcia,"metformina4,orlistat4",2025-01-23,Clinica Madrid Norte
+FARM_ESP_2025_000623,Javier Gomez Gomez,rosuvastatina1,2025-03-27,Clinica Madrid Norte
+FARM_ESP_2025_000624,Laura Diaz Martinez,ibuprofeno2,2025-07-27,Hospital Central Espana
+FARM_ESP_2025_000625,Marta Lopez Jimenez,"atorvastatina3,rosuvastatina4",2025-02-26,Clinica Madrid Norte
+FARM_ESP_2025_000626,CARMEN GARCIA RODRIGUEZ,"levotiroxina3,paracetamol2,ibuprofeno1",2025-11-23,Centro Medico Barcelona
+FARM_ESP_2025_000627,elena sanchez gomez,"orlistat4,metformina2",2025-12-28,Clinica Madrid Norte
+FARM_ESP_2025_000628,Maria Ruiz Sanchez,bupropion2,2025-10-20,Hospital Central Espana
+FARM_ESP_2025_000629,CARLOS GOMEZ MARTINEZ,"losartan3,amlodipino1",2025-11-10,Centro Medico Barcelona
+FARM_ESP_2025_000630,DAVID FERNANDEZ HERNANDEZ,"atorvastatina3,losartan1",2025-07-04,Clinica Madrid Norte
+FARM_ESP_2025_000631,Daniel Perez Perez,"insulina4,metformina4",2025-09-20,Clinica Madrid Norte
+FARM_ESP_2025_000632,lucia ruiz hernandez,"losartan3,amlodipino3,enalapril3",2025-06-19,Clinica Madrid Norte
+FARM_ESP_2025_000633,SARA GOMEZ GARCIA,ibuprofeno3,2025-08-03,Centro Medico Barcelona
+FARM_ESP_2025_000634,JAVIER DIAZ DIAZ,"ibuprofeno3,omeprazol1",2025-09-23,Clinica Madrid Norte
+FARM_ESP_2025_000635,C. FERNANDEZ PEREZ,"glibenclamida2,insulina1",2025-07-08,Clinica Madrid Norte
+FARM_ESP_2025_000636,SERGIO RIZ GARCIA,enalapril4,2025-04-02,Hospital Central Espana
+FARM_ESP_2025_000637,daniel martinez ruiz,metformina1,2025-04-08,Centro Medico Barcelona
+FARM_ESP_2025_000638,IRENE SANCHEZ DIAZ,"omeprazol4,paracetamol2,ibuprofeno2",2025-11-27,Clinica Madrid Norte
+FARM_ESP_2025_000639,Manuel Sanchez Lopez,"ibuprofeno2,paracetamol1",2025-01-01,Centro Medico Barcelona
+FARM_ESP_2025_000640,Sergio Perez Sanchez,"rosuvastatina2,amlodipino3",2025-06-03,Centro Medico Barcelona
+FARM_ESP_2025_000641,manuel diaz martinez,"diclofenaco2,amoxicilina2,ibuprofeno3",2025-04-19,Hospital Central Espana
+FARM_ESP_2025_000642,Nuria Rodriguez,"levotiroxina2,metformina1",2025-08-07,Centro Medico Barcelona
+FARM_ESP_2025_000643,Alejandro Hernandez Diaz,"atorvastatina99,glibenclamida4,insulina1",2025-09-05,Clinica Madrid Norte
+FARM_ESP_2025_000644,Manuel Ruiz Hernandez,"glibenclamida4,amlodipino3",2025-08-28,Centro Medico Barcelona
+FARM_ESP_2025_000645,RAFAEL DIAZ RODRIGUEZ,"metformina2,orlistat4,atorvastatina2",2025-07-24,Clinica Madrid Norte
+FARM_ESP_2025_000646,CARMEN HERNANDEZ JIMENEZ,"omeprazol2,amlodipino1,atorvastatina4",2025-12-09,Centro Medico Barcelona
+FARM_ESP_2025_000647,SARA RUIZ RODRIGUEZ,"vareniclina3,bupropion4",2025-11-17,Hospital Central Espana
+FARM_ESP_2025_000648,JAVIER PEREZ JIMENEZ,"glibenclamida2,metformina3,insulina1",2025-01-11,Hospital Central Espana
+FARM_ESP_2025_000649,Lucia Rodriguez Perez,"amlodipino3,losartan2,acidofolico4",2025-07-31,Clinica Madrid Norte
+FARM_ESP_2025_000650,CLAUDIA HERNANDEZ RODRIGUEZ,atorvastatina1,2025-12-03,Clinica Madrid Norte
+FARM_ESP_2025_000651,miguel martinez,"vareniclina2,bupropion2",2025-11-10,Clinica Madrid Norte
+FARM_ESP_2025_000652,Irene Martin Perez,"vareniclina2,bupropion1",2025-06-03,Clinica Madrid Norte
+FARM_ESP_2025_000653,PAULA HERNANDEZ MARTIN,"bupropion99,vareniclina2",2025-11-22,Hospital Central Espana
+FARM_ESP_2025_000654,ALVARO GARCIA SANCHEZ,"enalapril2,amlodipino120",2025-09-23,Clinica Madrid Norte
+FARM_ESP_2025_000655,Maria Lopez Sanchez,"ibuprofeno2,ketorolaco4,paracetamol4",2025-09-01,Hospital Central Espana
+FARM_ESP_2025_000656,IRENE JIMENEZ JIMENEZ,"vareniclina-1,bupropion1",2025-02-25,Centro Medico Barcelona
+FARM_ESP_2025_000657,A. SANCHEZ MARTIN,vareniclina1,2025-12-07,Hospital Central Espana
+FARM_ESP_2025_000658,RAFAEL JIMENEZ DIAZ,"glibenclamida2,insulina4,metformina2",2025-04-08,Clinica Madrid Norte
+FARM_ESP_2025_000659,paula diaz jimenez,"vareniclina2,bupropion2",2025-09-06,Centro Medico Barcelona
+FARM_ESP_2025_000660,Antonio Martin Hernandez,"glibenclamida4,metformina3,insulina4",2025-04-13,Centro Medico Barcelona
+FARM_ESP_2025_000661,nuria hernandez ruiz,"metformina3,amlodipino2",2025-08-11,Hospital Central Espana
+FARM_ESP_2025_000662,alejandro lopez martinez,"rosuvastatina2,atorvastatina4",2025-05-09,Centro Medico Barcelona
+FARM_ESP_2025_000663,IRENE LOPEZ SANCHEZ,"orlistat3,metformina1",2025-05-09,Hospital Central Espana
+FARM_ESP_2025_000664,maria sanchez martinez,"vareniclina1,bupropion2",2025-04-17,Centro Medico Barcelona
+FARM_ESP_2025_000665,Laura Martin Garcia,"omeprazol4,paracetamol3",2025-03-18,Centro Medico Barcelona
+FARM_ESP_2025_000666,Antonio Diaz Martinez,"omeprazol3,atorvastatina2,paracetamol2",2025-03-14,Clinica Madrid Norte
+FARM_ESP_2025_000667,sara diaz ruiz,"atorvastatina4,acidofolico2",2025-02-07,Clinica Madrid Norte
+FARM_ESP_2025_000668,E. MARTINEZ SANCHEZ,"ibuprofeno4,paracetamol1",2025-08-25,Hospital Central Espana
+FARM_ESP_2025_000669,ISABEL RODRIGUEZ JIMENEZ,omeprazol4,2025-11-17,Hospital Central Espana
+FARM_ESP_2025_000670,nuria jimenez sanchez,"ibuprofeno1,pregabalina2",2025-11-03,Clinica Madrid Norte
+FARM_ESP_2025_000671,DAVID HERNANDEZ RODRIGUEZ,"glibenclamida2,metformina3",2025-05-12,Hospital Central Espana
+FARM_ESP_2025_000672,Alejandro Rodriguez Martinez,glibenclamida2,2025-01-16,Hospital Central Espana
+FARM_ESP_2025_000673,DANIEL HERNANDEZ HERNANDEZ,"ibuprofeno1,paracetamol4,metformina3",2025-07-12,Hospital Central Espana
+FARM_ESP_2025_000674,maria diaz perez,"paracetamol4,diclofenaco1,amoxicilina4",2025-04-01,Clinica Madrid Norte
+FARM_ESP_2025_000675,alvaro garcia sanchez,"enalapril2,amlodipino4,losartan1",2025-11-28,Centro Medico Barcelona
+FARM_ESP_2025_000676,Pablo Garcia,"rosuvastatina2,atorvastatina1",2025-11-02,Clinica Madrid Norte
+FARM_ESP_2025_000677,Laura Jimenez Ruiz,bupropion3,2025-09-06,Clinica Madrid Norte
+FARM_ESP_2025_000678,ALVARO MARTINEZ FERNANDEZ,"omeprazol1,paracetamol3",2025-01-14,Hospital Central Espana
+FARM_ESP_2025_000679,david gomez gomez,"atorvastatina3,paracetamol3",2025-10-26,Clinica Madrid Norte
+FARM_ESP_2025_000680,Laura Sanchez Garcia,"ibuprofeno1,paracetamol3,omeprazol4",2025-08-20,Clinica Madrid Norte
+FARM_ESP_2025_000681,carmen garcia garcia,"atorvastatina2,vareniclina2",2025-06-16,Clinica Madrid Norte
+FARM_ESP_2025_000682,Antonio Ruiz Hernandez,"paracetamol3,ibuprofeno4,omeprazol1",2025-12-29,Clinica Madrid Norte
+FARM_ESP_2025_000683,CARLOS SANCHEZ DIAZ,"rosuvastatina4,atorvastatina4",2025-02-12,Hospital Central Espana
+FARM_ESP_2025_000684,pablo martin,"orlistat2,metformina1",2025-01-15,Centro Medico Barcelona
+FARM_ESP_2025_000685,sara jimenez,insulina1,2025-01-07,Clinica Madrid Norte
+FARM_ESP_2025_000686,Lucia Hernandez,omeprazol2,2025-12-05,Clinica Madrid Norte
+FARM_ESP_2025_000687,NURIA RUIZ MARTIN,"losartan4,ibuprofeno1,paracetamol1",2025-08-30,Clinica Madrid Norte
+FARM_ESP_2025_000688,laura rodriguez ruiz,"vareniclina2,bupropion3",2025-07-05,Clinica Madrid Norte
+FARM_ESP_2025_000689,ANTONIO HERNANDEZ RODRIGUEZ,"omeprazol3,paracetamol-2,ibuprofeno2",2025-09-24,Centro Medico Barcelona
+FARM_ESP_2025_000690,SERGIO FERNANDEZ GOMEZ,"insulina1,atorvastatina1",2025-07-16,Clinica Madrid Norte
+FARM_ESP_2025_000691,CARLOS MARTIN PEREZ,omeprazol3,2025-01-26,Centro Medico Barcelona
+FARM_ESP_2025_000692,claudia lopez garcia,paracetamol3,2025-04-25,Centro Medico Barcelona
+FARM_ESP_2025_000693,daniel hernandez fernandez,orlistat4,2025-08-20,Clinica Madrid Norte
+FARM_ESP_2025_000694,Nuria Lopez Sanchez,glibenclamida4,2025-12-27,Centro Medico Barcelona
+FARM_ESP_2025_000695,isabel garcia garcia,ibuprofeno4,2025-12-10,Hospital Central Espana
+FARM_ESP_2025_000696,Lucia Lopez Hernandez,"losartan1,orlistat4,metformina3",2025-07-10,Hospital Central Espana
+FARM_ESP_2025_000697,Rafael Jimenez Diaz,"glibenclamida2,metformina1,insulina1",2025-07-12,Centro Medico Barcelona
+FARM_ESP_2025_000698,IRENE DIAZ MARTIN,orlistat3,2025-05-01,Centro Medico Barcelona
+FARM_ESP_2025_000699,Sara Lopez Ruiz,losartan4,2025-08-10,Hospital Central Espana
+FARM_ESP_2025_000700,NURIA PEREZ SANCHEZ,bupropion1,2025-09-23,Centro Medico Barcelona
+FARM_ESP_2025_000701,Carmen Martinez Fernandez,losartan1,2025-05-19,Hospital Central Espana
+FARM_ESP_2025_000702,laura gomez hernandez,"metformina1,glibenclamida0,insulina3",2025-10-14,Centro Medico Barcelona
+FARM_ESP_2025_000703,antonio garcia hernandez,atorvastatina4,2025-09-04,Centro Medico Barcelona
+FARM_ESP_2025_000704,alvaro perez diaz,"bupropion1,vareniclina2",2025-12-26,Hospital Central Espana
+FARM_ESP_2025_000705,MANUEL HERNANDEZ PEREZ,"metformina1,amlodipino2,orlistat1",2025-12-25,Centro Medico Barcelona
+FARM_ESP_2025_000706,Marta Ruiz Sanchez,rosuvastatina2,2025-01-20,Hospital Central Espana
+FARM_ESP_2025_000707,DANIEL SANCHEZ HERNANDEZ,paracetamol2,2025-09-24,Hospital Central Espana
+FARM_ESP_2025_000708,carmen perez jimenez,"enalapril3,metformina1,atorvastatina1",2025-05-11,Centro Medico Barcelona
+FARM_ESP_2025_000709,ANTONIO DIAZ GOMEZ,paracetamol2,2025-06-21,Clinica Madrid Norte
+FARM_ESP_2025_000710,ELENA RODRIGUEZ RUIZ,"paracetamol1,ibuprofeno4,omeprazol2",2025-11-30,Clinica Madrid Norte
+FARM_ESP_2025_000711,Alvaro Garcia,"orlistat2,metformina0",2025-09-22,Hospital Central Espana
+FARM_ESP_2025_000712,maria fernandez perez,glibenclamida4,2025-12-12,Centro Medico Barcelona
+FARM_ESP_2025_000713,P. JIMENEZ FERNANDEZ,"paracetamol2,ibuprofeno2",2025-05-13,Centro Medico Barcelona
+FARM_ESP_2025_000714,C. Rodriguez Lopez,"diclofenaco1,omeprazol4,paracetamol2",2025-09-24,Centro Medico Barcelona
+FARM_ESP_2025_000715,ALEJANDRO LOPEZ GARCIA,"enalapril3,amlodipino2,losartan2",2025-01-19,Clinica Madrid Norte
+FARM_ESP_2025_000716,C. PEREZ JIMENEZ,"bupropion2,vareniclina3",2025-02-06,Hospital Central Espana
+FARM_ESP_2025_000717,nuria diaz rodriguez,"paracetamol2,omeprazol3",2025-11-08,Hospital Central Espana
+FARM_ESP_2025_000718,MIGUEL DIAZ HERNANDEZ,bupropion3,2025-04-28,Centro Medico Barcelona
+FARM_ESP_2025_000719,SARA MARTIN JIMENEZ,ibuprofeno2,2025-02-18,Centro Medico Barcelona
+FARM_ESP_2025_000720,Claudia Lopez Lopez,vareniclina4,2025-09-02,Centro Medico Barcelona
+FARM_ESP_2025_000721,M. SANCHEZ FERNANDEZ,paracetamol1,2025-04-13,Clinica Madrid Norte
+FARM_ESP_2025_000722,MARIA SANCHEZ GOMEZ,"paracetamol1,omeprazol3,ibuprofeno1",2025-02-13,Clinica Madrid Norte
+FARM_ESP_2025_000723,M. GARCIA RUIZ,"atorvastatina2,rosuvastatina3",2025-05-25,Clinica Madrid Norte
+FARM_ESP_2025_000724,javier rodriguez gomez,vareniclina2,2025-05-30,Clinica Madrid Norte
+FARM_ESP_2025_000725,Manuel Ruiz Lopez,"atorvastatina2,rosuvastatina1",2025-05-26,Clinica Madrid Norte
+FARM_ESP_2025_000726,Irene Diaz Martin,sulfatoferroso3,2025-02-05,Hospital Central Espana
+FARM_ESP_2025_000727,L. FERNANDEZ GARCIA,"losartan2,enalapril2",2025-12-30,Hospital Central Espana
+FARM_ESP_2025_000728,Nuria Hernandez,ibuprofeno2,2025-11-29,Hospital Central Espana
+FARM_ESP_2025_000729,MARTA LOPEZ FERNANDEZ,"metformina4,enalapril1",2025-10-18,Hospital Central Espana
+FARM_ESP_2025_000730,isabel martinez perez,"enalapril2,losartan1",2025-05-30,Clinica Madrid Norte
+FARM_ESP_2025_000731,alejandro martinez lopez,"atorvastatina1,rosuvastatina4",2025-11-09,Centro Medico Barcelona
+FARM_ESP_2025_000732,paula martin martin,"omeprazol3,amlodipino3,atorvastatina2",2025-02-22,Centro Medico Barcelona
+FARM_ESP_2025_000733,sara lopez fernandez,vareniclina2,2025-11-30,Hospital Central Espana
+FARM_ESP_2025_000734,pablo jimenez lopez,"insulina1,acidofolico1",2025-09-21,Hospital Central Espana
+FARM_ESP_2025_000735,NURIA RUIZ PEREZ,"atorvastatina1,omeprazol2,ibuprofeno4",2025-04-08,Hospital Central Espana
+FARM_ESP_2025_000736,MARTA SANCHEZ GARCIA,"ibuprofeno1,paracetamol4",2025-01-08,Clinica Madrid Norte
+FARM_ESP_2025_000737,Carlos Martin Perez,"omeprazol3,naproxeno1",2025-09-12,Clinica Madrid Norte
+FARM_ESP_2025_000738,Miguel Fernandez,"amlodipino2,orlistat1,enalapril3",2025-04-27,Hospital Central Espana
+FARM_ESP_2025_000739,nuria perez sanchez,"bupropion4,vareniclina1",2025-08-24,Hospital Central Espana
+FARM_ESP_2025_000740,claudia fernandez ruiz,"paracetamol2,omeprazol2,amoxicilina1",2025-10-02,Hospital Central Espana
+FARM_ESP_2025_000741,CARLOS LOPEZ FERNANDEZ,"orlistat2,metformina0",2025-07-21,Hospital Central Espana
+FARM_ESP_2025_000742,Carmen Jienez Jimenez,vareniclina1,2025-03-05,Centro Medico Barcelona
+FARM_ESP_2025_000743,I. SANCHEZ LOPEZ,"amlodipino4,paracetamol1",2025-02-20,Clinica Madrid Norte
+FARM_ESP_2025_000744,ANTONIO PEREZ RUIZ,"rosuvastatina3,atorvastatina3",2025-05-18,Centro Medico Barcelona
+FARM_ESP_2025_000745,Sergio Fernandez,sulfatoferroso3,2025-11-14,Hospital Central Espana
+FARM_ESP_2025_000746,SARA RUIZ LOPEZ,rosuvastatina2,2025-05-07,Clinica Madrid Norte
+FARM_ESP_2025_000747,MANUEL MARTINEZ RUIZ,amoxicilina2,2025-01-15,Hospital Central Espana
+FARM_ESP_2025_000748,david diaz rodriguez,paracetamol2,2025-03-10,Hospital Central Espana
+FARM_ESP_2025_000749,manuel sanchez gomez,"ibuprofeno1,paracetamol1",2025-03-11,Clinica Madrid Norte
+FARM_ESP_2025_000750,elena gomez garcia,atorvastatina2,2025-04-11,Clinica Madrid Norte
+FARM_ESP_2025_000751,DAVID PEREZ MARTIN,"ibuprofeno3,paracetamol1,omeprazol2",2025-06-15,Centro Medico Barcelona
+FARM_ESP_2025_000752,pablo ruiz lopez,glibenclamida2,2025-10-23,Clinica Madrid Norte
+FARM_ESP_2025_000753,SARA SANCHEZ,"paracetamol3,ibuprofeno1,insulina3",2025-03-02,Hospital Central Espana
+FARM_ESP_2025_000754,SERGIO GARCIA DIAZ,diclofenaco2,2025-07-30,Clinica Madrid Norte
+FARM_ESP_2025_000755,Claudia Loez Garcia,losartan1,2025-12-13,Centro Medico Barcelona
+FARM_ESP_2025_000756,claudia ruiz hernandez,"metformina2,atorvastatina4",2025-06-03,Centro Medico Barcelona
+FARM_ESP_2025_000757,Daniel Lopez Martinez,"paracetamol3,amoxicilina2",2025-01-20,Clinica Madrid Norte
+FARM_ESP_2025_000758,ALEJANDRO GOMEZ DIAZ,"atorvastatina2,losartan4,omeprazol3",2025-10-30,Hospital Central Espana
+FARM_ESP_2025_000759,Sergio Hernandez,"acidofolico1,sulfatoferroso4",2025-08-07,Clinica Madrid Norte
+FARM_ESP_2025_000760,Carmen Gomez Rodriguez,orlistat1,2025-08-18,Hospital Central Espana
+FARM_ESP_2025_000761,RAFAEL JIMENEZ PEREZ,"atorvastatina2,losartan3",2025-12-01,Centro Medico Barcelona
+FARM_ESP_2025_000762,Marta Martin Diaz,sulfatoferroso1,2025-01-06,Hospital Central Espana
+FARM_ESP_2025_000763,Sara Martinez Sanchez,ibuprofeno4,2025-10-07,Centro Medico Barcelona
+FARM_ESP_2025_000764,javier perez martinez,"glibenclamida1,vareniclina2,insulina4",2025-03-22,Clinica Madrid Norte
+FARM_ESP_2025_000765,laura ruiz jimenez,"rosuvastatina2,atorvastatina2",2025-05-18,Clinica Madrid Norte
+FARM_ESP_2025_000766,Alvaro Hernandez Hernandez,"bupropion3,vareniclina1",2025-01-05,Clinica Madrid Norte
+FARM_ESP_2025_000767,LAURA RUIZ PEREZ,omeprazol3,2025-12-28,Clinica Madrid Norte
+FARM_ESP_2025_000768,L. HERNANDEZ HERNANDEZ,"orlistat3,metformina2",2025-01-15,Clinica Madrid Norte
+FARM_ESP_2025_000769,Maria Martinez Sanchez,"omeprazol3,paracetamol4,amoxicilina1",2025-11-22,Centro Medico Barcelona
+FARM_ESP_2025_000770,Sara Rodriguez Jimenez,"ibuprofeno2,omeprazol3",2025-07-18,Clinica Madrid Norte
+FARM_ESP_2025_000771,laura rodriguez ruiz,"vareniclina2,bupropion2",2025-06-10,Clinica Madrid Norte
+FARM_ESP_2025_000772,carlos martinez rodriguez,"ibuprofeno1,paracetamol1,omeprazol4",2025-10-03,Centro Medico Barcelona
+FARM_ESP_2025_000773,isabel perez lopez,"bupropion2,vareniclina4",2025-06-02,Centro Medico Barcelona
+FARM_ESP_2025_000774,Isabel Ruiz Lopez,ibuprofeno3,2025-09-05,Clinica Madrid Norte
+FARM_ESP_2025_000775,DANIEL MARTIN MARTIN,"naproxeno2,omeprazol1,gabapentina4",2025-01-17,Clinica Madrid Norte
+FARM_ESP_2025_000776,sergio ruiz fernandez,amoxicilina4,2025-07-03,Centro Medico Barcelona
+FARM_ESP_2025_000777,ELENA MARTIN LOPEZ,"bupropion3,orlistat1,vareniclina4",2025-09-06,Clinica Madrid Norte
+FARM_ESP_2025_000778,miguel fernandez hernandez,"paracetamol3,omeprazol0,ibuprofeno4",2025-11-06,Centro Medico Barcelona
+FARM_ESP_2025_000779,CARMEN RUIZ RODRIGUEZ,"insulina3,glibenclamida2,metformina4",2025-08-24,Hospital Central Espana
+FARM_ESP_2025_000780,ALVARO RODRIGUEZ DIAZ,"vareniclina4,bupropion1",2025-07-11,Clinica Madrid Norte
+FARM_ESP_2025_000781,carlos gomez fernandez,"amlodipino2,omeprazol2",2025-08-17,Clinica Madrid Norte
+FARM_ESP_2025_000782,David Martin Garcia,"metformina1,orlistat4",2025-03-31,Hospital Central Espana
+FARM_ESP_2025_000783,ALEJANDRO SANCHEZ RUIZ,"glibenclamida1,insulina2",2025-02-06,Clinica Madrid Norte
+FARM_ESP_2025_000784,laura prez garcia,amlodipino2,2025-05-12,Clinica Madrid Norte
+FARM_ESP_2025_000785,PAULA LOPEZ LOPEZ,"rosuvastatina3,atorvastatina3,vareniclina4",2025-08-28,Hospital Central Espana
+FARM_ESP_2025_000786,Manuel Jimenez Perez,paracetamol3,2025-09-12,Centro Medico Barcelona
+FARM_ESP_2025_000787,MIGUEL DIAZ HERNANDEZ,"bupropion4,vareniclina2",2025-10-07,Clinica Madrid Norte
+FARM_ESP_2025_000788,Paula Fernandez Sanchez,"omeprazol3,ibuprofeno3,losartan4",2025-12-11,Centro Medico Barcelona
+FARM_ESP_2025_000789,ISABEL LOPEZ DIAZ,"bupropion2,amlodipino2,vareniclina3",2025-02-28,Centro Medico Barcelona
+FARM_ESP_2025_000790,David Martinez Lopez,paracetamol1,2025-12-29,Clinica Madrid Norte
+FARM_ESP_2025_000791,Lucia Sanchez,"amlodipino1,losartan1,enalapril1",2025-07-08,Centro Medico Barcelona
+FARM_ESP_2025_000792,lucia martin rodriguez,"glibenclamida3,insulina3",2025-08-26,Hospital Central Espana
+FARM_ESP_2025_000793,Alvaro Sanchez Martin,"vareniclina3,bupropion1",2025-12-22,Centro Medico Barcelona
+FARM_ESP_2025_000794,Daniel Jimenez Diaz,"acidofolico2,sulfatoferroso3",2025-04-10,Clinica Madrid Norte
+FARM_ESP_2025_000795,IRENE JIMENEZ MARTIN,"amoxicilina2,diclofenaco4,omeprazol2",2025-05-08,Hospital Central Espana
+FARM_ESP_2025_000796,nuria sanchez garcia,"orlistat1,metformina2",2025-04-11,Clinica Madrid Norte
+FARM_ESP_2025_000797,Marta Hernandez Perez,"ibuprofeno3,paracetamol1",2025-09-12,Hospital Central Espana
+FARM_ESP_2025_000798,d. hernandez diaz,"amoxicilina4,omeprazol3,paracetamol3",2025-02-11,Hospital Central Espana
+FARM_ESP_2025_000799,Laura Diaz Martinez,"insulina2,orlistat1,metformina2",2025-04-01,Centro Medico Barcelona
+FARM_ESP_2025_000800,LAURA GOMEZ JIMENEZ,"ibuprofeno4,omeprazol3",2025-12-22,Hospital Central Espana
+FARM_ESP_2025_000801,J. DIAZ RUIZ,bupropion2,2025-10-19,Clinica Madrid Norte
+FARM_ESP_2025_000802,elena hernandez rodriguez,rosuvastatina4,2025-02-12,Centro Medico Barcelona
+FARM_ESP_2025_000803,Sergio Martinez Rodriguez,"omeprazol2,losartan2",2025-08-03,Hospital Central Espana
+FARM_ESP_2025_000804,Paula Hernandez Rodriguez,"atorvastatina3,rosuvastatina3",2025-09-25,Hospital Central Espana
+FARM_ESP_2025_000805,Elena Fernandez Martin,orlistat4,2025-07-14,Clinica Madrid Norte
+FARM_ESP_2025_000806,alejandro diaz perez,"losartan3,amlodipino2",2025-04-14,Clinica Madrid Norte
+FARM_ESP_2025_000807,ANTONIO JIMENEZ MARTIN,paracetamol2,2025-06-05,Centro Medico Barcelona
+FARM_ESP_2025_000808,javier gomez hernandez,"amlodipino3,losartan3,enalapril2",2025-02-13,Centro Medico Barcelona
+FARM_ESP_2025_000809,Daniel Rodriguez Lopez,"paracetamol3,omeprazol1",2025-02-17,Hospital Central Espana
+FARM_ESP_2025_000810,sara rodriguez lopez,"enalapril1,losartan4,acidofolico2",2025-01-13,Hospital Central Espana
+FARM_ESP_2025_000811,Manuel Rodriguez Jimenez,"ibuprofeno4,paracetamol4",2025-08-17,Hospital Central Espana
+FARM_ESP_2025_000812,D. Martin Hernandez,omeprazol4,2025-05-15,Hospital Central Espana
+FARM_ESP_2025_000813,Sergio Lopez Ruiz,"losartan3,amlodipino3",2025-06-28,Centro Medico Barcelona
+FARM_ESP_2025_000814,Isabel Jimenez Ruiz,"rosuvastatina2,atorvastatina1",2025-04-21,Centro Medico Barcelona
+FARM_ESP_2025_000815,CLAUDIA HERNANDEZ RODRIGUEZ,"losartan1,enalapril1",2025-07-14,Centro Medico Barcelona
+FARM_ESP_2025_000816,Carmen Martinez Perez,metformina1,2025-10-02,Centro Medico Barcelona
+FARM_ESP_2025_000817,PAULA MARTINEZ GOMEZ,"rosuvastatina1,atorvastatina1",2025-02-15,Centro Medico Barcelona
+FARM_ESP_2025_000818,SERGIO RODRIGUEZ PEREZ,"ibuprofeno4,loratadina3",2025-06-26,Clinica Madrid Norte
+FARM_ESP_2025_000819,JAVIER MARTIN HERNANDEZ,"metformina3,paracetamol4,insulina1",2025-07-27,Hospital Central Espana
+FARM_ESP_2025_000820,sara garcia hernandez,paracetamol3,2025-04-10,Clinica Madrid Norte
+FARM_ESP_2025_000821,CARMEN SANCHEZ,"atorvastatina1,omeprazol4,losartan4",2025-09-02,Centro Medico Barcelona
+FARM_ESP_2025_000822,antonio garcia hernandez,ibuprofeno3,2025-01-24,Hospital Central Espana
+FARM_ESP_2025_000823,CLAUDIA DIAZ FERNANDEZ,"glibenclamida4,metformina1",2025-07-22,Hospital Central Espana
+FARM_ESP_2025_000824,isabel perez rodriguez,"paracetamol2,omeprazol1,ketorolaco2",2025-01-11,Centro Medico Barcelona
+FARM_ESP_2025_000825,J. HERNANDEZ LOPEZ,ibuprofeno2,2025-08-18,Clinica Madrid Norte
+FARM_ESP_2025_000826,Alvaro Hernandez Martinez,omeprazol3,2025-03-29,Hospital Central Espana
+FARM_ESP_2025_000827,ANTONIO DIAZ GOMEZ,paracetamol3,2025-04-18,Hospital Central Espana
+FARM_ESP_2025_000828,daniel perez garcia,"losartan3,omeprazol2",2025-09-05,Centro Medico Barcelona
+FARM_ESP_2025_000829,Sara Rodriguez,"ibuprofeno1,omeprazol4",2025-03-02,Clinica Madrid Norte
+FARM_ESP_2025_000830,NURIA JIMENEZ SANCHEZ,atorvastatina1,2025-09-04,Centro Medico Barcelona
+FARM_ESP_2025_000831,Carmen Martin Jimenez,"acidofolico3,sulfatoferroso1",2025-11-05,Clinica Madrid Norte
+FARM_ESP_2025_000832,Marta Perez Fernandez,glibenclamida4,2025-02-17,Clinica Madrid Norte
+FARM_ESP_2025_000833,Claudia Martin Gomez,"enalapril2,losartan1",2025-03-13,Clinica Madrid Norte
+FARM_ESP_2025_000834,Antonio Martin Gomez,ibuprofeno3,2025-02-08,Clinica Madrid Norte
+FARM_ESP_2025_000835,LAURA DIAZ MARTINEZ,insulina2,2025-04-30,Centro Medico Barcelona
+FARM_ESP_2025_000836,nuria garcia fernandez,"insulina1,metformina3,glibenclamida3",2025-03-03,Clinica Madrid Norte
+FARM_ESP_2025_000837,carlos martin gomez,"losartan3,amlodipino4",2025-05-20,Centro Medico Barcelona
+FARM_ESP_2025_000838,RAFAEL GARCIA DIAZ,omeprazol4,2025-10-19,Centro Medico Barcelona
+FARM_ESP_2025_000839,sergio perez rodriguez,"omeprazol2,ketorolaco1",2025-08-04,Centro Medico Barcelona
+FARM_ESP_2025_000840,alvaro sanchez ruiz,bupropion3,2025-06-11,Clinica Madrid Norte
+FARM_ESP_2025_000841,Sara Martin Hernandez,"acidofolico3,amlodipino2",2025-06-28,Centro Medico Barcelona
+FARM_ESP_2025_000842,Irene Fernandez,"diclofenaco1,paracetamol3",2025-03-19,Hospital Central Espana
+FARM_ESP_2025_000843,s. hernandez ruiz,"vareniclina3,bupropion4",2025-08-01,Clinica Madrid Norte
+FARM_ESP_2025_000844,IRENE GARCIA MARTIN,"insulina4,ibuprofeno2",2025-02-14,Hospital Central Espana
+FARM_ESP_2025_000845,Carmen Grcia Ruiz,metformina2,2025-08-05,Clinica Madrid Norte
+FARM_ESP_2025_000846,daniel rodriguez fernandez,"metformina4,paracetamol3",2025-02-15,Centro Medico Barcelona
+FARM_ESP_2025_000847,Isabel Perez Gomez,acidofolico2,2025-01-05,Hospital Central Espana
+FARM_ESP_2025_000848,Sergio Gomez,insulina3,2025-03-04,Hospital Central Espana
+FARM_ESP_2025_000849,manuel martin hernandez,"vareniclina3,bupropion1",2025-05-15,Centro Medico Barcelona
+FARM_ESP_2025_000850,pablo hernandez,"losartan2,enalapril3",2025-02-12,Clinica Madrid Norte
+FARM_ESP_2025_000851,Irene Martinez Perez,"omeprazol2,paracetamol3",2025-03-19,Centro Medico Barcelona
+FARM_ESP_2025_000852,laura martinez sanchez,paracetamol4,2025-09-24,Centro Medico Barcelona
+FARM_ESP_2025_000853,antonio garcia hernandez,"rosuvastatina1,atorvastatina1",2025-01-07,Clinica Madrid Norte
+FARM_ESP_2025_000854,pablo jimenz diaz,"acidofolico2,sulfatoferroso3",2025-05-05,Clinica Madrid Norte
+FARM_ESP_2025_000855,Marta Jimenez Gomez,"orlistat3,vareniclina1",2025-11-17,Centro Medico Barcelona
+FARM_ESP_2025_000856,Marta Martinez Rodriguez,"glibenclamida2,metformina2,insulina-2",2025-03-28,Hospital Central Espana
+FARM_ESP_2025_000857,ISABEL DIAZ GOMEZ,"ibuprofeno4,loratadina1,paracetamol2",2025-08-31,Hospital Central Espana
+FARM_ESP_2025_000858,Irene Gomez Martinez,metformina2,2025-10-22,Centro Medico Barcelona
+FARM_ESP_2025_000859,Rafael Jimenez Lopez,"paracetamol2,ibuprofeno1",2025-05-19,Centro Medico Barcelona
+FARM_ESP_2025_000860,C. RUIZ HERNANDEZ,"vareniclina2,bupropion3",2025-08-03,Centro Medico Barcelona
+FARM_ESP_2025_000861,CARMEN RUIZ GOMEZ,amlodipino3,2025-04-03,Clinica Madrid Norte
+FARM_ESP_2025_000862,m. perez lopez,"ibuprofeno2,omeprazol-2,paracetamol1",2025-03-23,Hospital Central Espana
+FARM_ESP_2025_000863,isabel diaz rodriguez,"rosuvastatina1,amlodipino4,bupropion4",2025-12-23,Hospital Central Espana
+FARM_ESP_2025_000864,Irene Sanchez Hernandez,"vareniclina1,bupropion-1",2025-05-30,Clinica Madrid Norte
+FARM_ESP_2025_000865,MIGUEL MARTINEZ FERNANDEZ,"omeprazol1,pregabalina1,gabapentina4",2025-10-21,Centro Medico Barcelona
+FARM_ESP_2025_000866,Sergio Garcia Gomez,"rosuvastatina4,atorvastatina1",2025-07-24,Clinica Madrid Norte
+FARM_ESP_2025_000867,rafael jimenez perez,ibuprofeno4,2025-12-10,Centro Medico Barcelona
+FARM_ESP_2025_000868,lucia gomez,"bupropion1,vareniclina0",2025-10-31,Centro Medico Barcelona
+FARM_ESP_2025_000869,Elena Ruiz Martinez,"orlistat2,metformina4",2025-05-02,Clinica Madrid Norte
+FARM_ESP_2025_000870,Pablo Lopez Garcia,metformina1,2025-08-24,Clinica Madrid Norte
+FARM_ESP_2025_000871,LUCIA PEREZ RODRIGUEZ,ibuprofeno2,2025-08-09,Hospital Central Espana
+FARM_ESP_2025_000872,Isabel Hernandez Lopez,"omeprazol4,ibuprofeno4,ketorolaco3",2025-03-15,Hospital Central Espana
+FARM_ESP_2025_000873,Isabel Perez Jimenez,ibuprofeno1,2025-04-18,Centro Medico Barcelona
+FARM_ESP_2025_000874,alvaro perz lopez,"ibuprofeno1,omeprazol3",2025-03-21,Clinica Madrid Norte
+FARM_ESP_2025_000875,Sergio Garcia Perez,ibuprofeno4,2025-04-12,Clinica Madrid Norte
+FARM_ESP_2025_000876,marta ruiz lopez,"ibuprofeno3,naproxeno3",2025-07-25,Centro Medico Barcelona
+FARM_ESP_2025_000877,sergio sanchez hernandez,metformina2,2025-11-30,Hospital Central Espana
+FARM_ESP_2025_000878,MARIA LOPEZ HERNANDEZ,"rosuvastatina1,atorvastatina120",2025-11-07,Hospital Central Espana
+FARM_ESP_2025_000879,PABLO MARTINEZ,sulfatoferroso3,2025-04-09,Centro Medico Barcelona
+FARM_ESP_2025_000880,Claudia Rodriguez Fernandez,"metformina3,insulina4",2025-12-11,Centro Medico Barcelona
+FARM_ESP_2025_000881,marta fernandez lopez,"metformina4,orlistat4",2025-04-13,Hospital Central Espana

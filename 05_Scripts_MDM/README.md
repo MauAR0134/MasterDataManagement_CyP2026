@@ -11,7 +11,7 @@ Este pipeline realiza ingesta, estandarizacion, perfilado, vinculacion de evento
 | `01_ingest.py` | Copia raw y consolida archivos por sistema | `00_raw_copy`, `01_staging_ingestion` |
 | `02_standardize.py` | Estandariza nombres, tokens, fechas ISO y contacto | `02_standardized` |
 | `03_profile_standardized.py` | Completitud, cardinalidad, duplicados, conflictos de ID y calidad de cobro | `03_profiling`, `manual_review` |
-| `04_build_workers.py` | Crea tabla Workers/Practitioner desde `medico_cargo` | `Workers_Practitioner.csv` |
+| `04_build_workers.py` | Crea Workers/Practitioner desde `transacciones.medico_cargo` y asigna `id_trabajador` al Encounter | `Workers_Practitioner.csv`, `transacciones_standardized_workers.csv` |
 | `05_link_events.py` | Enlaza clinica y prescripciones con transacciones | `04_linkage_candidates`, `manual_review` |
 | `06_entity_resolution.py` | Blocking, scoring, clusters e `id_master` | `05_master_index` |
 | `09_prepare_manual_review.py` | Genera plantilla de decision humana sin puntajes que sesguen la revision | `manual_review/plantilla_decision_pares_pendientes.csv` |
@@ -65,6 +65,11 @@ Workers_Practitioner
 `Administrativo`, `ContactPoints` y `Addresses` mantienen una fila vigente por
 `id_master`; contacto y direccion se seleccionan por el valor no vacio mas
 reciente.
+
+`Transacciones_Encounter` recibe `id_trabajador` directamente de
+`transacciones.medico_cargo`, donde todas las consultas tienen un profesional
+asignado. `Prescripciones_MedicationRequest` hereda el mismo identificador al
+enlazarse con su consulta.
 
 `Prescripcion_Detalle_Medicamento` separa medicamento y unidades por
 `id_farmacia`. Las unidades cero o negativas se excluyen y documentan; las

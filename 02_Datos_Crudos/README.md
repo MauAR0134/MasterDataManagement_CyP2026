@@ -12,7 +12,7 @@ Capa raw generada para la integracion. Los archivos siguen la convencion:
 |---|---:|---:|
 | `transacciones` | 9 | 15,000 |
 | `clinica` | 9 | 15,000 |
-| `prescripciones` | 9 | 8,237 |
+| `prescripciones` | 9 | 8,258 |
 
 Paises: `mexico`, `estados_unidos`, `espana`.
 

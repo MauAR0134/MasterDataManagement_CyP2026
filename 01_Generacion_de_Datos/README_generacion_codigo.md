@@ -106,7 +106,9 @@ Los registros clinicos y de prescripciones no incluyen `id_consulta` en raw. La 
 
 El sistema clinico incluye `sexo` y `fecha_nacimiento` como atributos demograficos necesarios para la resolucion de entidades y la construccion posterior del `id_master`. Cada transaccion genera una consulta clinica con datos obligatorios; aproximadamente 60% incluye panel de laboratorio completo.
 
-Prescripciones solo contiene solicitudes efectivas de medicamentos. Por eso no se incluyen las columnas redundantes `tratamiento` ni `pedido`, y la fecha de prescripcion coincide con la fecha de la transaccion que posteriormente debera ser enlazada.
+Cada transaccion incluye `medico_cargo` como atributo obligatorio de la consulta. El valor se selecciona de forma deterministica dentro del catalogo de medicos del pais para no alterar aleatoriamente los restantes atributos del evento al regenerar.
+
+Prescripciones solo contiene solicitudes efectivas de medicamentos. Por eso no se incluyen las columnas redundantes `tratamiento`, `pedido` ni `medico_cargo`: la fecha de prescripcion coincide con la fecha de la transaccion y el medico se deriva del Encounter enlazado en el modelo curado.
 
 Los correos base se crean como valores unicos por paciente antes de insertar valores faltantes o formatos invalidos, para que los correos validos coincidentes puedan usarse como evidencia fuerte en la resolucion de entidades.
 

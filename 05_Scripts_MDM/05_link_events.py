@@ -157,10 +157,10 @@ def transactions_without_link(
 
 
 def main() -> None:
-    transactions = read_rows(cfg.STANDARDIZED_DIR / "transacciones_standardized.csv")
+    transaction_file = cfg.STANDARDIZED_DIR / "transacciones_standardized_workers.csv"
+    transactions = read_rows(transaction_file if transaction_file.exists() else cfg.STANDARDIZED_DIR / "transacciones_standardized.csv")
     clinical = read_rows(cfg.STANDARDIZED_DIR / "clinica_standardized.csv")
-    prescription_file = cfg.STANDARDIZED_DIR / "prescripciones_standardized_workers.csv"
-    prescriptions = read_rows(prescription_file if prescription_file.exists() else cfg.STANDARDIZED_DIR / "prescripciones_standardized.csv")
+    prescriptions = read_rows(cfg.STANDARDIZED_DIR / "prescripciones_standardized.csv")
     consultation_collisions = assign_curated_consultation_ids(transactions)
     write_rows(cfg.MANUAL_REVIEW_DIR / "id_consulta_collisions_classified.csv", consultation_collisions)
 

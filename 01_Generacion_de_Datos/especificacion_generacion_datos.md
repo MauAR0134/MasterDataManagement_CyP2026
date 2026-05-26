@@ -493,6 +493,7 @@ id_transaccion
 fecha
 nombre_paciente
 tipo_consulta
+medico_cargo
 telefono_contacto
 correo_electronico
 direccion
@@ -502,7 +503,15 @@ registro_previo
 fecha_primer_registro
 ```
 
-### 9.1 Asignacion de tipo_consulta
+### 9.1 Medico a cargo
+
+Cada transaccion representa una consulta y debe registrar al medico que la
+atendio. `medico_cargo` se asigna desde el catalogo sintetico del pais y es
+obligatorio en el 100% de los registros. Esta variable es la fuente de
+`Workers_Practitioner` y de la relacion entre `Encounter` y `Practitioner` en
+el modelo curado.
+
+### 9.2 Asignacion de tipo_consulta
 
 Catalogo sugerido:
 
@@ -528,7 +537,7 @@ pediatria: 8%
 urgencias: 13%
 ```
 
-### 9.2 Montos por sede y consulta
+### 9.3 Montos por sede y consulta
 
 Mexico, moneda implicita MXN:
 
@@ -576,7 +585,7 @@ Monto negativo: 1%
 Monto faltante: 1%
 ```
 
-### 9.3 Metodo de pago
+### 9.4 Metodo de pago
 
 Distribucion sugerida:
 
@@ -586,7 +595,7 @@ transferencia: 30%
 efectivo: 25%
 ```
 
-### 9.4 Registro previo
+### 9.5 Registro previo
 
 Distribucion sugerida:
 
@@ -597,7 +606,7 @@ registro_previo = 0: 45%
 
 Si `registro_previo = 1`, `fecha_primer_registro` debe estar antes de la fecha de transaccion salvo errores controlados de fecha.
 
-### 9.5 Correo electronico
+### 9.6 Correo electronico
 
 El correo base sintetico sera unico por paciente mediante un consecutivo interno incorporado antes del dominio. Esto permite utilizar coincidencias exactas de correo valido como evidencia fuerte de identidad, mientras que los errores de calidad se aplican posteriormente sobre el valor exportado.
 
@@ -620,7 +629,7 @@ maria.hernandez@
 MARIA.HERNANDEZ@GMAIL.COM
 ```
 
-### 9.6 Telefono contacto
+### 9.7 Telefono contacto
 
 Distribucion de calidad:
 
@@ -917,7 +926,6 @@ id_farmacia
 nombre_completo
 medicamentos_unidades
 fecha_prescripcion
-medico_cargo
 sucursal
 ```
 
@@ -1000,20 +1008,11 @@ cero: metformina0
 
 No se generaran errores de separador, nombres mal escritos, campos dobles vacios ni texto libre en este campo, porque se asume captura automatica/categorica.
 
-### 11.3 Medico a cargo
+### 11.3 Relacion con el medico de la consulta
 
-Se generara desde catalogos sinteticos por sede.
-
-Ejemplos:
-
-```text
-Dra. Ana Martinez
-Dr. Carlos Hernandez
-Dr. John Smith
-Dra. Emily Johnson
-Dra. Lucia Garcia
-Dr. Javier Fernandez
-```
+El archivo raw de prescripciones no replica el medico. Una prescripcion se
+enlaza a su transaccion por paciente, pais y fecha; en la capa curada recibe
+el `id_trabajador` del Encounter que origino la solicitud.
 
 ### 11.4 Sucursal
 

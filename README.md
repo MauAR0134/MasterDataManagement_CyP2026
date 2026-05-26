@@ -13,7 +13,7 @@ Fuentes simuladas:
 |---|---|---:|
 | Transacciones | Consultas y cobros | 15,000 |
 | Clinica | Signos vitales y estudios asociados a consultas | 15,000 |
-| Prescripciones | Solicitudes efectivas de medicamentos | 8,237 |
+| Prescripciones | Solicitudes efectivas de medicamentos | 8,258 |
 
 Cobertura geografica y temporal:
 
@@ -30,8 +30,8 @@ Resultado curado:
 | Patient / Clientes | 6,811 |
 | Encounter / Transacciones | 15,000 |
 | Observation / Clinico | 15,000 |
-| MedicationRequest / Prescripciones | 8,237 |
-| Detalle farmacologico positivo | 15,545 |
+| MedicationRequest / Prescripciones | 8,258 |
+| Detalle farmacologico positivo | 15,587 |
 | Catalogo de medicamentos EUR | 24 |
 | Practitioner / Workers | 15 |
 
@@ -85,7 +85,7 @@ graph TD
     T --> CL
     T --> P
     P --> PM
-    W --> P
+    W --> T
 ```
 
 ```text
@@ -97,7 +97,7 @@ Clientes_Patient
        -> Clinico_Observation
        -> Prescripciones_MedicationRequest
             -> Prescripcion_Detalle_Medicamento
-  -> Workers_Practitioner (atencion/prescripcion)
+  -> Workers_Practitioner (medico de la consulta, propagado a prescripcion)
 ```
 
 La documentacion completa de decisiones tecnicas, reglas de linkage,

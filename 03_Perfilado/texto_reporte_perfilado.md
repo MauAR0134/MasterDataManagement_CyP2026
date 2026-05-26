@@ -4,7 +4,7 @@ El perfilado de datos se realizo sobre los 27 archivos CSV generados para los tr
 
 ## 7.1 Perfilado de Transacciones
 
-El sistema de transacciones agrupa los registros administrativos y financieros asociados a los servicios medicos. Esta fuente es la base operativa del proyecto, ya que los registros clinicos y de prescripciones dependen de la existencia de una transaccion previa. Durante el perfilado se consolidaron los archivos de Mexico, Estados Unidos y Espana para los anios 2023, 2024 y 2025.
+El sistema de transacciones agrupa los registros administrativos y financieros asociados a los servicios medicos. Esta fuente es la base operativa del proyecto, ya que los registros clinicos y de prescripciones dependen de la existencia de una transaccion previa. Tambien contiene `medico_cargo`, atributo obligatorio del profesional responsable de cada consulta. Durante el perfilado se consolidaron los archivos de Mexico, Estados Unidos y Espana para los anios 2023, 2024 y 2025.
 
 ### 7.1.1 Valores nulos
 
@@ -28,11 +28,11 @@ En el sistema clinico se revisaron filas duplicadas exactas y repeticiones del i
 
 ## 7.3 Perfilado de Prescripciones
 
-El sistema de prescripciones registra informacion relacionada con tratamientos, medicamentos, pedidos, medico responsable y sucursal. Esta fuente es importante para analizar continuidad terapeutica y demanda de medicamentos dentro de la red hospitalaria.
+El sistema de prescripciones registra solicitudes efectivas de medicamentos y la sucursal que las dispensa. Esta fuente es importante para analizar demanda de medicamentos dentro de la red hospitalaria; el medico responsable se obtiene posteriormente desde la consulta enlazada.
 
 ### 7.3.1 Valores nulos
 
-El perfilado de nulos en prescripciones se centro en campos como `nombre_completo`, `tratamiento`, `medicamentos_unidades`, `fecha_prescripcion`, `medico_cargo`, `pedido` y `sucursal`. La completitud en estos atributos es necesaria para conocer si el paciente recibio tratamiento, que medicamentos fueron indicados, donde se realizo la solicitud y quien fue el responsable medico. Los faltantes en esta fuente pueden afectar el analisis de abastecimiento, seguimiento farmacologico y cumplimiento de tratamientos.
+El perfilado de nulos en prescripciones se centro en `nombre_completo`, `medicamentos_unidades`, `fecha_prescripcion` y `sucursal`. La completitud en estos atributos es necesaria para conocer que medicamentos fueron solicitados y donde se dispensaron. El responsable medico se valida mediante el enlace posterior con `transacciones.medico_cargo`.
 
 ### 7.3.2 Duplicados
 

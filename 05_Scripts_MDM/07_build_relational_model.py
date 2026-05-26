@@ -82,9 +82,9 @@ def parse_medication_items(
 
 
 def main() -> None:
-    transactions = read_rows(cfg.STANDARDIZED_DIR / "transacciones_standardized.csv")
+    transactions = read_rows(cfg.STANDARDIZED_DIR / "transacciones_standardized_workers.csv")
     clinical = read_rows(cfg.STANDARDIZED_DIR / "clinica_standardized.csv")
-    prescriptions = read_rows(cfg.STANDARDIZED_DIR / "prescripciones_standardized_workers.csv")
+    prescriptions = read_rows(cfg.STANDARDIZED_DIR / "prescripciones_standardized.csv")
     patient_master = read_rows(cfg.MASTER_INDEX_DIR / "Clientes_Patient.csv")
     consultation_map = read_rows(cfg.MASTER_INDEX_DIR / "consultation_to_master_mapping.csv")
     clinical_map = read_rows(cfg.LINKAGE_DIR / "clinical_to_encounter_mapping.csv")
@@ -96,7 +96,6 @@ def main() -> None:
     prescriptions_by_key = {row["source_record_key"]: row for row in prescriptions}
     clinical_for_tx = {row["transaction_record_key"]: row for row in clinical_map}
     prescription_for_tx = {row["transaction_record_key"]: row for row in prescription_map}
-
     patient_transactions: dict[str, list[dict[str, str]]] = defaultdict(list)
     for row in transactions:
         id_master = master_by_tx_key.get(row["source_record_key"], "")
@@ -211,7 +210,7 @@ def main() -> None:
                 "costo_total": f"{total_cost_eur:.2f}" if total_cost_eur is not None else "",
                 "costo_total_status": "COMPLETE" if total_cost_eur is not None else "INCOMPLETE_MISSING_CONSULTATION_COST",
                 "pais": tx["source_country"],
-                "id_trabajador": rx["id_trabajador"] if rx else "",
+                "id_trabajador": tx["id_trabajador"],
                 "fhir_equivalent": "Encounter/ChargeItem",
             }
         )
@@ -272,7 +271,7 @@ def main() -> None:
                     "id_consulta_original": tx["id_transaccion"],
                     "medicamentos_unidades_original": rx["medicamentos_unidades"],
                     "fecha_prescripcion": rx["fecha_prescripcion_iso"],
-                    "id_trabajador": rx["id_trabajador"],
+                    "id_trabajador": tx["id_trabajador"],
                     "sucursal": rx["sucursal"],
                     "costo_meds": f"{rx_cost:.2f}",
                     "moneda": "EUR",
@@ -345,7 +344,9 @@ def main() -> None:
         "contacto y direccion conservan el valor no vacio mas reciente.\n\n"
         "`Transacciones_Encounter` conserva el monto original y expresa `monto_cobro`, "
         "`costo_meds` y `costo_total` en EUR. El tipo de cambio y los costos unitarios "
-        "son parametros sinteticos configurables de `05_Scripts_MDM/mdm_config.py`.\n\n"
+        "son parametros sinteticos configurables de `05_Scripts_MDM/mdm_config.py`. "
+        "`id_trabajador` proviene del medico asignado a la consulta en transacciones raw "
+        "y se propaga a prescripciones enlazadas por `id_consulta`.\n\n"
         "`Prescripcion_Detalle_Medicamento.csv` se relaciona con la solicitud mediante "
         "`id_farmacia`. Se eliminan unidades cero o negativas; las positivas altas se "
         "mantienen con bandera de outlier. `Solicitudes_Bimestrales.csv` agrega unidades "
