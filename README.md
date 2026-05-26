@@ -64,6 +64,24 @@ Generacion sintetica
 
 ## Modelo Curado
 
+```mermaid
+graph TD
+    C["Clientes / Paciente maestro"]
+    A["Administrativo / Expediente administrativo"]
+    CP["Contactos"]
+    D["Direcciones"]
+    T["Transacciones / Consultas"]
+    CL["Clinico / Observaciones"]
+    P["Prescripciones"]
+
+    C --> A
+    A --> CP
+    A --> D
+    C --> T
+    T --> CL
+    T --> P
+```
+
 ```text
 Clientes_Patient
   -> Administrativo
