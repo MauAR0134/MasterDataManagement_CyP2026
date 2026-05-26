@@ -15,5 +15,7 @@ Archivos que requieren revision humana o evidencian errores de calidad. Cada sal
 | `ids_duplicados_nombres_distintos.csv` | Conflictos de IDs de sistema fuente |
 | `clinical_event_ambiguous_links.csv` | Alternativas de enlace clinico |
 | `prescription_event_ambiguous_links.csv` | Alternativas de enlace farmaceutico |
+| `medicamentos_unidades_eliminadas.csv` | Partidas con unidades cero o negativas excluidas del modelo curado |
+| `medicamentos_unidades_outliers.csv` | Partidas positivas altas conservadas para analisis |
 
 `transactions_without_prescription.csv` identifica consultas sin solicitud de medicamentos; no representa un error de integridad.

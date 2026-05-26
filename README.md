@@ -31,6 +31,8 @@ Resultado curado:
 | Encounter / Transacciones | 15,000 |
 | Observation / Clinico | 15,000 |
 | MedicationRequest / Prescripciones | 8,237 |
+| Detalle farmacologico positivo | 15,545 |
+| Catalogo de medicamentos EUR | 24 |
 | Practitioner / Workers | 15 |
 
 Poblacion sintetica base esperada: `6,750` pacientes. Permanecen `338` pares
@@ -73,6 +75,8 @@ graph TD
     T["Transacciones / Consultas"]
     CL["Clinico / Observaciones"]
     P["Prescripciones"]
+    PM["Detalle de medicamentos"]
+    W["Workers / Medicos"]
 
     C --> A
     A --> CP
@@ -80,14 +84,19 @@ graph TD
     C --> T
     T --> CL
     T --> P
+    P --> PM
+    W --> P
 ```
 
 ```text
 Clientes_Patient
   -> Administrativo
+       -> ContactPoints
+       -> Addresses
   -> Transacciones_Encounter
        -> Clinico_Observation
        -> Prescripciones_MedicationRequest
+            -> Prescripcion_Detalle_Medicamento
   -> Workers_Practitioner (atencion/prescripcion)
 ```
 

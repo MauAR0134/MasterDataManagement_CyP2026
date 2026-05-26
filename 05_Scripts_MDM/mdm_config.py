@@ -27,6 +27,50 @@ DATE_FORMATS_BY_SITE = {
     "espana": "%Y-%m-%d",
 }
 
+CURRENCY_BY_SITE = {
+    "mexico": "MXN",
+    "estados_unidos": "USD",
+    "espana": "EUR",
+}
+
+# Parametros sinteticos: la capa analitica utiliza EUR como moneda comun.
+# Los montos originales se preservan para trazabilidad.
+EXCHANGE_RATE_TO_EUR = {
+    "mexico": 0.050,
+    "estados_unidos": 0.920,
+    "espana": 1.000,
+}
+
+# Catalogo sintetico configurable de costo por unidad en EUR.
+MEDICATION_COSTS_EUR = {
+    "acidofolico": 0.18,
+    "amlodipino": 0.32,
+    "amoxicilina": 0.48,
+    "atorvastatina": 0.58,
+    "bupropion": 1.10,
+    "diclofenaco": 0.30,
+    "enalapril": 0.22,
+    "gabapentina": 0.44,
+    "glibenclamida": 0.24,
+    "ibuprofeno": 0.16,
+    "insulina": 6.80,
+    "ketorolaco": 0.75,
+    "levotiroxina": 0.14,
+    "loratadina": 0.20,
+    "losartan": 0.34,
+    "metformina": 0.20,
+    "naproxeno": 0.26,
+    "omeprazol": 0.28,
+    "orlistat": 1.35,
+    "paracetamol": 0.12,
+    "pregabalina": 0.92,
+    "rosuvastatina": 0.72,
+    "sulfatoferroso": 0.16,
+    "vareniclina": 1.85,
+}
+
+MEDICATION_UNIT_OUTLIER_THRESHOLD = 4
+
 SYSTEM_ID_COLUMNS = {
     "transacciones": "id_transaccion",
     "clinica": "id_lab",

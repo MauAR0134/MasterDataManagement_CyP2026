@@ -13,7 +13,7 @@ capa de procesamiento.
 | `03_profiling/` | Resultados de calidad sobre tablas consolidadas |
 | `04_linkage_candidates/` | Asociacion de eventos y pares candidatos puntuados |
 | `05_master_index/` | Entidad Patient y mapeos hacia `id_master` |
-| `06_relational_model/` | Tablas curadas y base SQLite |
+| `06_relational_model/` | Dimensiones vigentes, hechos, detalle farmacologico, costos EUR, agregados y SQLite |
 | `manual_review/` | Casos pendientes o resueltos con evidencia de decision |
 | `sql/` | Documentacion de la base relacional |
 

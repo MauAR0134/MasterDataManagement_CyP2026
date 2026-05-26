@@ -1,0 +1,4 @@
+source_country,currency_original,records,null_or_blank,non_numeric,valid_numeric,minimum,q1,median,q3,maximum,iqr_lower_limit,iqr_upper_limit,outliers_iqr
+espana,EUR,5000,50,0,4950,-891.0,114.0,176.0,320.0,9173.0,-195.0,629.0,386
+estados_unidos,USD,5000,46,0,4954,-2594.0,185.0,358.0,750.0,41843.0,-662.5,1597.5,538
+mexico,MXN,5000,36,0,4964,-5758.0,942.0,1559.5,2472.25,71943.0,-1353.38,4767.62,347

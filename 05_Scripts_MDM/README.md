@@ -10,12 +10,12 @@ Este pipeline realiza ingesta, estandarizacion, perfilado, vinculacion de evento
 | `mdm_utils.py` | Funciones de normalizacion, Soundex, Jaro-Winkler, fechas y clustering | Utilidades compartidas |
 | `01_ingest.py` | Copia raw y consolida archivos por sistema | `00_raw_copy`, `01_staging_ingestion` |
 | `02_standardize.py` | Estandariza nombres, tokens, fechas ISO y contacto | `02_standardized` |
-| `03_profile_standardized.py` | Completitud, cardinalidad, duplicados y conflictos de ID | `03_profiling`, `manual_review` |
+| `03_profile_standardized.py` | Completitud, cardinalidad, duplicados, conflictos de ID y calidad de cobro | `03_profiling`, `manual_review` |
 | `04_build_workers.py` | Crea tabla Workers/Practitioner desde `medico_cargo` | `Workers_Practitioner.csv` |
 | `05_link_events.py` | Enlaza clinica y prescripciones con transacciones | `04_linkage_candidates`, `manual_review` |
 | `06_entity_resolution.py` | Blocking, scoring, clusters e `id_master` | `05_master_index` |
 | `09_prepare_manual_review.py` | Genera plantilla de decision humana sin puntajes que sesguen la revision | `manual_review/plantilla_decision_pares_pendientes.csv` |
-| `07_build_relational_model.py` | Tablas curadas relacionadas | `06_relational_model` |
+| `07_build_relational_model.py` | Dimensiones vigentes, hechos, detalle farmacologico, costos EUR y agregacion bimestral | `06_relational_model` |
 | `08_export_sqlite.py` | Exporta las tablas curadas a SQLite e indices SQL | `hospital_mdm_fhir.sqlite` |
 | `run_pipeline.py` | Ejecuta todas las etapas secuencialmente | Todos los outputs |
 
@@ -62,7 +62,18 @@ Prescripciones_MedicationRequest
 Workers_Practitioner
 ```
 
-`Medicamentos_Cost` y `Solicitudes_Bimestrales` se crean vacias para completarlas cuando se realice el parsing de medicamentos y se definan costos.
+`Administrativo`, `ContactPoints` y `Addresses` mantienen una fila vigente por
+`id_master`; contacto y direccion se seleccionan por el valor no vacio mas
+reciente.
+
+`Prescripcion_Detalle_Medicamento` separa medicamento y unidades por
+`id_farmacia`. Las unidades cero o negativas se excluyen y documentan; las
+unidades positivas altas se conservan como outliers. `Medicamentos_Cost` usa
+precios sinteticos configurables en EUR y `Solicitudes_Bimestrales` agrega la
+demanda positiva por medicamento, pais y bimestre.
+
+Pendiente: preprocesamiento analitico de variables biologicas de la tabla
+clinica.
 
 `id_consulta_original` conserva el ID recibido desde transacciones. Cuando dos
 eventos comparten ese ID raw, `id_consulta` recibe un sufijo secuencial en la

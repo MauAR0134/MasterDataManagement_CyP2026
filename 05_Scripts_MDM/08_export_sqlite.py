@@ -16,6 +16,7 @@ TABLE_FILES = {
     "transacciones": "Transacciones_Encounter.csv",
     "clinico": "Clinico_Observation.csv",
     "prescripciones": "Prescripciones_MedicationRequest.csv",
+    "prescripcion_detalle_medicamento": "Prescripcion_Detalle_Medicamento.csv",
     "workers": "Workers_Practitioner.csv",
     "medicamentos_cost": "Medicamentos_Cost.csv",
     "solicitudes_bimestrales": "Solicitudes_Bimestrales.csv",
@@ -52,6 +53,11 @@ def main() -> None:
             CREATE INDEX IF NOT EXISTS idx_prescripciones_master ON prescripciones(id_master);
             CREATE INDEX IF NOT EXISTS idx_clinico_consulta ON clinico(id_consulta);
             CREATE INDEX IF NOT EXISTS idx_prescripciones_consulta ON prescripciones(id_consulta);
+            CREATE UNIQUE INDEX IF NOT EXISTS idx_administrativo_master ON administrativo(id_master);
+            CREATE UNIQUE INDEX IF NOT EXISTS idx_contact_points_master ON contact_points(id_master);
+            CREATE UNIQUE INDEX IF NOT EXISTS idx_addresses_master ON addresses(id_master);
+            CREATE INDEX IF NOT EXISTS idx_detalle_farmacia ON prescripcion_detalle_medicamento(id_farmacia);
+            CREATE INDEX IF NOT EXISTS idx_detalle_medicamento ON prescripcion_detalle_medicamento(id_medicamento);
             """
         )
     (cfg.SQL_DIR / "README.md").write_text(
@@ -59,7 +65,8 @@ def main() -> None:
         "La base `hospital_mdm_fhir.sqlite` se genera en `06_relational_model` para facilitar "
         "consultas SQL, carga en Power BI o exportacion posterior. Los indices aceleran uniones "
         "por `id_master` e `id_consulta`. La columna `id_consulta_original` conserva "
-        "la trazabilidad raw; `id_consulta` es unica en Encounter tras resolver colisiones.\n",
+        "la trazabilidad raw; `id_consulta` es unica en Encounter tras resolver colisiones. "
+        "`prescripcion_detalle_medicamento` se une a solicitudes mediante `id_farmacia`.\n",
         encoding="utf-8",
     )
 

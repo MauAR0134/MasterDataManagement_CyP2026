@@ -19,7 +19,7 @@ def main() -> None:
                 "id_trabajador": worker_id,
                 "nombre_trabajador": name,
                 "rol": cfg.DEFAULT_WORKER_ROLE,
-                "area_hospitalaria": "no_especificada",
+                "area_hospitalaria": "Division Medica",
                 "fhir_equivalent": "Practitioner",
             }
         )
@@ -30,7 +30,7 @@ def main() -> None:
     (cfg.RELATIONAL_DIR / "README_workers.md").write_text(
         "# Workers / Practitioner\n\n"
         "Tabla derivada de `medico_cargo`. En esta version todos los trabajadores son "
-        "medicos y el area permanece `no_especificada`; el diseño admite roles y areas "
+        "medicos asignados a `Division Medica`; el diseno admite roles y areas "
         "adicionales en futuras cargas.\n",
         encoding="utf-8",
     )

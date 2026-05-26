@@ -693,28 +693,61 @@ Equivalencias conceptuales FHIR:
 |---|---|
 | `Clientes_Patient.csv` | `Patient`: entidad maestra del paciente |
 | `Administrativo.csv` | Datos administrativos asociados a Patient |
-| `ContactPoints.csv` | `Patient.telecom` |
-| `Addresses.csv` | `Patient.address` |
+| `ContactPoints.csv` | Contacto vigente subordinado a Administrativo |
+| `Addresses.csv` | Direccion vigente subordinada a Administrativo |
 | `Transacciones_Encounter.csv` | `Encounter` y atributos de cobro tipo `ChargeItem` |
 | `Clinico_Observation.csv` | `Observation`: consulta, signos y laboratorio |
 | `Prescripciones_MedicationRequest.csv` | `MedicationRequest` |
+| `Prescripcion_Detalle_Medicamento.csv` | Detalle de medicamentos y unidades por `id_farmacia` |
 | `Workers_Practitioner.csv` | `Practitioner` |
-| `Medicamentos_Cost.csv` | Catalogo futuro de costo por medicamento |
-| `Solicitudes_Bimestrales.csv` | Agregacion futura de solicitudes tras parsing |
+| `Medicamentos_Cost.csv` | Catalogo sintetico de costo unitario en EUR |
+| `Solicitudes_Bimestrales.csv` | Agregacion de unidades positivas por medicamento, pais y bimestre |
 
 Cardinalidades actuales:
 
 ```text
 Clientes_Patient: 6811
 Administrativo: 6811
-ContactPoints: 15692
-Addresses: 6834
+ContactPoints: 6811
+Addresses: 6811
 Transacciones_Encounter: 15000
 Clinico_Observation: 15000
 Prescripciones_MedicationRequest: 8237
+Prescripcion_Detalle_Medicamento: 15545
 Workers_Practitioner: 15
-Medicamentos_Cost: 0 (esquema reservado)
-Solicitudes_Bimestrales: 0 (esquema reservado)
+Medicamentos_Cost: 24
+Solicitudes_Bimestrales: 1266
+```
+
+### 12.1 Dimensiones Administrativas Vigentes
+
+```text
+Administrativo: una fila por id_master con id_admin.
+ContactPoints: una fila por id_admin/id_master; telefono y correo no vacios
+  mas recientes segun fecha de consulta.
+Addresses: una fila por id_admin/id_master; direccion no vacia mas reciente.
+```
+
+### 12.2 Moneda Analitica
+
+```text
+moneda estandar del modelo curado: EUR
+monto_cobro_original y moneda_original: preservados para trazabilidad
+monto_cobro, costo_meds y costo_total: expresados en EUR
+tipo_cambio_a_eur: parametro sintetico configurable
+```
+
+`costo_total` se calcula como `monto_cobro + costo_meds`. Los registros con
+`monto_cobro` faltante en raw conservan el total vacio y se marcan como
+`INCOMPLETE_MISSING_CONSULTATION_COST`.
+
+### 12.3 Medicamentos
+
+```text
+relacion detalle: id_farmacia
+unidades <= 0: eliminadas de la capa curada y reportadas
+unidades positivas > 4: conservadas y marcadas OUTLIER_POSITIVE_UNITS
+costo_unitario: catalogo sintetico configurable en EUR
 ```
 
 ## 13. Revision Manual
@@ -736,6 +769,8 @@ id_consulta_collisions_classified.csv: 6 filas de 3 IDs raw colisionados
 ids_duplicados_nombres_distintos.csv: conflictos de IDs de fuente
 clinical_event_ambiguous_links.csv: empates documentados de evento clinico
 prescription_event_ambiguous_links.csv: empates documentados de prescripcion
+medicamentos_unidades_eliminadas.csv: 199 partidas con unidades <= 0
+medicamentos_unidades_outliers.csv: 121 partidas positivas altas conservadas
 clinical_without_consultation.csv: 0
 prescription_without_consultation.csv: 0
 transactions_without_clinical.csv: 0
@@ -763,6 +798,7 @@ addresses
 transacciones
 clinico
 prescripciones
+prescripcion_detalle_medicamento
 workers
 medicamentos_cost
 solicitudes_bimestrales
@@ -777,6 +813,11 @@ idx_clinico_master ON clinico(id_master)
 idx_prescripciones_master ON prescripciones(id_master)
 idx_clinico_consulta ON clinico(id_consulta)
 idx_prescripciones_consulta ON prescripciones(id_consulta)
+idx_administrativo_master UNIQUE ON administrativo(id_master)
+idx_contact_points_master UNIQUE ON contact_points(id_master)
+idx_addresses_master UNIQUE ON addresses(id_master)
+idx_detalle_farmacia ON prescripcion_detalle_medicamento(id_farmacia)
+idx_detalle_medicamento ON prescripcion_detalle_medicamento(id_medicamento)
 ```
 
 Uso previsto:
