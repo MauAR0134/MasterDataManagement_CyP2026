@@ -1,0 +1,910 @@
+id_farmacia,nombre_completo,medicamentos_unidades,fecha_prescripcion,medico_cargo,sucursal
+FARM_MEX_2024_000001,carmen cruz ramirez,"vareniclina2,orlistat3,metformina1",22/12/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000002,l. cruz hernandez,"omeprazol2,paracetamol4",08/04/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000003,DANIEL RODRIGUEZ FLORES,insulina3,07/10/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000004,Carlos Perez Torres,metformina3,08/04/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000005,gabriela rodriguez castillo,"orlistat1,atorvastatina4",05/07/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000006,carmen perez torres,"diclofenaco4,omeprazol1",06/12/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000007,VALERIA HERNANDEZ CASTILLO,"losartan2,enalapril2,amlodipino2",12/05/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000008,DANIEL LOPEZ SANCHEZ,omeprazol2,29/07/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000009,laura martinez flores,"vareniclina4,bupropion1",08/06/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000010,MANUEL MARTINEZ FLORES,"bupropion2,rosuvastatina3,atorvastatina4",14/06/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000011,ANA HERNANDEZ FLORES,vareniclina3,31/05/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000012,daniela sanchez martinez,"atorvastatina4,rosuvastatina4",06/06/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000013,Valeria Perez,orlistat4,10/01/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000014,GABRIELA RAMREZ VARGAS,"ibuprofeno1,paracetamol3",10/10/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000015,elena rodriguez hernandez,"vareniclina4,losartan1",10/08/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000016,Daniela Floes Castillo,"rosuvastatina3,atorvastatina1",20/12/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000017,carlos perez garcia,"orlistat1,metformina3",31/08/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000018,Ricardo Torres Gonzalez,vareniclina1,27/07/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000019,Carlos Castillo Gonzalez,"metformina4,orlistat1",28/01/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000020,d. rodriguez perez,"ibuprofeno1,loratadina1,paracetamol1",23/01/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000021,Ana Crz Vargas,atorvastatina2,10/09/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000022,LUIS MARTINEZ HERNANDEZ,"rosuvastatina3,atorvastatina1",22/04/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000023,R. Sanchez Hernandez,"amoxicilina1,paracetamol4,diclofenaco1",31/07/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000024,A. GARCIA SANCHEZ,"losartan4,enalapril2",04/12/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000025,EDUARDO HERNANDEZ RODRIGUEZ,"paracetamol1,ibuprofeno1",02/03/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000026,Laura Sanchez,"orlistat4,metformina4",24/11/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000027,valeria castillo flores,"bupropion1,vareniclina99",17/01/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000028,Gabriela Lopz Sanchez,"glibenclamida4,metformina1",02/06/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000029,fernanda castillo castillo,"glibenclamida3,metformina2,insulina0",22/09/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000030,RICARDO LOPEZ RODRIGUEZ,"ibuprofeno1,loratadina3,omeprazol1",10/11/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000031,daniela torres martinez,"omeprazol2,atorvastatina3",12/09/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000032,eduardo vargas castillo,bupropion3,30/01/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000033,LUIS HERNANDEZ CRUZ,"vareniclina2,rosuvastatina3",14/04/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000034,valeria lopez vargas,metformina3,28/10/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000035,fernando flores martinez,"paracetamol4,omeprazol3",31/05/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000036,DANIELA GARCIA,atorvastatina2,17/03/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000037,ELENA CASTILLO VARGAS,paracetamol1,06/03/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000038,a. hernandez perez,"paracetamol3,omeprazol2",30/07/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000039,Alejandro Lopez Gonzalez,"vareniclina1,insulina0,metformina2",17/09/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000040,valeria martinez martinez,"losartan3,glibenclamida2",04/09/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000041,ANA SANCHEZ FLORES,"orlistat4,bupropion4,vareniclina3",11/08/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000042,MANUEL TORRES RAMIREZ,"insulina4,glibenclamida2,metformina2",26/07/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000043,d. sanchez sanchez,"rosuvastatina3,atorvastatina2",17/12/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000044,Maria Torres Ramirez,"rosuvastatina2,atorvastatina4",18/05/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000045,Valeria Vargas Martinez,"diclofenaco3,paracetamol3,amoxicilina1",04/07/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000046,Elena Flores Vargas,atorvastatina3,23/10/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000047,patricia lopez hernandez,"ibuprofeno2,omeprazol3,amlodipino2",12/02/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000048,JUAN HERNANDEZ FLORES,"acidofolico3,glibenclamida3",10/06/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000049,Jose Ramirez Perez,bupropion2,20/05/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000050,r. castillo gonzalez,losartan3,23/09/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000051,patricia vargas ramirez,"omeprazol2,paracetamol4",15/04/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000052,Eduardo Flores Martinez,"losartan2,metformina3,amlodipino2",16/05/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000053,patricia flores garcia,bupropion3,08/12/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000054,Lucia Garcia Rodriguez,metformina4,02/06/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000055,LUCIA RODRIGUEZ LOPEZ,"paracetamol1,omeprazol1,ibuprofeno4",28/12/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000056,VALERIA MARTINEZ TORRES,"rosuvastatina4,atorvastatina1",08/07/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000057,MANUEL VARGAS GARCIA,amlodipino1,24/01/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000058,Daniel Cruz,"acidofolico-2,sulfatoferroso3",27/11/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000059,Lucia Fores Cruz,"metformina2,orlistat2",22/06/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000060,patricia ramirez hernandez,rosuvastatina2,28/11/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000061,PATRICIA GARCIA VARGAS,rosuvastatina4,29/04/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000062,PATRICIA PEREZ TORRES,"insulina4,metformina2",15/04/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000063,SOFIA RAMIREZ RODRIGUEZ,"omeprazol4,ibuprofeno4",14/07/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000064,Daniela Martinez Garcia,enalapril2,15/01/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000065,PATRICIA FLORES CASTILLO,"vareniclina4,bupropion2",23/03/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000066,PATRICIA PEREZ SANCHEZ,"omeprazol2,ibuprofeno3",18/09/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000067,eduardo ramirez,"paracetamol3,omeprazol3",17/05/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000068,PATRICIA RAMIREZ CASTILLO,"metformina1,orlistat4",27/03/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000069,Ana Hernandez Flores,"vareniclina4,bupropion2",30/04/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000070,Fernanda Cruz Torres,"acidofolico3,sulfatoferroso3",28/04/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000071,ALEJANDRO HERNANDEZ CRUZ,"losartan3,vareniclina4",23/03/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000072,Fernanda Vargas Sanchez,"omeprazol1,ketorolaco2",28/08/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000073,MARIA GARCIA LOPEZ,"amlodipino3,losartan1",18/04/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000074,GABRIELA CASTILLO VARGAS,"orlistat2,rosuvastatina4",20/11/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000075,Miguel Hernandez Rodriguez,"ibuprofeno2,losartan4,atorvastatina3",26/12/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000076,MIGUEL FLORES HERNANDEZ,omeprazol2,16/09/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000077,LUCIA RODRIGUEZ RAMIREZ,"paracetamol3,ibuprofeno2,gabapentina2",07/09/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000078,RICARDO TORRES LOPEZ,"losartan4,insulina4,enalapril3",23/08/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000079,F. Perez Vargas,omeprazol4,23/02/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000080,SOFIA RAMIREZ SANCHEZ,"orlistat4,metformina2",09/03/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000081,Valeria Sachez Vargas,"bupropion99,orlistat1,vareniclina2",05/01/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000082,Luis Cruz Garcia,"paracetamol1,naproxeno1,pregabalina4",11/08/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000083,VALERIA RODRIGUEZ RAMIREZ,ibuprofeno2,24/03/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000084,elena hernandez garcia,"ibuprofeno2,naproxeno2",15/05/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000085,fernanda torres sanchez,"acidofolico3,sulfatoferroso3",02/01/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000086,daniela hernandez martinez,"atorvastatina4,rosuvastatina1",25/03/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000087,GABRIELA MARTINEZ,omeprazol2,04/04/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000088,carlos hernandez vargas,metformina2,07/05/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000089,alejandro ramirez garcia,"ibuprofeno4,omeprazol3,paracetamol2",19/01/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000090,RICARDO RAMIREZ HERNANDEZ,"omeprazol2,ibuprofeno4",08/09/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000091,Lucia Hernandez Cruz,"orlistat0,metformina2",31/03/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000092,LAURA CRUZ GONZALEZ,ibuprofeno99,14/11/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000093,Maria Gonzalez Garcia,vareniclina2,16/02/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000094,Lucia Sanchez Sanchez,glibenclamida4,02/08/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000095,patricia hernandez ramirez,amlodipino1,18/02/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000096,elena garcia,"rosuvastatina1,atorvastatina4",28/08/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000097,d. ramirez lopez,atorvastatina0,02/09/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000098,fernanda cruz castillo,"paracetamol2,omeprazol1",23/01/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000099,JUAN HERNANDEZ CASTILLO,"atorvastatina2,rosuvastatina4",26/08/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000100,Fernanda Flores Hernandez,"bupropion2,metformina1",09/03/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000101,Ricardo Gonzalez Cruz,"amlodipino3,losartan3",29/11/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000102,Jose Gonzalez Gonzalez,"paracetamol99,loratadina1",07/10/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000103,maria castillo torres,"metformina4,insulina1",17/04/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000104,Lucia Varas Sanchez,metformina2,02/04/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000105,luis rodriguez martinez,"ibuprofeno1,omeprazol3,paracetamol2",04/02/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000106,gabriela vargas lopez,metformina1,08/01/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000107,Juan Ramirez Perez,"insulina3,metformina1",09/09/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000108,ana garcia flores,enalapril3,09/02/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000109,Manuel Garcia Garcia,"amlodipino2,enalapril2",18/07/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000110,Maria Rodriguez Martinez,"omeprazol1,loratadina3,ibuprofeno4",12/06/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000111,MARIA PEREZ SANCHEZ,"metformina3,orlistat3",05/05/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000112,elena vargas martinez,insulina3,13/03/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000113,Valeria Torres Hernandez,losartan3,22/04/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000114,JORGE LOPEZ CASTILLO,amoxicilina4,01/10/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000115,Carmen Perez Flores,"omeprazol3,paracetamol3",24/06/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000116,Elena Garcia Vargas,metformina3,23/11/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000117,Daniela Castillo Martinez,"pregabalina1,paracetamol3,ibuprofeno4",14/02/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000118,elena vargas garcia,"rosuvastatina4,atorvastatina2",08/02/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000119,laura castillo lopez,"ibuprofeno2,naproxeno2,omeprazol4",22/07/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000120,valeria gonzalez,insulina2,20/06/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000121,S. LOPEZ FLORES,"amoxicilina1,paracetamol3,diclofenaco1",30/12/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000122,gabriela vargas flores,"metformina3,glibenclamida1",25/06/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000123,maria vargas garcia,paracetamol1,22/06/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000124,Jorge Castillo,"atorvastatina2,rosuvastatina4",10/07/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000125,fernanda gonzalez rodriguez,"ibuprofeno4,paracetamol4",02/10/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000126,gabriela castillo gonzalez,"insulina1,metformina1,glibenclamida3",08/02/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000127,alejandro perez martinez,"ibuprofeno4,omeprazol-2",05/09/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000128,LUCIA HERNANDEZ PEREZ,"atorvastatina1,rosuvastatina2",25/10/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000129,Ana Perez Torres,"omeprazol2,ibuprofeno3",20/03/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000130,valeria sanchez rodriguez,paracetamol1,30/04/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000131,Carlos Castillo Perez,atorvastatina1,20/09/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000132,alejandro perez garcia,omeprazol1,26/07/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000133,juan ramirez martinez,"ibuprofeno1,paracetamol1",02/12/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000134,M. LOPEZ SANCHEZ,amlodipino2,03/08/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000135,FERNANDA MARTINEZ VARGAS,"glibenclamida4,enalapril-2,insulina3",21/05/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000136,maria perez,"ibuprofeno2,paracetamol4",01/10/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000137,Valeria Castillo Martinez,"amlodipino2,losartan2",13/09/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000138,lucia cruz torres,diclofenaco4,04/09/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000139,Lucia Hernandez Cruz,metformina1,01/11/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000140,L. PEREZ VARGAS,paracetamol4,11/10/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000141,fernanda martinez torres,"ibuprofeno4,paracetamol2",22/10/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000142,CARLOS FLORES RAMIREZ,"orlistat4,insulina2,metformina1",21/12/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000143,patricia lopez castillo,"ibuprofeno1,paracetamol1",04/10/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000144,JUAN RODRIGUEZ LOPEZ,atorvastatina4,29/07/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000145,D. Garcia Perez,"vareniclina3,acidofolico2",05/06/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000146,VALERIA TORRES,"amlodipino2,enalapril4",06/04/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000147,daniel flores rodriguez,"diclofenaco2,amoxicilina2",18/01/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000148,MARIA LOEZ TORRES,"omeprazol2,ibuprofeno4",01/07/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000149,eduardo garca garcia,atorvastatina4,05/10/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000150,Jorge Cruz Gonzalez,"atorvastatina1,rosuvastatina1",30/12/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000151,v. flores rodriguez,"naproxeno2,paracetamol3,gabapentina4",10/11/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000152,daniel perez,"atorvastatina3,rosuvastatina2",28/01/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000153,e. martinez vargas,"bupropion4,vareniclina4",09/10/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000154,LAURA RAMIREZ VARGAS,metformina2,10/01/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000155,daniela rodriguez vargas,vareniclina4,24/11/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000156,Luis Torres Ramirez,"orlistat1,vareniclina2,metformina2",14/01/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000157,alejandro torres cruz,"vareniclina4,bupropion3",23/06/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000158,Carmen Cruz Castillo,"orlistat3,metformina1,bupropion3",23/08/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000159,a. torres hernandez,"metformina4,rosuvastatina1,insulina4",19/12/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000160,FERNANDA RODRIGUEZ,"ibuprofeno2,paracetamol3",06/04/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000161,V. Torres Castillo,"acidofolico120,sulfatoferroso4",21/07/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000162,ricardo ramirez lopez,"omeprazol2,ibuprofeno3",27/04/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000163,EDUARDO GARCIA CRUZ,"ibuprofeno2,omeprazol2",01/07/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000164,JUAN CASTILLO LOPEZ,"rosuvastatina1,atorvastatina3",14/09/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000165,ana castillo lopez,paracetamol2,25/11/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000166,gabriela rodriguez ramirez,ibuprofeno1,14/07/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000167,PATRICIA RAMIREZ SANCHEZ,bupropion3,27/08/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000168,EDUARDO FLORES HERNANDEZ,"acidofolico2,insulina1",04/07/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000169,luis sanchez flores,"paracetamol2,omeprazol2,ibuprofeno3",28/06/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000170,Jose Ramirez,"acidofolico4,sulfatoferroso4",29/10/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000171,laura martinez cruz,amlodipino2,16/05/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000172,maria cruz sanchez,"metformina1,rosuvastatina2",10/02/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000173,Ricardo Sanchez Hernandez,glibenclamida3,04/04/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000174,JOSE RAMIREZ,metformina1,05/12/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000175,daniel ramirez cruz,"paracetamol3,ibuprofeno3",10/04/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000176,CARLOS FORES VARGAS,"omeprazol1,ibuprofeno1",24/12/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000177,Patricia Lopez Sanchez,"orlistat4,metformina3",08/04/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000178,DANIELA FLORES CASTILLO,"losartan4,orlistat1,amlodipino1",28/09/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000179,Luis Torres Ramirez,"vareniclina2,bupropion3",19/10/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000180,L. Hernandez Vargas,"omeprazol4,ketorolaco3,paracetamol3",01/04/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000181,CARMEN MARTINEZ RODRIGUEZ,"ibuprofeno1,omeprazol2",05/07/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000182,FERNANDA LOPEZ RAMIREZ,losartan4,16/08/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000183,Jorge Garcia Lopez,omeprazol4,07/04/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000184,SOFIA RAMIREZ GARCIA,"rosuvastatina3,atorvastatina3",19/09/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000185,laura ramirez perez,"amlodipino3,enalapril1",06/01/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000186,RICARDO GONZALEZ CASTILLO,paracetamol4,23/03/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000187,D. GONZALEZ SANCHEZ,"rosuvastatina1,atorvastatina3",27/12/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000188,C. GARCIA TORRES,"bupropion3,vareniclina3",04/07/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000189,Daniela Lpez Ramirez,"rosuvastatina2,atorvastatina2",31/05/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000190,sofia ramirez lopez,omeprazol3,22/07/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000191,sofia garcia ramirez,"vareniclina3,bupropion2",22/01/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000192,DANIEL SANCHEZ SANCHEZ,"ketorolaco4,omeprazol2,ibuprofeno3",21/12/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000193,EDUARDO FLORES SANCHEZ,metformina1,28/01/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000194,sofia martinez torres,"metformina3,orlistat1,glibenclamida4",29/10/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000195,GABRIELA VARGAS MARTINEZ,"rosuvastatina4,atorvastatina3",30/03/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000196,Ana Hernandez Flores,"omeprazol3,loratadina2,paracetamol2",27/02/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000197,patricia sanchez torres,"gabapentina3,paracetamol3",23/05/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000198,CARMEN CASTILLO,"enalapril4,amlodipino4",11/03/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000199,LUCIA RODRIGUEZ LOPEZ,ibuprofeno4,29/05/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000200,L. Rodriguez Ramirez,"paracetamol1,ibuprofeno4,omeprazol1",08/02/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000201,alejandro ramirez,"vareniclina4,bupropion2",07/09/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000202,Alejandro Garcia Gonzalez,"diclofenaco2,paracetamol3",25/07/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000203,l. cruz rodriguez,ibuprofeno4,06/09/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000204,P. GONZALEZ CRUZ,"orlistat4,metformina1",26/08/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000205,JORGE LOPEZ CASTILLO,"ibuprofeno3,omeprazol1",10/06/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000206,elena gonzalez sanchez,"omeprazol4,amoxicilina4,ibuprofeno4",29/08/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000207,P. FLORES CRUZ,glibenclamida2,31/10/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000208,g. lopez lopez,atorvastatina2,10/04/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000209,PATRICIA LOPEZ RODRIGUEZ,"vareniclina3,bupropion1",30/03/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000210,ALEJANDRO GONZALEZ VARGAS,"ibuprofeno1,omeprazol1",19/02/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000211,gabriela vargas rodriguez,"paracetamol1,omeprazol4",02/05/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000212,Eduardo Cruz Torres,"atorvastatina2,rosuvastatina3",14/02/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000213,elena rodriguez sanchez,"glibenclamida1,enalapril1",07/03/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000214,Fernanda Lopez Cruz,amoxicilina2,26/11/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000215,Juan Hernandez Torres,"bupropion2,vareniclina2",05/10/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000216,miguel hernandez rodriguez,"paracetamol3,ibuprofeno4,omeprazol3",25/09/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000217,carlos castillo vargas,amlodipino4,19/07/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000218,miguel garcia garcia,"losartan4,amlodipino1,vareniclina3",11/04/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000219,daniela rodriguez vargas,"bupropion1,vareniclina4",27/12/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000220,eduardo flores martinez,"metformina2,orlistat4",13/02/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000221,M. PEREZ CASTILLO,"metformina3,orlistat4",04/04/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000222,jose martinez castillo,insulina4,09/01/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000223,LUCIA VARGAS FLORES,rosuvastatina3,04/08/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000224,MIGUEL RODRIGUEZ LOPEZ,"metformina3,insulina4",23/06/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000225,JORGE HERNANDEZ SANCHEZ,vareniclina0,21/12/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000226,daniela castillo cruz,"levotiroxina3,ibuprofeno3",14/07/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000227,Maria Flores Hernandez,"amlodipino3,losartan1",21/09/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000228,LUIS HERNANDEZ,atorvastatina3,30/07/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000229,M. Cruz Castillo,"ibuprofeno1,omeprazol3",07/10/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000230,carlos garcia torres,"bupropion3,vareniclina4",08/10/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000231,maria rodriguez lopez,"enalapril4,amlodipino3,atorvastatina4",02/11/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000232,FERNANDO CASTILLO RODRIGUEZ,"enalapril3,amlodipino3",22/05/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000233,Elena Castillo Gonzalez,paracetamol1,19/08/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000234,luis torres torres,"amlodipino3,losartan4",12/09/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000235,manuel matinez cruz,"paracetamol3,loratadina3",13/12/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000236,Patricia Cruz Flores,"bupropion4,vareniclina2",28/06/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000237,f. cruz rodriguez,"omeprazol1,atorvastatina120",18/04/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000238,juan ramirez,"orlistat4,amlodipino3",19/04/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000239,DANIELA CASTILLO GARCIA,glibenclamida1,22/02/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000240,fernanda gonzalez gonzalez,"orlistat2,metformina4",29/06/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000241,Valeria Torres Martinez,"vareniclina2,enalapril4,bupropion3",09/08/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000242,DANIELA PEREZ GARCIA,"insulina1,glibenclamida3,metformina2",19/01/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000243,fernanda gonzalez castillo,"omeprazol1,paracetamol1,ibuprofeno3",14/02/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000244,ricardo flores rodriguez,"paracetamol3,omeprazol3,ibuprofeno2",10/03/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000245,lucia lopez rodriguez,enalapril1,21/08/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000246,Fernanda Flores Martinez,insulina3,02/11/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000247,Luis Castillo Martinez,"vareniclina2,bupropion3",03/09/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000248,v. rodriguez perez,"paracetamol2,omeprazol3,ibuprofeno4",29/06/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000249,LUIS GONZALEZ HERNANDEZ,rosuvastatina1,17/04/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000250,maria lopez cruz,"ibuprofeno3,amoxicilina1,diclofenaco4",02/04/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000251,Luis Gonzalez Ramirez,bupropion2,30/10/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000252,daniela rodriguez vargas,"vareniclina3,bupropion1",07/02/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000253,gabriela sanchez flores,"metformina3,orlistat4",11/03/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000254,daniel lopez sanchez,paracetamol3,24/12/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000255,Laura Garcia Hernandez,enalapril2,09/03/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000256,MANUEL MARTINEZ CASTILLO,atorvastatina3,29/07/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000257,Carlos Castillo Vargas,"losartan2,enalapril3",18/02/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000258,gabriela martinez cruz,ibuprofeno4,18/06/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000259,Eduardo Cruz Lopez,"glibenclamida1,amlodipino2",31/05/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000260,ALEJANDRO LOPEZ CASTILLO,"paracetamol4,omeprazol4,ibuprofeno1",05/02/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000261,fernanda vargas castillo,"ibuprofeno4,omeprazol3",06/02/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000262,J. RODRIGUEZ RAMIREZ,acidofolico3,02/04/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000263,MARIA GONZALEZ GARCIA,"bupropion4,vareniclina4",26/01/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000264,Gabriela Ramirez Rodriguez,"glibenclamida1,insulina4,sulfatoferroso4",06/02/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000265,LUCIA VARGAS SANCHEZ,"glibenclamida3,insulina2,metformina3",28/01/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000266,LAURA SANCHEZ CRUZ,"amlodipino4,metformina99,orlistat2",30/10/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000267,RICARDO RODRIGUEZ CRUZ,"insulina2,metformina3,levotiroxina3",02/09/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000268,F. Sanchez Vargas,"paracetamol2,diclofenaco2,amoxicilina3",03/10/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000269,DANIEL LOPEZ,bupropion3,30/04/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000270,JUAN HERNANDEZ GARCIA,"omeprazol2,ketorolaco1",01/08/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000271,RICARDO HERNANDEZ HERNANDEZ,"amlodipino1,ibuprofeno1,paracetamol3",20/12/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000272,carmen cruz martinez,ibuprofeno2,11/11/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000273,alejandro lopez torres,orlistat2,25/09/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000274,LAURA LOPEZ SANCHEZ,rosuvastatina1,24/05/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000275,LAURA RODRIGUEZ FLORES,"rosuvastatina1,metformina1,orlistat4",22/02/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000276,m. rodriguez lopez,"enalapril2,atorvastatina2",07/06/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000277,laura cruz garcia,"amlodipino1,atorvastatina2,enalapril4",30/11/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000278,JOSE MARTINEZ CASTILLO,bupropion1,24/12/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000279,Daniel Torres,amlodipino1,07/01/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000280,MANUEL VARGAS GARCIA,ibuprofeno3,08/10/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000281,ANA HERNANDEZ VARGAS,"ibuprofeno4,omeprazol1,paracetamol4",04/11/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000282,carlos gonzalez,enalapril2,23/06/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000283,C. GONZALEZ MARTINEZ,"ketorolaco4,omeprazol3,ibuprofeno4",02/01/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000284,R. Rodriguez Torres,losartan3,23/12/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000285,Daniela Gonzalez Hernandez,"orlistat1,atorvastatina1,rosuvastatina1",03/05/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000286,ANA TORRS GONZALEZ,"ibuprofeno4,paracetamol2",08/12/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000287,miguel hernandez lopez,"paracetamol1,ibuprofeno3,diclofenaco4",11/07/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000288,C. MARTINEZ HERNANDEZ,vareniclina4,04/02/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000289,Patricia Hernandez Martinez,"omeprazol2,ibuprofeno1",21/08/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000290,ELENA VARGAS TORRES,"rosuvastatina3,bupropion1,metformina1",31/07/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000291,Eduardo Vrgas Flores,ibuprofeno4,21/04/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000292,JORGE RAMIREZ GARCIA,"bupropion2,amlodipino2,enalapril1",04/07/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000293,daniel rodriguez lopez,"amlodipino1,enalapril1",03/06/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000294,L. Martinez Castillo,"atorvastatina3,rosuvastatina4,losartan2",16/04/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000295,eduardo sanchez martinez,"bupropion3,vareniclina1",19/09/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000296,patricia sanchez hernandez,"vareniclina3,bupropion4",27/08/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000297,elena garcia vargas,metformina4,16/04/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000298,MANUEL VARGAS GARCIA,"paracetamol4,ibuprofeno4",13/10/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000299,Manuel Perez Rodriguez,amlodipino3,09/09/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000300,PATRICIA SANCHEZ RAMIREZ,"atorvastatina3,losartan3",03/06/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000301,Ricardo Hernandez Flores,rosuvastatina2,28/04/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000302,FERNANDA TORRES SANCHEZ,"sulfatoferroso2,acidofolico4",14/07/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000303,RICARDO GONZALEZ,"losartan2,amlodipino4",04/07/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000304,jorge rodriguez ramirez,acidofolico4,08/01/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000305,D. Sanchez Garcia,"metformina1,insulina4,glibenclamida1",28/08/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000306,Maria Gonzalez Ramirez,atorvastatina3,23/08/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000307,daniel torres castillo,"rosuvastatina4,atorvastatina1",27/01/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000308,jose castillo hernandez,levotiroxina2,13/11/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000309,Jorge Gonzalez Lopez,"bupropion2,sulfatoferroso1",03/10/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000310,Gabriela Garcia Lopez,"ibuprofeno3,omeprazol1",09/09/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000311,jose garcia lopez,atorvastatina1,06/10/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000312,Fernanda Sanchez Ramirez,"metformina1,glibenclamida2",18/05/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000313,Daniel Hernandez Sanchez,"enalapril3,amlodipino3",29/08/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000314,luis castillo sanchez,"losartan2,amlodipino3",03/06/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000315,maria castillo,"glibenclamida2,metformina3",14/07/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000316,sofia ramirez castillo,"ketorolaco4,ibuprofeno2",21/10/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000317,Carmen Lopez Sanchez,"ibuprofeno1,omeprazol3",16/12/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000318,Daniel Flores Lopez,sulfatoferroso3,18/10/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000319,FERNANDO RAMIREZ VARGAS,"metformina2,atorvastatina4,rosuvastatina4",19/08/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000320,maria perez ramirez,"ibuprofeno1,omeprazol120,atorvastatina1",24/04/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000321,PATRICIA TORRES VARGAS,"paracetamol1,levotiroxina4,insulina4",23/05/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000322,Laura Lopez,bupropion2,18/07/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000323,MIGUEL PEREZ SANCHEZ,"amlodipino2,enalapril3",12/07/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000324,Valeria Ramirez Perez,glibenclamida3,13/05/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000325,CARMEN GONZALEZ,"glibenclamida1,insulina3,orlistat2",30/12/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000326,patricia flores garcia,"omeprazol3,paracetamol4",09/01/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000327,ELENA RODRIGUEZ,vareniclina1,26/12/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000328,Elena Rodriguez Sanchez,"losartan2,insulina4",08/09/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000329,ANA RODRIGUEZ MARTINEZ,omeprazol1,27/10/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000330,eduardo gonzalez,"enalapril3,amlodipino1",30/07/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000331,gabriela martinez,ibuprofeno1,25/06/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000332,Laura Martinez Cruz,ibuprofeno2,09/08/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000333,manuel martinez castillo,"ibuprofeno1,paracetamol2",04/05/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000334,FERNANDO CASILLO RODRIGUEZ,losartan3,13/11/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000335,R. Garcia Castillo,"amlodipino1,losartan4,omeprazol3",01/06/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000336,Ana Hernandez Martinez,bupropion4,15/02/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000337,Juan Rodriguez,ibuprofeno2,19/11/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000338,fernando cruz lopez,"atorvastatina1,insulina3",20/05/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000339,carlos castillo,"pregabalina4,gabapentina2,omeprazol3",24/03/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000340,LAURA CRUZ HERNANDEZ,"paracetamol4,omeprazol3",20/09/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000341,fernando vargas martinez,orlistat1,07/07/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000342,DANIELA PEREZ GARCIA,"metformina4,orlistat3",27/01/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000343,ANA GONZALEZ GONZALEZ,"paracetamol3,pregabalina2",10/03/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000344,J. VARGAS RAMIREZ,losartan4,22/04/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000345,ana torres gonzalez,ibuprofeno4,09/03/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000346,C. HERNANDEZ VARGAS,"metformina4,orlistat1",30/12/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000347,fernando ramirez,metformina3,12/04/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000348,ALEJANDRO VARGAS HERNANDEZ,"enalapril4,amlodipino2",13/10/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000349,Jorge Garcia Torres,amlodipino2,15/06/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000350,CARMEN RAMIREZ HERNANDEZ,"omeprazol2,ibuprofeno120,loratadina3",16/03/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000351,patricia flores perez,"losartan1,amlodipino2",07/01/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000352,laura ramirez flores,omeprazol1,30/09/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000353,Ana Sanchez Torres,"rosuvastatina-1,enalapril4,losartan2",04/04/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000354,Jorge Garcia Rodriguez,"losartan1,amlodipino3",05/11/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000355,MIGUEL CASTILLO PEREZ,"vareniclina4,bupropion3",23/03/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000356,EDUARDO MARTINEZ HERNANDEZ,"ibuprofeno3,omeprazol3,paracetamol2",28/07/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000357,ELENA RODRIGUEZ RODRIGUEZ,"paracetamol99,omeprazol1,ibuprofeno1",26/04/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000358,Daniela Garcia Martinez,rosuvastatina3,25/08/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000359,M. FLORES HERNANDEZ,"enalapril4,bupropion3",04/11/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000360,ana cruz rodriguez,losartan3,29/06/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000361,g. gonzalez gonzalez,"losartan-1,metformina4",14/08/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000362,JUAN PEREZ CRUZ,"losartan1,enalapril4,amlodipino2",09/01/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000363,FERNANDA CASTILLO CASTILLO,ibuprofeno2,21/08/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000364,lucia rodriguez lopez,"enalapril1,rosuvastatina3,amlodipino3",18/04/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000365,daniela cruz sanchez,"rosuvastatina2,atorvastatina3",29/06/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000366,Ana Flores Castillo,metformina2,16/03/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000367,Lucia Hernandez Cruz,"orlistat2,metformina1",03/05/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000368,Juan Hernandez Castillo,"atorvastatina1,rosuvastatina4",12/06/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000369,Daniela Sanchez Rodriguez,"metformina2,orlistat2",20/05/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000370,JUAN RAMIREZ RODRIGUEZ,"vareniclina4,bupropion4",29/03/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000371,PATRICIA RAMIREZ HERNANDEZ,"ibuprofeno2,paracetamol2,omeprazol1",12/05/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000372,eduardo vargas cruz,rosuvastatina2,18/09/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000373,ANA HERNANDEZ PEREZ,"paracetamol4,pregabalina1",10/04/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000374,daniela flores garcia,metformina1,16/06/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000375,elena rodiguez vargas,metformina3,30/01/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000376,jorge perez hernandez,metformina1,02/03/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000377,Jorge Lopez Ramirez,ibuprofeno3,26/05/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000378,Daniela Sanchez Vargas,"metformina2,insulina4",09/05/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000379,daniel flores sanchez,"bupropion2,vareniclina4",04/11/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000380,ANA FLORES GONZALEZ,"glibenclamida1,amlodipino1",27/08/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000381,fernanda vargas martinez,paracetamol3,29/09/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000382,LUIS RODRIGUEZ PEREZ,"omeprazol3,amoxicilina3",26/10/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000383,EDUARDO PEREZ PEREZ,"omeprazol1,ibuprofeno4",27/01/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000384,Sofia Gonzalez Cruz,vareniclina3,06/02/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000385,Laura Martinz Vargas,"acidofolico1,rosuvastatina1",27/02/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000386,Sofia Cruz Lopez,vareniclina2,04/08/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000387,daniela rodriguez vargas,"orlistat4,metformina3",30/04/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000388,luis martinez flores,"paracetamol1,amlodipino4,losartan2",18/10/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000389,elena ramirez hernandez,"omeprazol2,gabapentina2,pregabalina3",04/08/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000390,laura perez lopez,"bupropion4,vareniclina4",27/05/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000391,JUAN GNZALEZ GARCIA,"paracetamol3,loratadina3,ibuprofeno1",04/07/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000392,Daniel Torres Torres,"ibuprofeno2,omeprazol2,paracetamol3",29/12/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000393,JORGE RAMIREZ FLORES,"metformina3,orlistat2,atorvastatina2",13/12/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000394,CARLOS RODRIGUEZ CRUZ,"ibuprofeno4,paracetamol1,amoxicilina3",14/12/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000395,ELENA CASTILLO CRUZ,"losartan1,enalapril2,rosuvastatina2",19/07/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000396,valeria ramirez vargas,amoxicilina1,30/08/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000397,fernando martinez ramirez,"insulina4,glibenclamida1",28/09/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000398,Jose Torres Rodriguez,"sulfatoferroso1,acidofolico1",27/11/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000399,Manuel Ramirez Flores,"metformina1,orlistat1",09/09/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000400,JUAN FLORES HERNANDEZ,"ibuprofeno4,amlodipino4,losartan4",30/09/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000401,Lucia Flores Rodriguez,enalapril2,02/04/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000402,MANUEL GONZALEZ LOPEZ,glibenclamida4,12/09/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000403,Ricardo Ramirez Vargas,"ibuprofeno3,paracetamol3,omeprazol2",30/08/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000404,elena vargas lopez,"atorvastatina3,losartan1,rosuvastatina4",12/03/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000405,elena ramirez vargas,"metformina1,losartan4",14/09/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000406,Daniel Perez Torres,amlodipino3,07/01/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000407,alejandro ramirez garcia,"omeprazol3,ketorolaco2",03/04/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000408,jorge castillo rodriguez,rosuvastatina4,23/05/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000409,jose garia garcia,amlodipino1,13/04/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000410,Lucia Martinez Cruz,"paracetamol3,omeprazol4",28/12/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000411,Laura Vargas Lopez,"amlodipino3,losartan4,enalapril2",23/12/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000412,SOFIA GONZALEZ CRUZ,vareniclina4,09/08/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000413,ANA FLORES CRUZ,"omeprazol1,atorvastatina2,amlodipino2",11/12/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000414,Eduardo Ramirez Torres,"orlistat1,bupropion4,vareniclina2",14/07/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000415,fernanda garcia cruz,"atorvastatina3,rosuvastatina1",07/06/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000416,patricia ramirez lopez,"amlodipino1,losartan2,enalapril3",09/06/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000417,C. Gonzalez Castillo,"omeprazol3,paracetamol1",05/11/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000418,JOSE PEREZ TORRES,"amlodipino2,losartan3,enalapril3",21/12/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000419,L. Martinez Hernandez,"bupropion2,vareniclina1",15/01/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000420,juan vargas torres,"omeprazol4,ibuprofeno99,paracetamol2",04/05/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000421,Fernanda Martinez Castillo,"glibenclamida2,metformina2",20/08/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000422,maria ramirez ramirez,"glibenclamida4,insulina4",23/06/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000423,Elena Lopez Perez,orlistat3,03/02/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000424,Ana Martinez Castillo,"paracetamol3,ibuprofeno1,omeprazol1",02/11/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000425,daniela rodriguez rodriguez,gabapentina1,27/01/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000426,Lucia Martinez Cruz,"atorvastatina1,ibuprofeno4",09/03/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000427,MIGUEL GONZALEZ LOPEZ,"ibuprofeno2,paracetamol2",31/03/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000428,Carlos Gonzaez Sanchez,naproxeno3,09/08/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000429,Valeria Vargas Martinez,"paracetamol2,ibuprofeno1",05/10/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000430,daniel sanchez sanchez,rosuvastatina2,07/04/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000431,Laura Garcia,"paracetamol3,omeprazol3",21/09/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000432,GABRIELA GONZALEZ HERNANDEZ,"atorvastatina1,rosuvastatina4",05/01/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000433,DANIEL CASTILLO RODRIGUEZ,"losartan4,amlodipino2",14/04/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000434,laura cruz cruz,"ibuprofeno1,omeprazol120",14/11/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000435,Jorge Hernandez Gonzalez,"insulina2,sulfatoferroso3,metformina2",11/12/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000436,miguel cruz torres,ibuprofeno1,27/01/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000437,manuel garcia cruz,"metformina4,rosuvastatina3,insulina1",07/05/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000438,Jorge Castillo Torres,orlistat4,28/06/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000439,miguel cruz,"insulina2,glibenclamida2",20/01/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000440,Daniela Castillo Martinez,"losartan3,enalapril4,amlodipino4",13/11/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000441,Carmen Garcia Sanchez,"paracetamol3,ibuprofeno1,gabapentina3",08/03/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000442,CARMEN FLORES CASTILLO,insulina2,16/12/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000443,carmen martinez flores,ibuprofeno2,08/03/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000444,Jose Vargas Gonzalez,"orlistat3,metformina2",22/01/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000445,P. CASTILLO RODRIGUEZ,"ibuprofeno2,paracetamol1",10/02/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000446,Ricardo Ramirez Lopez,"paracetamol2,omeprazol2,ibuprofeno2",01/05/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000447,fernanda hernandez,"metformina4,orlistat4",30/12/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000448,valeria sanchez rodriguez,"ibuprofeno4,amlodipino2,atorvastatina4",27/08/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000449,C. Flores Lopez,"insulina3,omeprazol3",19/11/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000450,ELENA LOPEZ HERNANDEZ,losartan1,08/04/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000451,juan cruz vargas,"rosuvastatina4,atorvastatina1",08/10/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000452,RICARDO SANCHEZ RODRIGUEZ,"atorvastatina1,rosuvastatina-1",14/11/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000453,L. GARCIA MARTINEZ,ibuprofeno4,29/11/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000454,JUAN PEREZ GARCIA,metformina1,06/05/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000455,L. GARCIA VARGAS,"bupropion4,vareniclina3",10/08/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000456,Manuel Torres Gonzalez,bupropion1,01/12/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000457,Manuel Martinez Lopez,"metformina3,insulina2",26/11/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000458,Daniela Sanchez Vargas,"insulina3,glibenclamida3,metformina4",15/12/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000459,VALERIA PEREZ,orlistat1,19/11/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000460,jose martinez lopez,"bupropion2,vareniclina2",07/07/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000461,ALEJANDRO CRUZ VARGAS,diclofenaco3,12/05/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000462,Laura Lopez Cruz,"bupropion3,vareniclina3",08/10/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000463,daniel sanchez garcia,"metformina4,glibenclamida4",05/10/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000464,Laura Martinez Castillo,enalapril3,22/12/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000465,gabriela castillo gonzalez,"glibenclamida4,insulina1,metformina2",24/11/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000466,LUCIA MARTINEZ PEREZ,"ibuprofeno1,paracetamol2,omeprazol4",25/05/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000467,Lucia Castillo Sanchez,"paracetamol4,ibuprofeno2",06/12/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000468,Laura Torres Lopez,"vareniclina1,bupropion2",23/03/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000469,LAURA RAMIREZ SANCHEZ,"metformina4,orlistat4",13/08/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000470,DANIELA FLORES GARCIA,orlistat1,30/11/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000471,LAURA PEREZ LOPEZ,"paracetamol2,ibuprofeno1",03/12/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000472,PATRICIA PEREZ MARTINEZ,"losartan1,enalapril3,insulina2",15/10/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000473,Juan Rodriguez Rodriguez,"acidofolico4,sulfatoferroso3",06/12/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000474,Alejandro Castillo Torres,"vareniclina1,bupropion3",04/11/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000475,laura flores rodriguez,"losartan2,amlodipino4,atorvastatina4",17/03/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000476,VALERIA MARTINEZ SANCHEZ,"amlodipino1,enalapril3,losartan1",07/05/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000477,ELENA LOPEZ LOPEZ,"omeprazol3,paracetamol2,naproxeno1",17/02/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000478,Fernando Ramirez Martinez,"insulina4,atorvastatina1",28/10/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000479,fernanda rodriguez flores,"ibuprofeno2,omeprazol2,paracetamol4",12/04/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000480,SOFIA RAMIREZ VARGAS,"ibuprofeno1,paracetamol3,omeprazol3",13/07/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000481,carmen ramirez vargas,"enalapril0,atorvastatina3,rosuvastatina2",17/06/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000482,JUAN HERNANDEZ,"metformina-1,orlistat3,bupropion1",17/04/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000483,Eduardo Ramirez Hernandez,"omeprazol2,paracetamol1,ibuprofeno1",29/03/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000484,MANUEL GARCIA HERNANDEZ,metformina3,25/05/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000485,GABRIELA RODRIGUEZ CASTILLO,atorvastatina4,15/12/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000486,EDUARDO HERNANDEZ LOPEZ,"ibuprofeno3,omeprazol4",22/06/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000487,GABRIELA LOPEZ LOPEZ,"atorvastatina2,rosuvastatina3",12/12/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000488,EDUARDO TORRES CRUZ,"omeprazol3,ibuprofeno4",19/02/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000489,DANIELA RAMIREZ,paracetamol4,29/11/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000490,sofia castillo flores,"ibuprofeno1,paracetamol3,omeprazol1",24/05/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000491,FERNANDA GONZALEZ RODRIGUEZ,"ibuprofeno3,diclofenaco1",09/03/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000492,VALERIA PEREZ LOPEZ,ibuprofeno3,20/02/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000493,Manuel Garcia Hernandez,"orlistat1,metformina2",30/05/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000494,Gabriela Flores Flores,"insulina3,atorvastatina3,glibenclamida2",02/01/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000495,Maria Castillo Martinez,"bupropion4,vareniclina3",21/07/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000496,carlos garcia rodriguez,"orlistat1,insulina2,glibenclamida1",07/07/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000497,FERNANDO PEREZ PEREZ,"rosuvastatina-1,atorvastatina99",01/04/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000498,FERNANDO FLORES FLORES,"sulfatoferroso4,glibenclamida3",09/07/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000499,LUCIA GARCIA RAMIREZ,omeprazol1,29/07/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000500,daniel gonzalez sanchez,"omeprazol1,ibuprofeno1",17/03/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000501,C. CASTILLO GONZALEZ,"bupropion1,vareniclina4",14/03/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000502,ALEJANDRO CASTILLO CRUZ,"omeprazol1,ibuprofeno1",02/04/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000503,carmen rodriguez perez,"vareniclina4,bupropion1",02/03/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000504,F. Martinez Castillo,ibuprofeno1,06/07/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000505,elena vargas garcia,rosuvastatina3,30/07/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000506,Carlos Hernandez Torres,"paracetamol3,ibuprofeno2",03/01/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000507,Daniel Sanchez Vargas,atorvastatina4,11/08/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000508,carmen garcia flores,"insulina2,glibenclamida3,metformina1",23/09/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000509,CARLOS VARGAS CASTILLO,"metformina3,losartan3,enalapril2",24/01/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000510,Fernando Vargas Lopez,"paracetamol2,levotiroxina4",28/11/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000511,Alejandro Rodriguez Sanchez,enalapril4,13/05/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000512,Daniel Castillo Sanchez,"omeprazol3,ibuprofeno3,atorvastatina2",27/09/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000513,a. vargas hernandez,amlodipino1,20/08/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000514,sofia cruz vargas,"bupropion4,insulina2",18/06/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000515,LUIS FLORES TORRES,paracetamol2,13/07/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000516,j. gonzalez rodriguez,"bupropion2,orlistat4,rosuvastatina4",22/07/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000517,JUAN PEREZ GONZALEZ,"omeprazol2,paracetamol2,ibuprofeno3",28/04/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000518,juan gonzalez vargas,"ibuprofeno3,paracetamol2",30/03/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000519,JOSE FLORES SANCHEZ,metformina3,30/07/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000520,sofia cruz torres,"omeprazol2,ibuprofeno1,loratadina3",07/06/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000521,Ana Cruz Torres,"metformina4,insulina2,bupropion4",27/09/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000522,SOFIA PEREZ RAMIREZ,"orlistat1,metformina4",09/11/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000523,maria rodriguez lopez,paracetamol4,05/04/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000524,Patricia Martinez,"metformina3,orlistat1",15/09/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000525,MANUEL PEREZ CASTILLO,"vareniclina3,bupropion4",21/05/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000526,carmen castillo garcia,"metformina4,insulina3",20/08/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000527,C. PEREZ RODRIGUEZ,omeprazol4,06/03/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000528,PATRICIA SANCHEZ HERNANDEZ,"vareniclina4,bupropion3",24/12/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000529,L. CRUZ GARCIA,atorvastatina3,04/10/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000530,FERNANDA VARGAS CASTILLO,"amlodipino2,losartan4,enalapril3",24/10/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000531,CARMEN CASTILLO VARGAS,"metformina2,glibenclamida1,insulina2",19/12/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000532,EDUARDO LOPEZ CRUZ,"vareniclina2,losartan3",26/11/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000533,MARIA GARCIA MARTINEZ,metformina3,17/10/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000534,miguel sanchez torres,"orlistat1,metformina3",04/04/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000535,J. Martinez Castillo,ibuprofeno1,22/09/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000536,Carlos Gonzalez Sanchez,"omeprazol4,ibuprofeno2,paracetamol4",01/11/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000537,manuel vargas garcia,metformina3,07/04/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000538,Luis Rodriguez Sanchez,"metformina4,ibuprofeno4,levotiroxina1",29/04/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000539,Lucia Snchez Flores,insulina1,07/03/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000540,EDUARDO CASTILLO GARCIA,"atorvastatina3,rosuvastatina4",17/06/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000541,fernando cruz rodriguez,"amoxicilina1,omeprazol3,paracetamol1",14/12/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000542,SOFIA CASTILLO,"ibuprofeno3,omeprazol1,paracetamol2",24/11/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000543,L. PEREZ GONZALEZ,rosuvastatina3,01/08/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000544,MARIA LOPEZ FLORES,"losartan4,enalapril2,amlodipino1",19/02/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000545,Ricardo Torres Martinez,bupropion1,18/07/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000546,FERNANDO GARCIA GARCIA,"rosuvastatina4,atorvastatina3",10/11/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000547,m. garcia lopez,"metformina4,orlistat1",06/09/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000548,juan hernandez rodriguez,metformina3,08/08/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000549,ALEJANDRO CRUZ SANCHEZ,"paracetamol2,atorvastatina2,omeprazol4",25/05/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000550,ricardo cruz flores,"losartan1,enalapril2",05/06/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000551,Carmen Cruz Gonzalez,"losartan2,amlodipino2,enalapril4",22/08/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000552,jose cruz ramirez,"vareniclina3,atorvastatina3,rosuvastatina4",24/08/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000553,luis hernandez rodriguez,"amlodipino1,rosuvastatina2",31/03/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000554,Fernanda Hernandez Ramirez,"acidofolico3,rosuvastatina4,atorvastatina3",02/10/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000555,JOSE RODRIGUEZ CRUZ,glibenclamida1,25/08/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000556,MANUEL TORRES RAMIREZ,"orlistat3,rosuvastatina2,metformina3",21/09/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000557,luis torres torres,vareniclina4,01/06/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000558,FERNANDA RODRIGUEZ GONZALEZ,"omeprazol1,ibuprofeno2",23/12/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000559,daniela gonzalez vargas,"sulfatoferroso1,bupropion3,glibenclamida2",16/08/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000560,SOFIA VARGAS LOPEZ,bupropion2,05/08/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000561,D. Vargas Cruz,"orlistat2,rosuvastatina120,metformina2",02/03/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000562,Fernanda Rodriguez Flores,"ibuprofeno3,diclofenaco3,paracetamol4",30/11/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000563,Alejandro Flores Vargas,"metformina3,orlistat2,vareniclina3",31/01/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000564,FERNANDO RAMIREZ MARTINEZ,"insulina4,metformina3,atorvastatina1",28/07/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000565,maria torres ramirez,"glibenclamida3,insulina2",22/02/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000566,CARLOS GARCIA,"losartan2,atorvastatina2,insulina2",21/06/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000567,daniel cruz castillo,"paracetamol4,ibuprofeno1,omeprazol1",15/11/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000568,eduardo cruz gonzalez,"glibenclamida1,bupropion1",16/10/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000569,Patricia Garcia Sanchez,ibuprofeno4,21/03/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000570,Daniel Garcia Perez,vareniclina1,13/08/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000571,daniela rodriguez gonzalez,"ibuprofeno2,omeprazol3,amlodipino3",07/04/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000572,DANIELA LOPEZ GONZALEZ,rosuvastatina1,21/05/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000573,ricardo martinez cruz,bupropion2,01/08/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000574,carmen perez perez,amlodipino3,25/06/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000575,j. ramirez perez,"vareniclina4,bupropion3",26/12/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000576,Manuel Rodriguez Hernandez,"metformina1,atorvastatina2",03/02/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000577,LUCIA HERNANDEZ CRUZ,"orlistat2,metformina4",11/07/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000578,juan sanchez rodriguez,ibuprofeno3,23/12/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000579,R. MARTINEZ CASTILLO,"omeprazol1,paracetamol4,ibuprofeno1",27/07/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000580,eduardo vargas ramirez,insulina3,21/11/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000581,Carlos Sanchez Torres,"orlistat1,metformina4",21/01/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000582,Valeria Flores Sanchez,"enalapril4,bupropion1,metformina2",14/08/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000583,Carmen Rodriguez Flores,"ibuprofeno2,paracetamol1,omeprazol3",25/02/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000584,MARIA GONZALEZ GONZALEZ,ibuprofeno2,17/03/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000585,Jose Rodriguez Castillo,"ibuprofeno4,omeprazol2",09/11/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000586,CARLOS LOPEZ GARCIA,metformina2,30/11/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000587,Eduardo Rodriguez Flores,"naproxeno1,gabapentina4,paracetamol3",19/08/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000588,eduardo cruz torres,"rosuvastatina1,atorvastatina3",15/01/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000589,ana garcia sanchez,"amlodipino2,enalapril4",27/12/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000590,ELENA RAMIREZ TORRES,"amlodipino2,losartan1,enalapril4",22/12/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000591,ana cruz vargas,"rosuvastatina2,atorvastatina4",16/05/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000592,CARMEN TORRES GONZALEZ,"losartan2,metformina3",10/07/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000593,LAURA RAMIREZ CRUZ,omeprazol2,24/07/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000594,JORGE HERNANDEZ SANCHEZ,"ibuprofeno3,omeprazol1",03/07/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000595,luis gonzalez ramirez,vareniclina4,28/05/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000596,Daniela Garcia Sanchez,omeprazol3,26/12/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000597,RICARDO RAMIREZ MARTINEZ,ibuprofeno3,28/10/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000598,ALEJANDRO LOPEZ GONZALEZ,"insulina1,bupropion4,metformina1",31/05/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000599,DANIEL CRUZ RAMIREZ,"losartan1,paracetamol4",01/09/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000600,eduardo rodriguez castillo,"rosuvastatina4,atorvastatina4",25/07/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000601,Laura Perez Lopez,vareniclina1,16/02/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000602,LAURA RAMIREZ GONZALEZ,"rosuvastatina4,metformina3,atorvastatina3",11/04/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000603,SOFIA CRUZ VARGAS,"ibuprofeno1,losartan1,omeprazol3",19/03/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000604,alejandro lopez castillo,"ibuprofeno3,paracetamol1",19/05/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000605,CARMEN SANCHEZ CRUZ,"metformina3,orlistat3",07/04/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000606,fernando torres martinez,insulina2,16/08/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000607,Alejandro Torres Sanchez,"orlistat1,metformina2",02/11/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000608,PATRICIA CASTILLO,bupropion2,24/04/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000609,Luis Garcia Castillo,"insulina4,omeprazol1",29/06/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000610,Fernanda Martinez Gonzalez,paracetamol2,08/09/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000611,PATRICIA LOPEZ HERNANDEZ,"ibuprofeno4,omeprazol4,paracetamol4",20/12/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000612,FERNANDA GARCIA RODRIGUEZ,paracetamol2,19/05/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000613,luis martinez torres,"paracetamol-1,omeprazol1,ibuprofeno4",16/08/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000614,DANIEL PEREZ RAMIREZ,vareniclina4,09/02/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000615,GABRIELA MARTINEZ CRUZ,omeprazol3,10/03/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000616,Daniel Gonzalez Sanchez,"atorvastatina-1,orlistat3",21/04/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000617,MIGUEL HERNANDEZ CASTILLO,"rosuvastatina1,losartan1",14/03/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000618,Valeria Lopez Martinez,orlistat1,03/01/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000619,LAURA FLORES RODRIGUEZ,omeprazol3,02/05/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000620,Luis Cuz Garcia,ibuprofeno1,23/06/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000621,Carlos Rodriguez Garcia,metformina4,28/10/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000622,CARMEN CRUZ GONZALEZ,rosuvastatina1,19/04/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000623,Jose Garcia Hernandez,diclofenaco2,31/08/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000624,GABRIELA GONZALEZ FLORES,"amlodipino4,atorvastatina3,losartan3",10/12/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000625,Sofia Vargas Cruz,"paracetamol1,omeprazol3",27/11/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000626,Jose Cruz Castillo,"vareniclina2,bupropion4",11/07/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000627,PATRICIA HERNANDEZ GONZALEZ,omeprazol4,01/12/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000628,DANIEL CRUZ RAMIREZ,diclofenaco2,16/06/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000629,L. Ramirez Flores,"paracetamol4,omeprazol1,diclofenaco2",04/12/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000630,maria perez hernandez,"glibenclamida4,metformina4",09/10/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000631,sofia martinez vargas,omeprazol1,31/01/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000632,SOFIA SANCHEZ GARCIA,"amlodipino2,enalapril2,losartan1",02/08/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000633,valeria sanchez vargas,bupropion1,27/11/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000634,Lucia Torres Flores,orlistat2,25/11/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000635,CARLOS HERNANDEZ FLORES,"metformina3,bupropion1",30/10/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000636,Fernanda Lopez Sanchez,"metformina2,paracetamol4",04/03/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000637,jorge vargas sanchez,orlistat1,05/03/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000638,ALEJANDRO LOPZ CRUZ,losartan3,07/10/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000639,Jose Vargas Ramirez,"orlistat1,vareniclina2",06/12/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000640,Fernanda Ramirez Castillo,pregabalina4,11/04/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000641,Daniela Rodriguez Rodriguez,paracetamol3,16/11/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000642,D. RODRIGUEZ CASTILLO,omeprazol2,12/09/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000643,j. flores garcia,vareniclina2,03/05/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000644,FERNANDA GARCIA GARCIA,"losartan4,sulfatoferroso2,vareniclina3",13/12/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000645,sofia rodriguez torres,"amoxicilina2,diclofenaco1",01/03/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000646,LUIS LOPEZ FLORES,omeprazol4,22/07/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000647,ALEJANDRO GARCIA GONZALEZ,"omeprazol1,paracetamol1",07/04/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000648,p. vargas ramirez,"omeprazol1,paracetamol1,ibuprofeno2",18/10/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000649,J. CASTILLO CRUZ,"ibuprofeno3,omeprazol2",11/03/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000650,ELENA GONZALEZ CRUZ,"losartan1,enalapril1,amlodipino4",17/04/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000651,EDUARDO TRRES FLORES,rosuvastatina1,11/07/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000652,J. GONZALEZ LOPEZ,orlistat1,03/08/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000653,VALERIA SANCHEZ HERNANDEZ,omeprazol4,26/03/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000654,Laura Garcia Vargas,rosuvastatina0,30/07/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000655,G. RAMIREZ MARTINEZ,atorvastatina4,31/05/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000656,DANIEL GONZALEZ MARTINEZ,acidofolico2,02/04/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000657,carmen gonzalez martinez,omeprazol1,19/09/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000658,D. Perez Flores,"ibuprofeno2,paracetamol2",04/07/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000659,VALERIA HERNANDEZ PEREZ,atorvastatina2,14/08/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000660,MIGUEL SANCHEZ TORRES,"bupropion1,glibenclamida3,vareniclina3",12/02/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000661,ALEJANDRO RODRIGUEZ VARGAS,"bupropion4,vareniclina2",04/07/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000662,RICARDO GONZALEZ GONZALEZ,"paracetamol4,omeprazol3,ibuprofeno2",15/11/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000663,Ricardo Vargas Hernandez,ketorolaco1,21/05/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000664,Daniel Rodriguez Cruz,metformina4,22/11/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000665,FERNANDO LOPEZ RODRIGUEZ,"orlistat4,acidofolico4,metformina3",08/05/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000666,A. Martinez Ramirez,"glibenclamida2,sulfatoferroso2",15/12/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000667,MIGUEL RAMIREZ PEREZ,"acidofolico3,sulfatoferroso2,orlistat2",31/01/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000668,C. RAMIREZ CRUZ,"bupropion4,enalapril2",22/03/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000669,Daniela Martinez Hernandez,ibuprofeno1,13/10/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000670,Manuel Ramirez Ramirez,"atorvastatina2,rosuvastatina4",30/03/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000671,jose garcia lopez,"rosuvastatina3,atorvastatina4",03/11/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000672,F. Martinez Castillo,"bupropion1,vareniclina1",11/12/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000673,LAURA TORRES CRUZ,"glibenclamida-1,insulina3,bupropion1",19/03/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000674,ricardo lopez flores,"metformina2,glibenclamida2",11/07/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000675,valeria gonzalez martinez,metformina1,15/06/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000676,Lucia Flores Cruz,"rosuvastatina4,atorvastatina1",19/04/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000677,luis perez rodriguez,"ibuprofeno3,paracetamol1,omeprazol2",04/10/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000678,laura lopez ramirez,paracetamol3,13/11/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000679,LUCIA RODRIGUEZ,"amlodipino3,rosuvastatina2",06/01/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000680,MANUEL CRUZ HERNANDEZ,"metformina4,vareniclina4,rosuvastatina2",29/04/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000681,DANIEL SANCHEZ TORRES,"metformina3,insulina2",13/11/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000682,CARMEN GONZALEZ,"amlodipino4,losartan3,enalapril4",15/07/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000683,Alejandro Hernandez Hernandez,"atorvastatina4,rosuvastatina1",28/06/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000684,g. vargas perez,"amlodipino2,enalapril2,losartan1",25/12/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000685,ana vargas garcia,"orlistat2,metformina1",30/05/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000686,alejandro martinez ramirez,"insulina2,metformina2",25/06/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000687,Luis Lopez Flores,ibuprofeno3,25/10/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000688,JOSE VARGAS FLORES,atorvastatina4,27/08/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000689,PATRICIA MARTINEZ LOPEZ,"paracetamol2,omeprazol2",24/09/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000690,Laura Castillo Lopez,atorvastatina4,12/07/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000691,Patricia Castillo Flores,"omeprazol3,pregabalina4,naproxeno3",08/11/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000692,LUIS LOPEZ LOPEZ,ibuprofeno4,01/12/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000693,Maria Lopez Hernandez,"ibuprofeno1,paracetamol4,omeprazol3",13/09/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000694,valeria sanchez rodriguez,"ibuprofeno3,paracetamol2",12/11/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000695,valeria flores lopez,glibenclamida3,16/11/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000696,carlos vargas martinez,"omeprazol1,paracetamol4,ibuprofeno3",04/01/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000697,Daniela Cruz Ramirez,bupropion4,30/07/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000698,LUIS MARTINEZ VARGAS,"ibuprofeno2,amoxicilina1",12/08/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000699,Alejandro Ramirez Vargas,rosuvastatina4,02/10/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000700,DANIEL GONZALEZ GONZALEZ,"metformina3,ibuprofeno1,omeprazol1",22/10/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000701,VALERIA VARGAS VARGAS,"glibenclamida1,insulina2,metformina4",16/11/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000702,LUIS FLORES GONZALEZ,amlodipino3,18/12/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000703,jose flores cruz,"ibuprofeno3,omeprazol1",08/02/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000704,JUAN RAMIREZ LOPEZ,"paracetamol4,gabapentina2,pregabalina3",04/09/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000705,maria flores hernandez,"diclofenaco2,ibuprofeno4",01/10/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000706,RICARDO GONZALEZ GONZALEZ,vareniclina2,29/04/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000707,CARLOS GARCIA HERNANDEZ,"sulfatoferroso1,acidofolico3,atorvastatina3",16/04/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000708,JORGE GARCIA LOPEZ,paracetamol1,12/01/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000709,S. RAMIREZ GARCIA,"rosuvastatina2,atorvastatina2",24/08/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000710,FERNANDO FLORES PEREZ,orlistat1,13/10/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000711,LAURA RAMIREZ SANCHEZ,metformina4,02/10/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000712,GABRIELA VARGAS MARTINEZ,"atorvastatina1,rosuvastatina3",05/06/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000713,Ana Vargas Hernandez,"atorvastatina1,losartan2",29/05/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000714,fernanda lopez sanchez,"paracetamol3,diclofenaco4",09/08/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000715,Ana Torres Hernandez,"paracetamol2,ibuprofeno2,omeprazol3",09/04/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000716,Alejandro Torres Castillo,"paracetamol1,ibuprofeno3",25/11/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000717,GABRIELA CASTILLO LOPEZ,"acidofolico4,metformina4,insulina4",05/01/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000718,Ricardo Castillo Castillo,"rosuvastatina4,atorvastatina1",11/11/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000719,maria perez hernandez,"metformina1,insulina2",09/08/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000720,EDUARDO RAMIREZ HERNANDEZ,"paracetamol3,omeprazol2",30/05/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000721,ALEJANDRO SANCHEZ,ibuprofeno4,26/06/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000722,jorge flores,amlodipino-2,18/05/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000723,J. Rodriguez Garcia,paracetamol2,14/01/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000724,Manuel Vargas Cruz,paracetamol2,21/03/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000725,ELENA VARGAS LOPEZ,"atorvastatina3,rosuvastatina1,bupropion3",02/07/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000726,ELENA VARGAS LOPEZ,"amlodipino4,rosuvastatina2,bupropion2",16/07/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000727,sofia ramirez vargas,"omeprazol1,ibuprofeno1",25/08/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000728,ANA VARGAS HERNANDEZ,"amlodipino1,losartan3,enalapril2",10/08/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000729,lucia flores rodriguez,vareniclina3,29/07/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000730,Sofia Torres Ramirez,paracetamol3,19/12/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000731,ALEJANDRO PEREZ RAMIREZ,"amlodipino1,losartan2",05/06/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000732,fernando garcia,"omeprazol4,amlodipino1,paracetamol1",21/12/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000733,MARIA FLORES SANCHEZ,"metformina3,insulina2",01/11/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000734,LUCIA CASTILLO TORRES,"orlistat4,bupropion4,metformina3",15/09/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000735,sofia vargas lopez,vareniclina4,12/01/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000736,ANA FLORES CASTILLO,"enalapril3,metformina2,losartan1",23/11/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000737,Jorge Ramirez Perez,"paracetamol3,omeprazol2,ibuprofeno3",13/12/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000738,carlos gonzalez castillo,"metformina3,insulina4",28/05/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000739,CARLOS MARTINEZ HERNANDEZ,bupropion4,15/11/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000740,GABRIELA GARCIA,"rosuvastatina4,glibenclamida1,insulina4",14/03/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000741,lucia rodriguez hernandez,vareniclina4,11/12/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000742,gabriela rodriguez garcia,"omeprazol2,atorvastatina2,losartan2",22/02/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000743,Fernanda Garcia Martinez,"bupropion1,vareniclina1",16/07/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000744,Valeria Ramirez Sanchez,"paracetamol3,ibuprofeno3,omeprazol4",12/03/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000745,LAURA RAMIEZ CRUZ,ibuprofeno4,16/12/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000746,LAURA HERNANDEZ,enalapril2,03/03/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000747,Maria Flores Ramirez,"paracetamol4,naproxeno2",01/02/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000748,ALEJANDRO TORRES LOPEZ,"orlistat4,metformina3",27/06/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000749,ELENA TORRES CASTILLO,orlistat4,10/03/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000750,Ana Rodriguez,"ibuprofeno4,omeprazol1",27/10/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000751,JORGE CRUZ GARCIA,"atorvastatina3,amlodipino1,ibuprofeno1",10/08/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000752,Carmen Martinez Cruz,sulfatoferroso1,27/04/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000753,Fernando Vargas Martinez,"orlistat2,metformina3",08/10/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000754,Maria Lopez Cruz,ibuprofeno2,01/05/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000755,ANA CASTILLO LOPEZ,ibuprofeno2,11/03/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000756,CARMEN CRUZ MARTINEZ,"omeprazol2,ibuprofeno3,paracetamol2",28/09/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000757,carlos hernandez flores,"metformina3,vareniclina-1,orlistat3",30/12/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000758,laura sanchez castillo,"acidofolico1,sulfatoferroso1",20/04/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000759,JORGE SANCHEZ CRUZ,omeprazol1,13/02/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000760,luis gonzalez rodriguez,diclofenaco4,21/09/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000761,LUCIA VARGAS FLORES,"paracetamol99,ibuprofeno2,omeprazol1",17/05/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000762,GABRIELA CRUZ RAMIREZ,paracetamol3,27/02/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000763,GABRIELA HERNANDEZ TORRES,"vareniclina1,atorvastatina4",31/05/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000764,ana sanchez hernandez,rosuvastatina4,03/08/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000765,SOFIA RAMIREZ TORRES,"acidofolico1,sulfatoferroso3",13/11/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000766,MANUEL GONZALEZ TORRES,"rosuvastatina2,losartan2,atorvastatina3",16/03/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000767,FERNANDA GONZALEZ,insulina4,18/02/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000768,Carlos Lopez Flores,"ibuprofeno3,paracetamol2,omeprazol2",05/08/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000769,Patricia Garcia Vargas,"rosuvastatina4,atorvastatina4",28/10/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000770,Manuel Ramirez Martinez,"losartan1,vareniclina3,acidofolico1",23/04/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000771,juan rodriguez,"ibuprofeno3,ketorolaco1,omeprazol4",21/04/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000772,MANUEL TORRES RAMIREZ,"orlistat2,rosuvastatina4,metformina3",06/05/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000773,f. gonzalez lopez,"insulina1,enalapril1,losartan1",10/10/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000774,VALERIA PEREZ GARCIA,"paracetamol3,loratadina3",31/08/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000775,fernanda tores martinez,"paracetamol2,ibuprofeno1,omeprazol2",30/07/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000776,FERNANDA GONZALEZ RODRIGUEZ,"losartan2,omeprazol1,paracetamol0",27/07/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000777,SOFIA SANCHEZ SANCHEZ,omeprazol2,16/06/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000778,LUCIA PEREZ RODRIGUEZ,"gabapentina1,pregabalina2",07/04/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000779,GABRIELA GONZALEZ SANCHEZ,vareniclina4,10/04/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000780,miguel ramirez castillo,naproxeno4,02/03/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000781,miguel sanchez sanchez,paracetamol4,05/06/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000782,JOSE MARTINEZ VARGAS,rosuvastatina4,22/04/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000783,LUCIA RODRIGUEZ PEREZ,"insulina3,metformina1,enalapril1",03/06/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000784,RICARDO TORRES LOPEZ,enalapril4,12/04/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000785,jose martinez lopez,vareniclina2,20/11/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000786,alejandro rodriguez torres,omeprazol1,01/04/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000787,jorge castillo rodriguez,paracetamol2,31/10/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000788,MARIA GONZALEZ HERNANDEZ,sulfatoferroso3,22/09/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000789,manuel martinez gonzalez,"insulina3,bupropion4",07/06/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000790,PATRICIA PEREZ SANCHEZ,"paracetamol3,ibuprofeno4,amlodipino4",25/10/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000791,JORGE RAMIREZ HERNANDEZ,metformina1,02/07/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000792,jorge rodriguez torres,"paracetamol3,ibuprofeno1,omeprazol2",15/02/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000793,Eduardo Martinez Torres,"metformina2,glibenclamida4,insulina3",05/11/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000794,EDUARDO RODRIGUEZ PEREZ,ibuprofeno3,03/03/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000795,jose ramirez martinez,"paracetamol2,omeprazol1,ibuprofeno3",20/06/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000796,Eduardo Castillo Garcia,"amlodipino1,losartan2,atorvastatina3",18/07/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000797,MARIA CASTILLO VARGAS,"metformina2,insulina1",11/05/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000798,LUCIA CASTILLO RODRIGUEZ,"orlistat4,metformina4,vareniclina1",02/03/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000799,fernanda martinez garcia,"paracetamol3,diclofenaco2,ibuprofeno1",23/12/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000800,Gabriela Ramirez Perez,"vareniclina2,bupropion2",27/10/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000801,MARIA TORRES VARGAS,vareniclina2,23/12/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000802,alejandro castillo castillo,"gabapentina1,paracetamol3",02/07/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000803,daniel perez,"amlodipino4,paracetamol4,omeprazol3",03/02/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000804,Lucia Rodriguez Lopez,"atorvastatina4,amlodipino3",28/12/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000805,s. ramirez rodriguez,"ketorolaco1,ibuprofeno4,omeprazol3",10/05/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000806,Laura Cruz Ramirez,"metformina4,insulina1",09/08/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000807,alejandro gonzalez perez,"paracetamol120,loratadina2,omeprazol4",26/03/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000808,Alejandro Torres Sanchez,"orlistat2,metformina2",20/12/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000809,LUCIA TORRES LOPEZ,"metformina1,insulina2",01/06/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000810,Valeria Flores Garcia,omeprazol2,03/05/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000811,ELENA CRUZ GARCIA,"insulina3,metformina3",09/01/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000812,RICARDO GONZALEZ,"vareniclina3,bupropion4",03/11/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000813,FERNANDA MARTINEZ GONZALEZ,"omeprazol3,ketorolaco4,ibuprofeno2",17/01/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000814,laura vrgas lopez,vareniclina4,26/08/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000815,LAURA MARTINEZ HERNANDEZ,bupropion1,13/04/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000816,alejandro gonzalez cruz,"ibuprofeno2,paracetamol1,omeprazol3",01/04/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000817,Daniela Perez Flores,"ibuprofeno1,ketorolaco4",05/05/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000818,ana sanchez sanchez,"paracetamol3,ketorolaco1",06/07/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000819,LUIS GONZALEZ RAMIREZ,"bupropion4,vareniclina4",12/10/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000820,Alejandro Perez Ramirez,atorvastatina3,04/01/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000821,VALERIA SANCHEZ VARGAS,metformina2,12/09/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000822,Ricardo Ramirez Gonzalez,omeprazol2,10/06/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000823,MIGUEL CRUZ VARGAS,"gabapentina2,paracetamol3",14/07/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000824,carmen martinez martinez,"ibuprofeno3,atorvastatina2,paracetamol3",06/09/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000825,jorge lopez hernandez,"paracetamol3,omeprazol3",04/09/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000826,lucia gonzalez vargas,"insulina2,metformina3",28/07/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000827,L. GONZALEZ GONZALEZ,glibenclamida2,08/12/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000828,Juan Garcia Vargas,"paracetamol4,omeprazol3",09/03/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000829,Luis Cruz Flores,"bupropion1,vareniclina1",12/10/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000830,Manuel Castillo Perez,insulina3,18/01/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000831,FERNANDO LOPEZ PEREZ,rosuvastatina3,07/10/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000832,Carmen Martinez Cruz,"sulfatoferroso4,acidofolico2",02/11/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000833,p. castillo martinez,"omeprazol4,paracetamol2",24/03/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000834,Gabriela Martinez Vargas,"orlistat4,metformina1",26/05/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000835,Luis Gonzalez Garcia,"atorvastatina4,bupropion4,rosuvastatina4",21/11/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000836,RICARDO RAMIREZ,"insulina4,glibenclamida3",21/08/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000837,miguel flores rodriguez,"atorvastatina2,insulina1,orlistat2",22/06/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000838,SOFIA SANCHEZ,"atorvastatina4,rosuvastatina3",15/09/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000839,eduardo gonzlez gonzalez,"paracetamol3,ibuprofeno1,omeprazol1",30/09/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000840,jorge perez hernandez,metformina3,02/04/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000841,juan cruz,"omeprazol4,paracetamol1,ibuprofeno2",15/09/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000842,fernanda gonzalez rodriguez,"ibuprofeno3,paracetamol2",19/01/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000843,Alejandro Sanchez Torres,"paracetamol4,ibuprofeno2,omeprazol1",10/03/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000844,Ana Castillo Martinez,pregabalina1,05/06/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000845,alejandro lopez gonzalez,glibenclamida4,05/11/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000846,ana sanchez flores,"vareniclina2,metformina3",05/04/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000847,Jorge Garcia Rodriguez,"losartan4,enalapril1,amlodipino3",11/11/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000848,Sofia Hernandez Vargas,"omeprazol2,paracetamol1",20/09/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000849,fernanda hernandez sanchez,"enalapril4,glibenclamida3,bupropion1",21/12/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000850,Fernando Castillo Rodriguez,losartan3,11/08/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000851,elena hernandez cruz,"ibuprofeno4,paracetamol2,omeprazol2",25/11/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000852,Alejandro Garcia Flores,atorvastatina1,31/01/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000853,gabriela torres sanchez,metformina1,29/11/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000854,Juan Rodriguez Sanchez,"vareniclina4,bupropion2",18/09/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000855,F. FLORES CRUZ,"pregabalina1,omeprazol1,ibuprofeno4",03/04/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000856,j. garcia cruz,"rosuvastatina2,atorvastatina-2",30/03/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000857,carmen hernandez hernandez,"bupropion2,rosuvastatina3",02/01/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000858,LUIS FLORES VARGAS,"insulina2,orlistat3,metformina3",13/06/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000859,CARMEN RODRIGUEZ GONZALEZ,vareniclina1,24/06/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000860,Valeria Torres Lopez,"orlistat4,metformina2",30/03/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000861,A. CASTILLO GARCIA,insulina3,02/06/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000862,Juan Flores Garcia,"sulfatoferroso2,acidofolico1,vareniclina4",01/01/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000863,juan gonzalez torres,"atorvastatina4,sulfatoferroso2",02/04/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000864,CARMEN LOPEZ GONZALEZ,paracetamol3,14/02/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000865,LUIS CRUZ FLORES,bupropion4,28/05/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000866,MIGUEL PEREZ SANCHEZ,"atorvastatina4,ibuprofeno1",22/11/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000867,Manuel Rodriguez Garcia,insulina4,07/12/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000868,MANUEL VARGAS CASTILLO,sulfatoferroso3,17/10/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000869,JUAN HERNANDEZ GONZALEZ,"vareniclina4,orlistat2",20/06/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000870,EDUARDO FLORES MARTINEZ,"orlistat1,amlodipino2,enalapril4",28/01/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000871,EDUARDO TORRES PEREZ,"insulina3,metformina4",21/03/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000872,Laura Lopez Ramirez,"paracetamol1,amlodipino3",30/06/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000873,Fernando Flores Flores,"metformina4,sulfatoferroso1,acidofolico1",25/05/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000874,juan sanchez hernandez,"vareniclina4,bupropion2",27/05/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000875,C. CASTILLO RODRIGUEZ,paracetamol3,20/12/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000876,Jose Gonzalez Flores,omeprazol3,08/11/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000877,sofia cruz sanchez,"orlistat3,vareniclina1,rosuvastatina4",07/07/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000878,RICARDO FLORES VARGAS,"omeprazol2,paracetamol3,loratadina3",18/07/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000879,Carlos Castillo Gonzalez,"metformina4,orlistat3,atorvastatina2",29/10/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000880,MARIA TORRES LOPEZ,"bupropion1,vareniclina1,rosuvastatina1",07/06/2024,Dra. Ana Martinez,Clinica Norte Mexico
+FARM_MEX_2024_000881,s. sanchez martinez,"levotiroxina2,paracetamol4,insulina2",22/08/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000882,J. TORRES GONZALEZ,atorvastatina1,06/07/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000883,luis rodriguez ramirez,omeprazol3,22/08/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000884,GABRIELA HERNANDEZ GONZALEZ,"orlistat3,metformina1",07/02/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000885,alejandro rodriguez vargas,"vareniclina2,bupropion1",23/10/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000886,ANA LOPEZ PEREZ,"paracetamol1,ibuprofeno3",06/03/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000887,DANIELA LOPEZ CASTILLO,ibuprofeno2,02/01/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000888,VALERIA LOPEZ MARTINEZ,"orlistat1,metformina2",23/08/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000889,Patricia Ramirez Martinez,vareniclina4,29/10/2024,Dr. Miguel Lopez,Hospital Central Mexico
+FARM_MEX_2024_000890,laura hernandez ramirez,"bupropion3,vareniclina2",19/07/2024,Dr. Carlos Hernandez,Hospital Central Mexico
+FARM_MEX_2024_000891,EDUARDO CASTILLO SANCHEZ,"paracetamol3,omeprazol3,ibuprofeno1",17/09/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000892,Jorge Garcia Cruz,"rosuvastatina2,atorvastatina3",16/01/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000893,lucia ramirez cruz,"rosuvastatina1,amlodipino3",17/01/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000894,CARMEN CRUZ TORRES,"ibuprofeno3,metformina1",03/01/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000895,Miguel Ramirez Hernandez,"metformina3,orlistat4",23/06/2024,Dr. Miguel Lopez,Clinica Norte Mexico
+FARM_MEX_2024_000896,eduardo perez garcia,"rosuvastatina2,atorvastatina1",15/02/2024,Dr. Carlos Hernandez,Clinica Norte Mexico
+FARM_MEX_2024_000897,fernanda torres sanchez,"acidofolico1,sulfatoferroso4",06/11/2024,Dr. Miguel Lopez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000898,gabriela vargs lopez,"losartan1,orlistat4",14/06/2024,Dra. Laura Garcia,Clinica Norte Mexico
+FARM_MEX_2024_000899,Sofia Lopez,"bupropion1,vareniclina2",01/10/2024,Dra. Laura Garcia,Hospital Central Mexico
+FARM_MEX_2024_000900,R. Flores Rodriguez,"ketorolaco3,paracetamol1,ibuprofeno1",24/08/2024,Dra. Sofia Ramirez,Clinica Norte Mexico
+FARM_MEX_2024_000901,RICARDO LOPEZ CASTILLO,"enalapril1,losartan1,amlodipino2",07/09/2024,Dr. Carlos Hernandez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000902,j. sanchez cruz,omeprazol4,23/03/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000903,CARMEN TORRES TORRES,"metformina1,insulina2,glibenclamida2",03/05/2024,Dra. Sofia Ramirez,Hospital Central Mexico
+FARM_MEX_2024_000904,sofia torres torres,"ibuprofeno2,atorvastatina2,amlodipino1",09/12/2024,Dra. Sofia Ramirez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000905,laura garcia vargas,"rosuvastatina3,atorvastatina1,losartan2",10/05/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000906,f. martinez gonzalez,atorvastatina4,21/01/2024,Dra. Laura Garcia,Unidad Medica Sur Mexico
+FARM_MEX_2024_000907,manuel sanchez flores,losartan2,30/08/2024,Dra. Ana Martinez,Hospital Central Mexico
+FARM_MEX_2024_000908,patricia garcia torres,ibuprofeno3,13/07/2024,Dra. Ana Martinez,Unidad Medica Sur Mexico
+FARM_MEX_2024_000909,VALERIA RAMIREZ SANCHEZ,"omeprazol3,levotiroxina1,ibuprofeno1",03/03/2024,Dra. Sofia Ramirez,Hospital Central Mexico

@@ -1,0 +1,909 @@
+id_farmacia,nombre_completo,medicamentos_unidades,fecha_prescripcion,medico_cargo,sucursal
+FARM_USA_2025_000001,mary anderson,"orlistat4,metformina4",12/16/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000002,SUSAN DAVIS,amlodipino4,01/01/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000003,laura jones williams,amlodipino1,09/26/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000004,susan garcia johnson,ibuprofeno1,07/06/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000005,NANCY BROWN TAYLOR,loratadina4,02/11/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000006,Mary Miller,"atorvastatina4,rosuvastatina3",02/19/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000007,Anthony Smith Anderson,"omeprazol1,ibuprofeno1,paracetamol4",02/21/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000008,laura miller miller,"bupropion3,vareniclina2",03/29/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000009,jessica miller johnson,"omeprazol2,ibuprofeno2,pregabalina-2",05/22/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000010,LAURA MARTINEZ GARCIA,"ibuprofeno3,atorvastatina3",09/08/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000011,william moore martinez,"paracetamol3,ibuprofeno1",06/19/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000012,Charles Miller Taylor,rosuvastatina4,04/13/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000013,THOMAS JONES ANDERSON,"amlodipino2,losartan1",06/15/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000014,Emily Moore Williams,"omeprazol2,ibuprofeno3,paracetamol2",04/26/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000015,JAMES MARTINEZ MILLER,metformina3,05/18/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000016,sarah miller garcia,orlistat4,11/23/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000017,k. taylor miller,"levotiroxina4,omeprazol2,insulina2",06/22/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000018,GEORGE ANDERSON JOHNSON,"atorvastatina1,rosuvastatina4",07/09/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000019,NANCY WILLIAMS MARTINEZ,bupropion4,10/14/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000020,linda wilson,"vareniclina4,bupropion1",06/28/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000021,DAVID BRON MARTINEZ,"glibenclamida4,insulina1,metformina1",06/19/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000022,JOHN MILLER BROWN,"amlodipino3,enalapril2,insulina4",05/14/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000023,james jones taylor,"omeprazol4,paracetamol2,ibuprofeno4",11/30/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000024,L. Johnson Moore,"losartan-1,amlodipino2,enalapril2",05/23/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000025,jennifer miller taylor,metformina4,08/17/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000026,DAVID WILLIAMS BROWN,orlistat1,09/11/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000027,william taylor wilson,"metformina1,orlistat3",10/31/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000028,patricia davis davis,"omeprazol3,ketorolaco2,ibuprofeno4",07/02/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000029,David Miller Brown,"losartan4,amlodipino4",12/26/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000030,LINDA GARCIA MOORE,"atorvastatina2,rosuvastatina3",09/17/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000031,JOSEPH GARCIA WILSON,atorvastatina4,07/14/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000032,anthony smith anderson,losartan3,05/27/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000033,Charles Miller Anderson,ibuprofeno4,02/19/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000034,DANIEL GACIA GARCIA,"bupropion1,vareniclina1",10/06/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000035,Nancy Anderson Taylor,"atorvastatina4,metformina4,insulina3",01/20/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000036,jennifer moore smith,"orlistat2,glibenclamida-2",08/24/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000037,CHARLES GARCIA ANDERSON,vareniclina4,01/02/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000038,Thomas Smith Taylor,metformina4,03/30/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000039,ANTHONY TAYLOR RODRIGUEZ,amlodipino4,05/18/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000040,john miller garcia,"ibuprofeno4,loratadina4,omeprazol4",07/10/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000041,DANIEL TAYLOR MILLER,paracetamol1,02/10/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000042,karen garcia moore,"paracetamol1,ketorolaco4,ibuprofeno1",08/31/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000043,Sarah Williams Rodriguez,omeprazol2,02/05/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000044,Robert Jones Martinez,vareniclina3,10/05/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000045,L. Smith Brown,"amlodipino1,glibenclamida4,insulina3",06/28/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000046,karen johnson anderson,"ketorolaco3,ibuprofeno1,omeprazol2",10/22/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000047,JOHN DAVIS MARTINEZ,"paracetamol4,ibuprofeno3,omeprazol3",12/08/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000048,karen davis moore,"vareniclina2,bupropion2",07/09/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000049,GEORGE WILLIAS BROWN,omeprazol4,12/22/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000050,william jones wilson,"paracetamol1,omeprazol0,ibuprofeno3",01/28/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000051,jennifer miler johnson,"vareniclina4,bupropion1",10/18/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000052,james anderson wilson,vareniclina4,07/02/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000053,LINDA BROWN JONES,ketorolaco2,02/02/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000054,Daniel Davis Miller,"vareniclina1,bupropion2",09/09/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000055,Jennifer Smith Smith,"bupropion-1,acidofolico2",12/02/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000056,daniel jones wilson,"orlistat3,metformina2",01/14/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000057,THOMAS RODRIGUEZ SMITH,"bupropion2,vareniclina4",03/04/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000058,PATRICIA SMITH WILSON,"bupropion1,metformina2",11/19/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000059,karen moore johnson,"rosuvastatina1,vareniclina3",02/19/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000060,Laura Miller Jones,"bupropion2,vareniclina2",08/30/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000061,Karen Miller,"orlistat1,metformina4",03/30/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000062,JAMES MARTINEZ MOORE,"ibuprofeno1,insulina2,metformina1",07/01/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000063,anthony davis anderson,"omeprazol1,paracetamol2",07/04/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000064,JAMES BROWN MARTINEZ,"omeprazol1,amoxicilina4",04/20/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000065,SARAH BROWN MILLER,bupropion4,04/13/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000066,J. SMITH JONES,vareniclina3,07/02/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000067,william wilson anderson,"ibuprofeno4,omeprazol1",03/05/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000068,JOHN MILLER MARTINEZ,"losartan1,amlodipino4",08/23/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000069,david brown,ibuprofeno1,12/09/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000070,george miller martinez,"atorvastatina1,rosuvastatina1",07/01/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000071,j. brown jones,paracetamol4,05/30/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000072,MICHAEL JOHNSON DAVIS,"omeprazol3,paracetamol3",06/21/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000073,JOSEPH ANDERSON ANDERSON,"vareniclina4,rosuvastatina4",12/13/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000074,KAREN WILLIAMS MOORE,"insulina4,amlodipino4,glibenclamida3",03/02/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000075,EMILY WILLIAMS SMITH,"orlistat2,losartan2",12/03/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000076,MICHAEL WILSON WILLIAMS,losartan3,07/23/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000077,ANTHONY SMITH BROWN,"metformina3,orlistat2",08/03/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000078,linda davis moore,paracetamol3,10/06/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000079,EMILY DAVIS DAVIS,"amlodipino3,atorvastatina2",10/27/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000080,james davis rodriguez,vareniclina2,05/09/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000081,jessica davis,"paracetamol4,ibuprofeno4",06/16/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000082,Jennifer Willims Garcia,"bupropion3,losartan3",06/26/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000083,PATRICIA SMITH WILLIAMS,"vareniclina3,enalapril2",11/08/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000084,joseph jones miller,"acidofolico4,sulfatoferroso2",05/23/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000085,NANCY WILLIAMS,"atorvastatina2,rosuvastatina1",07/23/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000086,KAREN WILSON GARCIA,metformina4,10/03/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000087,DANIEL JOHNSON MOORE,"atorvastatina120,rosuvastatina1",01/19/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000088,SARAH BRON TAYLOR,"paracetamol4,loratadina1,omeprazol2",12/18/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000089,James Wilson Martinez,metformina1,03/14/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000090,Jessica Taylor Miller,bupropion3,11/13/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000091,anthony johnson rodriguez,"rosuvastatina1,atorvastatina3",08/31/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000092,nancy moore jones,rosuvastatina3,01/20/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000093,sarah davis miller,sulfatoferroso3,02/13/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000094,Nancy Rodriguez,loratadina1,07/11/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000095,Sarah Miller Jones,"ibuprofeno2,paracetamol3",10/29/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000096,NANCY RODRIGUEZ TAYLOR,ibuprofeno3,01/25/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000097,sarah smith jones,"omeprazol4,levotiroxina2,metformina1",09/14/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000098,mary miller davis,omeprazol4,08/26/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000099,Jessica Martinez Johnson,"bupropion3,atorvastatina1,orlistat4",06/06/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000100,DAVID WILLIAMS SMITH,"paracetamol4,amlodipino3",10/01/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000101,DANIEL WILLIAMS GARCIA,amlodipino2,05/10/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000102,david miller smith,"insulina4,glibenclamida4",09/13/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000103,James Rodriguez Johnson,"omeprazol3,paracetamol4,ibuprofeno2",10/15/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000104,Karen Mooe Garcia,"glibenclamida2,vareniclina4",11/24/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000105,David Smith,"enalapril4,losartan3",04/15/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000106,DAVID BROWN DAVIS,insulina3,07/21/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000107,Anthony Martinez Jones,"vareniclina4,rosuvastatina4,metformina4",10/10/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000108,EMILY WILSON JOHNSON,"vareniclina-1,bupropion3",03/18/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000109,susan rodriguez rodriguez,"sulfatoferroso1,amlodipino2",02/24/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000110,jessica williams smith,losartan4,06/30/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000111,CHARLES BROWN GARCIA,"atorvastatina1,rosuvastatina2",07/19/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000112,karen jones miller,"amlodipino1,losartan2,enalapril4",08/30/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000113,Thomas Jones Anderson,"orlistat2,metformina2",02/10/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000114,george andersn johnson,atorvastatina4,12/07/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000115,sarah davis williams,"losartan3,amlodipino4,enalapril1",09/23/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000116,C. RODRIGUEZ MARTINEZ,bupropion4,03/30/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000117,JAMES JONES TAYLOR,paracetamol4,02/14/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000118,susan garcia williams,sulfatoferroso3,11/26/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000119,PATRICIA JOHNSON GARCIA,"paracetamol4,loratadina1,ibuprofeno4",10/21/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000120,JESSICA WILSON MOORE,bupropion3,06/19/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000121,s. wilson davis,"ibuprofeno2,omeprazol3,paracetamol-1",11/25/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000122,charles miller taylor,rosuvastatina2,08/06/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000123,J. Anderson Johnson,"orlistat3,metformina1",01/29/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000124,JOSEPH TAYLOR MOORE,"atorvastatina3,rosuvastatina3",03/23/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000125,mary johnson davis,"metformina3,orlistat1",11/22/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000126,susan taylor miller,"vareniclina4,amlodipino4,bupropion4",10/11/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000127,j. rodriguez moore,"omeprazol3,amoxicilina4",04/04/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000128,DANIEL MARTINEZ MILLER,orlistat2,12/08/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000129,charles johnson anderson,"ibuprofeno1,paracetamol1,omeprazol4",02/26/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000130,Joseph Anderson Davis,"atorvastatina4,rosuvastatina3",05/31/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000131,KAREN MOORE JOHNSON,"insulina1,glibenclamida3,metformina2",09/01/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000132,james wilson anderson,omeprazol4,06/16/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000133,linda garcia williams,"losartan3,enalapril2,amlodipino4",10/22/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000134,NANCY DAVIS,amlodipino2,06/11/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000135,thomas taylor miller,"enalapril3,atorvastatina3,losartan1",03/11/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000136,CHARLES RODRIGUEZ JONES,vareniclina4,05/13/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000137,James Anderson Taylor,paracetamol1,12/28/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000138,THOMAS RODRIGUEZ BROWN,orlistat2,09/20/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000139,j. miller wilson,losartan1,03/10/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000140,nancy williams smith,"bupropion4,vareniclina2",05/03/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000141,David Miller Johnson,"bupropion1,vareniclina3,enalapril4",06/24/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000142,elizabeth brown davis,"atorvastatina4,paracetamol4,amlodipino1",06/22/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000143,Laura Williams,"ibuprofeno3,omeprazol4",06/06/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000144,Patricia Davis Smith,omeprazol4,10/08/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000145,daniel anderson taylor,"losartan1,paracetamol4",02/27/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000146,michael williams davis,"losartan3,atorvastatina4",05/18/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000147,C. Moore Rodriguez,rosuvastatina3,10/17/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000148,m. taylor taylor,"paracetamol1,ibuprofeno3",12/08/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000149,E. SMITH DAVIS,"metformina2,amlodipino2,enalapril4",02/13/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000150,anthony rodriguez davis,"omeprazol3,ibuprofeno3,ketorolaco3",06/27/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000151,S. Miller Moore,"atorvastatina4,sulfatoferroso1,acidofolico4",05/23/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000152,sarah moore williams,losartan2,10/29/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000153,charles moore brown,"vareniclina3,bupropion1",04/18/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000154,Anthony Johnson Brown,"insulina4,metformina3",02/23/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000155,charles moore johnson,"metformina1,insulina99",12/30/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000156,Linda Garcia Moore,"rosuvastatina2,atorvastatina4",06/10/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000157,susan davis wilson,"paracetamol4,diclofenaco4",01/18/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000158,EMILY SMITH DAVIS,metformina3,01/06/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000159,Elizabeth Martinez Anderson,bupropion2,05/26/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000160,m. brown anderson,vareniclina3,09/02/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000161,Charles Davis Martinez,ibuprofeno2,08/31/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000162,James Davis Miller,paracetamol2,11/02/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000163,DAVID MILLER ANDERSON,"atorvastatina2,ibuprofeno2,amlodipino2",03/10/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000164,thomas rodriguez davis,"omeprazol2,ibuprofeno4,paracetamol4",12/26/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000165,Karen Johnson Anderson,rosuvastatina3,05/02/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000166,robert davis,"losartan3,amlodipino4",11/28/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000167,PATRICIA DAVIS DAVIS,paracetamol4,03/11/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000168,linda garcia williams,"enalapril2,losartan-1",11/27/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000169,THOMAS RODRIGUEZ SMITH,"vareniclina2,metformina2,bupropion4",11/05/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000170,E. Miller Jones,"orlistat2,metformina2",07/16/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000171,n. davis moore,"enalapril2,losartan3,amlodipino2",08/27/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000172,Elizabeth Garcia,metformina4,01/10/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000173,THOMAS RODRIGUEZ WILLIAMS,bupropion1,10/01/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000174,Linda Garcia Williams,"insulina2,rosuvastatina2",07/02/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000175,Nancy Rodriguez Davis,glibenclamida3,08/13/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000176,daniel smith williams,acidofolico2,02/08/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000177,Charles Brown Rodriguez,vareniclina3,12/18/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000178,GEORGE WILSON,"losartan3,amlodipino4,enalapril3",11/15/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000179,Mary Martinez Williams,"orlistat3,acidofolico2",09/01/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000180,DAVID MILLER ANDERSON,"paracetamol4,ibuprofeno4",08/20/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000181,NANCY MILLER SMITH,vareniclina3,09/11/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000182,John Garcia Wilson,"ibuprofeno2,naproxeno3,paracetamol4",03/08/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000183,Thomas Garcia Williams,bupropion3,03/30/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000184,John Anderson,vareniclina1,06/12/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000185,emily rodriguez brown,rosuvastatina1,12/15/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000186,sarah smith wilson,"losartan1,omeprazol1",03/06/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000187,ROBERT SMITH WILSON,"omeprazol4,paracetamol3,ibuprofeno4",03/11/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000188,LAURA WILLIAMS MILLER,"bupropion3,vareniclina4",12/13/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000189,mary taylor,"insulina1,metformina-1,glibenclamida4",06/20/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000190,Susan Johnson,"bupropion3,enalapril4",03/03/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000191,A. Martinez Martinez,"vareniclina2,bupropion2",11/22/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000192,D. SMITH WILLIAMS,"insulina4,metformina1,glibenclamida2",08/07/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000193,Jennifer Taylor Jones,"metformina4,ibuprofeno2",05/13/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000194,WILLIAM MARTINEZ WILLIAMS,"rosuvastatina3,acidofolico4",12/10/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000195,SARAH MILLER RODRIGUEZ,ibuprofeno1,06/19/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000196,Mary Moore Moore,"vareniclina2,bupropion4",10/29/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000197,sarah brown garcia,metformina1,08/14/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000198,LINDA SMITH DAVIS,"metformina1,glibenclamida2",02/14/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000199,c. garcia rodriguez,"ibuprofeno2,amoxicilina2",07/21/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000200,A. Jones Wilson,"atorvastatina4,rosuvastatina4",03/27/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000201,NANCY GARCIA,"ketorolaco1,paracetamol1",11/01/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000202,sarah smith jones,atorvastatina4,08/17/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000203,susan martinez anderson,"metformina2,orlistat1",11/03/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000204,ANTHONY JONES JOHNSON,"losartan3,enalapril2",05/15/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000205,Sarah Wilson Anderson,"paracetamol3,ibuprofeno2",01/08/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000206,m. wilson davis,"losartan2,amlodipino2,enalapril3",02/15/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000207,EMILY JOHNSON ANDERSON,"amoxicilina3,paracetamol1",05/01/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000208,WILLIAM DAVIS ANDERSON,"bupropion1,vareniclina4",01/30/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000209,robert taylor taylor,paracetamol1,09/07/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000210,PATRICIA MOORE,metformina2,10/10/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000211,michael anderson moore,"paracetamol4,naproxeno2",07/22/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000212,elizabeth smith taylor,rosuvastatina2,08/14/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000213,GEORGE JOHNSON RODRIGUEZ,"omeprazol2,paracetamol1",11/15/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000214,Sarah Jones Taylor,paracetamol2,01/17/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000215,Nancy Williams Anderson,losartan2,09/18/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000216,joseph brown moore,"vareniclina4,bupropion2",10/31/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000217,David Smith Williams,"glibenclamida4,insulina1",11/30/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000218,NANCY JOHNSON JOHNSON,ibuprofeno3,09/10/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000219,patricia martinez taylor,"ibuprofeno2,omeprazol4",11/13/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000220,l. williams anderson,ibuprofeno3,08/31/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000221,Robert Miller Williams,atorvastatina-1,02/28/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000222,David Taylor Smith,"atorvastatina2,sulfatoferroso2,rosuvastatina2",08/20/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000223,ANTHONY WILLIAMS ANDERSON,"vareniclina3,bupropion4,sulfatoferroso1",09/08/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000224,joseph moore brown,"acidofolico2,sulfatoferroso4",10/19/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000225,KAREN DAVIS JOHNSON,paracetamol3,10/17/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000226,thomas smith moore,"glibenclamida2,metformina2,insulina4",09/29/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000227,sarah davis rodriguez,"paracetamol0,atorvastatina3,omeprazol3",11/01/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000228,nancy moore garcia,"atorvastatina3,rosuvastatina3",11/08/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000229,J. Martinez Martinez,paracetamol3,01/31/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000230,william wilson miller,"paracetamol2,omeprazol2,ibuprofeno1",09/16/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000231,Charles Moore Rodriguez,"rosuvastatina2,insulina4",06/25/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000232,JOSEPH JONES GARCIA,"vareniclina1,bupropion1",07/01/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000233,robert dvis martinez,losartan1,12/09/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000234,william martinez brown,"losartan1,amlodipino4",12/23/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000235,ANTHONY WILLIAMS MOORE,"bupropion4,vareniclina1",06/11/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000236,ROBERT WILLIAMS SMITH,omeprazol4,06/10/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000237,mary martinez smith,"atorvastatina2,vareniclina4,rosuvastatina2",01/07/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000238,LINDA BROWN BROWN,"pregabalina4,ibuprofeno3",03/08/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000239,Sarah Martinez Davis,"omeprazol2,paracetamol3",04/26/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000240,LINDA MARTINEZ DAVIS,"atorvastatina1,losartan1",02/23/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000241,DAVID JONES DAVIS,"rosuvastatina1,atorvastatina3",01/06/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000242,SARAH MILLER,insulina1,10/13/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000243,CHARLES MOORE BROWN,"metformina1,glibenclamida3",07/24/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000244,Thomas Smith Anderson,vareniclina4,09/01/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000245,K. TAYLOR DAVIS,"omeprazol4,diclofenaco1",03/16/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000246,Sarah Williams,omeprazol1,06/05/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000247,elizabeth jones martinez,"glibenclamida1,metformina3",02/06/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000248,SARAH GARCIA JOHNSON,acidofolico4,01/20/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000249,John Wiliams Miller,ibuprofeno3,04/10/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000250,thomas johnson miller,metformina1,04/02/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000251,Laura Moore Brown,metformina1,12/14/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000252,charles davis moore,"amlodipino2,losartan1,enalapril2",10/28/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000253,SUSAN JOHNSON WILLIAMS,"orlistat1,atorvastatina3",02/26/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000254,A. SMITH ANDERSON,"losartan3,amlodipino3",04/09/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000255,JENNIFER WILSON BROWN,"enalapril4,losartan1,sulfatoferroso1",06/23/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000256,Karen Johnson Jones,"acidofolico1,bupropion4,metformina1",01/24/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000257,susan johnson brown,"atorvastatina4,omeprazol2,ibuprofeno2",10/22/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000258,SUSAN WILSON MARTINEZ,paracetamol3,08/26/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000259,Joseph Anderson Anderson,atorvastatina1,03/26/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000260,robert garcia anderson,enalapril4,12/09/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000261,susan anderson anderson,"metformina1,orlistat2",11/07/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000262,Anthony Miller Wilson,"atorvastatina1,bupropion3,enalapril2",11/04/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000263,karen garcia garcia,atorvastatina1,07/31/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000264,m. johnson johnson,"omeprazol3,paracetamol2,insulina4",11/22/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000265,emily davis williams,"metformina3,insulina2",10/01/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000266,Nancy Williams Smith,rosuvastatina1,08/01/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000267,JESSICA MARTINEZ TAYLOR,"vareniclina3,bupropion1",12/23/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000268,elizabeth anderson moore,"ibuprofeno2,paracetamol4,omeprazol1",11/07/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000269,anthony johnson johnson,metformina3,11/27/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000270,william davis anderson,atorvastatina1,08/30/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000271,william moore jones,bupropion3,09/16/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000272,George Garcia Smith,"metformina2,orlistat2,atorvastatina2",12/01/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000273,Susan Wilson Johnson,"acidofolico2,sulfatoferroso4",09/26/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000274,SARAH TAYLOR DAVIS,"sulfatoferroso3,acidofolico3",09/10/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000275,Elizabeth Rodriguez Rodriguez,"rosuvastatina3,sulfatoferroso3,atorvastatina1",09/25/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000276,Karen Brown Davis,"amlodipino1,sulfatoferroso4,losartan2",08/02/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000277,james martinez martinez,"ibuprofeno1,paracetamol1",10/07/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000278,ELIZABETH ANDERSON WILSON,"omeprazol4,diclofenaco2",06/09/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000279,G. Moore Williams,"vareniclina3,bupropion2",09/09/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000280,jessica brown williams,orlistat2,11/12/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000281,Karen Wilson Davis,"orlistat1,metformina3",07/14/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000282,mary johnson,orlistat1,06/28/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000283,KAREN ANDERSON BROWN,"omeprazol1,ibuprofeno1,paracetamol3",01/17/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000284,EMILY DAVIS WILLIAMS,insulina3,05/26/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000285,Elizabeth Rodriguez,"atorvastatina4,metformina2",10/24/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000286,ELIZABETH RODRIGUEZ TAYLOR,"atorvastatina3,insulina4,rosuvastatina3",11/09/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000287,david davis brown,diclofenaco2,01/01/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000288,john taylor miller,"amlodipino3,vareniclina1",11/29/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000289,John Martinez Johnson,"ibuprofeno4,pregabalina4",02/18/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000290,Thomas Johnson,"atorvastatina4,rosuvastatina3",02/14/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000291,Thomas Wilson Garcia,orlistat99,09/14/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000292,Linda Anderson Garcia,"enalapril4,losartan3",10/24/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000293,james brown taylor,insulina99,08/19/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000294,EMILY ANDERSON DAVIS,atorvastatina4,07/01/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000295,GEORGE WILSON JOHNSON,"bupropion2,vareniclina4",09/09/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000296,karen moore moore,"omeprazol1,ketorolaco3,paracetamol4",08/06/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000297,laura davis anderson,enalapril3,12/05/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000298,patricia anderson wilson,"vareniclina4,bupropion1,glibenclamida4",06/13/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000299,NANCY BROWN TAYLOR,"paracetamol1,ibuprofeno2",08/17/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000300,William Anderson Smith,"paracetamol120,ibuprofeno3,omeprazol3",10/15/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000301,CHARLES WILSON SMITH,"omeprazol2,ketorolaco3",04/03/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000302,Linda Smith,"metformina2,insulina2",07/09/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000303,linda anderson martinez,metformina3,01/14/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000304,Nancy Davis Johnson,rosuvastatina3,01/06/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000305,Laura Garcia Anderson,"enalapril2,losartan2,amlodipino4",09/02/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000306,JOHN JOHNSON MILLER,insulina4,11/28/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000307,SUSAN ANDERSON MOORE,"levotiroxina2,paracetamol3",09/24/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000308,William Miller Brown,"omeprazol1,losartan1",12/13/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000309,george miller davis,losartan2,09/06/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000310,ANTHONY JONES,"ketorolaco1,ibuprofeno1,paracetamol2",12/17/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000311,ANTHONY RODRIGUEZ MARTINEZ,orlistat2,04/30/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000312,ROBERT ANDERSON SMITH,rosuvastatina4,09/08/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000313,john moore,ibuprofeno4,06/02/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000314,E. DAVIS WILSON,"bupropion4,vareniclina-1",12/01/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000315,jessica jones moore,omeprazol1,03/17/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000316,george miller anderson,enalapril2,10/18/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000317,Jennifer Taylor Johnson,enalapril2,02/24/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000318,Patricia Smith Miller,"orlistat4,metformina4",06/17/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000319,j. anderson davis,"bupropion3,metformina1",06/07/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000320,david taylor williams,"omeprazol2,amoxicilina4",04/30/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000321,Jessica Anderson,"bupropion4,rosuvastatina3",04/09/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000322,m. garcia martinez,omeprazol4,06/09/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000323,Laura Martinez,loratadina2,09/21/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000324,jennifer moore,"amlodipino1,enalapril4,losartan2",07/30/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000325,sarah davis anderson,"acidofolico3,sulfatoferroso2",03/02/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000326,John Martinez Brown,"glibenclamida1,sulfatoferroso4,acidofolico2",08/13/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000327,KAREN RODRIGUEZ MARTINEZ,"bupropion1,vareniclina1",12/07/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000328,Elizabeth Brown Davis,"omeprazol2,metformina2",12/09/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000329,EMILY ANDERSON,"insulina3,orlistat2,vareniclina1",08/11/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000330,EMILY TAYLOR ANDERSON,"orlistat2,atorvastatina2,rosuvastatina4",09/20/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000331,David Miller Brown,"amlodipino4,losartan4,enalapril4",04/24/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000332,Nancy Brown Taylor,"loratadina4,omeprazol3",08/23/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000333,Sarah Brown Garcia,"metformina4,orlistat4",08/26/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000334,william miller,"pregabalina4,ibuprofeno4",10/27/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000335,william taylor williams,"ketorolaco3,omeprazol3,ibuprofeno2",12/02/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000336,Sarah Rodriguez Wilson,"glibenclamida1,orlistat2",11/06/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000337,Joseph Anderson Anderson,atorvastatina2,05/04/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000338,Karen Moore Johnson,bupropion0,10/12/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000339,James Martinez Miller,orlistat4,05/24/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000340,THOMAS SMITH ANDERSON,"vareniclina2,bupropion2",11/09/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000341,karen moore johnson,bupropion2,04/03/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000342,ROBERT JONES RODRIGUEZ,sulfatoferroso2,04/19/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000343,Karen Johnson Martinez,enalapril1,11/29/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000344,emily wilsn johnson,vareniclina2,10/10/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000345,S. Johnson Smith,"paracetamol4,ibuprofeno4",03/12/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000346,Linda Jones Miller,"amlodipino2,enalapril2",03/17/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000347,patricia smith,"vareniclina1,orlistat2",04/03/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000348,Jessica Smith Brown,"atorvastatina1,vareniclina4,bupropion4",09/03/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000349,Sarah Johnson Smith,atorvastatina4,09/07/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000350,Nancy Davis Anderson,"rosuvastatina1,metformina1,atorvastatina1",02/16/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000351,James Wilson Garcia,sulfatoferroso4,06/18/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000352,KAREN JONES BROWN,amlodipino2,11/07/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000353,Thomas Rodriguez Smith,glibenclamida-2,01/06/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000354,ELIZABETH WILLIAMS GARCIA,"metformina1,orlistat4",08/12/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000355,Charles Davis Davis,"metformina1,orlistat2",07/18/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000356,william rodriguez garcia,"bupropion3,vareniclina1",11/07/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000357,KAREN JOHNSON JONES,orlistat2,03/16/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000358,anthony taylor rodriguez,"losartan3,amlodipino3,enalapril4",04/26/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000359,Jessica Williams,"enalapril3,bupropion4,vareniclina1",10/06/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000360,james anderson garcia,amlodipino1,05/27/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000361,Daniel Taylor Martinez,"diclofenaco1,amoxicilina2",05/12/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000362,george smith anderson,"paracetamol3,omeprazol4,ibuprofeno2",11/14/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000363,George Williams Jones,"atorvastatina3,rosuvastatina4",05/17/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000364,elizabeth williams anderson,"amlodipino2,metformina4",09/28/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000365,DAVID WILSON GARCIA,"ketorolaco3,paracetamol3",07/29/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000366,william johnson williams,"omeprazol1,paracetamol4,ibuprofeno4",07/11/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000367,SUSAN GARCIA WILLIAMS,"orlistat2,metformina2",12/07/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000368,William Martinez Williams,sulfatoferroso4,08/20/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000369,thomas taylor miller,insulina1,05/15/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000370,michael moore johnson,bupropion4,09/08/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000371,Sarah Garcia Brown,levotiroxina4,03/26/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000372,robert miller anderson,acidofolico3,02/01/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000373,J. MOORE DAVIS,diclofenaco1,10/29/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000374,LINDA JONES WILSON,"amoxicilina4,paracetamol3",05/06/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000375,william smith wilson,paracetamol3,10/21/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000376,LINDA MOORE ANDERSON,"vareniclina4,bupropion2",12/18/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000377,EMILY DAVIS JOHNSON,"orlistat4,rosuvastatina4",09/28/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000378,robert martinez smith,"rosuvastatina1,atorvastatina3",05/11/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000379,ROBERT JOHNSON SMITH,"losartan3,sulfatoferroso2,enalapril4",03/12/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000380,SUSAN WILLIAMS,amlodipino2,06/19/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000381,JOHN WILSON WILLIAMS,ibuprofeno1,03/23/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000382,JAMES DAVIS ANDERSON,glibenclamida1,11/13/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000383,Linda Martinez Williams,"bupropion3,vareniclina3",07/30/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000384,Mary Jones,"omeprazol4,ibuprofeno3",08/03/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000385,william jones martinez,"acidofolico1,losartan4",11/14/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000386,emily taylor moore,vareniclina3,04/09/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000387,charles johnson smith,"vareniclina2,losartan3",04/21/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000388,m. moore jones,"losartan2,amlodipino4,enalapril4",07/03/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000389,Charles Rodriguez Taylor,rosuvastatina3,11/05/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000390,DAVID MILLER MARTINEZ,paracetamol1,08/06/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000391,robert smith brown,enalapril120,03/18/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000392,SUSAN WILSON ANDERSON,bupropion-1,05/23/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000393,joseph johnson brown,"ibuprofeno1,paracetamol3,omeprazol3",12/11/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000394,jessica jones williams,ibuprofeno4,05/31/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000395,SUSAN RODRIGUEZ RODRIGUEZ,atorvastatina1,11/20/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000396,robert wilson moore,rosuvastatina2,03/22/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000397,e. smith garcia,atorvastatina3,10/06/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000398,L. RODRIGUEZ DAVIS,"atorvastatina1,bupropion3,rosuvastatina3",12/13/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000399,Thomas Brown Wilson,bupropion2,05/03/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000400,david garcia garcia,"orlistat1,metformina4",11/29/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000401,DAVID ANDERSON WILLIAMS,"ketorolaco1,omeprazol4",07/14/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000402,thomas smith taylor,amlodipino4,09/07/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000403,JESSICA GARCIA WILLIAMS,insulina2,03/12/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000404,mary taylor rodriguez,"insulina1,glibenclamida4",05/25/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000405,mary johnson brown,"bupropion4,vareniclina99",11/16/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000406,david garcia smith,paracetamol1,04/15/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000407,thomas wilson williams,losartan2,01/23/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000408,PATRICIA DAVIS BROWN,"omeprazol-1,paracetamol2",07/10/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000409,Jennifer Williams Miller,"vareniclina1,acidofolico3",11/12/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000410,robert johnson brown,"omeprazol1,loratadina4,ibuprofeno1",03/05/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000411,susan taylor miller,"losartan4,bupropion3,atorvastatina4",06/11/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000412,nancy garcia anderson,"ibuprofeno4,atorvastatina4",07/31/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000413,DANIEL DAVIS TAYLOR,"insulina2,vareniclina2,glibenclamida4",03/09/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000414,THOMAS WILSON RODRIGUEZ,"glibenclamida4,metformina1",04/25/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000415,CHARLES MARTINEZ TAYLOR,"sulfatoferroso1,acidofolico2",03/01/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000416,d. moore taylor,"paracetamol3,omeprazol1",12/23/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000417,daniel williams davis,amlodipino1,02/23/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000418,JAMES WILSON WILLIAMS,bupropion1,09/16/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000419,Anthony Moore Johnson,"rosuvastatina2,atorvastatina2",04/25/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000420,Charles Garcia Johnson,"rosuvastatina1,atorvastatina4",07/27/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000421,THOMAS BROWN GARCIA,amlodipino4,09/07/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000422,george martinez garcia,"atorvastatina1,omeprazol1,losartan2",07/23/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000423,EMILY WILSON,"amlodipino2,losartan2,omeprazol4",05/19/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000424,nancy martinez miller,"paracetamol2,ibuprofeno1,omeprazol3",03/15/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000425,charles jones martinez,"metformina3,orlistat99",02/02/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000426,Karen Anderson Brown,"ibuprofeno3,omeprazol4,paracetamol2",05/29/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000427,jennifer smith rodriguez,"metformina2,ibuprofeno2",07/20/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000428,karen taylor davis,metformina2,05/09/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000429,Jessica Rodriguez Martinez,"omeprazol1,ibuprofeno4",10/09/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000430,jessica moore brown,"omeprazol4,gabapentina3,paracetamol2",05/28/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000431,JENNIFER WILLIAMS MARTINEZ,"paracetamol4,omeprazol4",05/09/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000432,ELIZABETH DAVIS WILSON,vareniclina1,12/14/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000433,James Jones Taylor,"ibuprofeno2,omeprazol3,naproxeno2",12/16/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000434,robert brown moore,"acidofolico3,sulfatoferroso2",06/07/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000435,JOSEPH SMITH JONES,"sulfatoferroso2,vareniclina4,bupropion4",04/17/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000436,elizabeth sith garcia,"paracetamol1,omeprazol4,ibuprofeno2",09/15/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000437,ELIZABETH WILSON DAVIS,"amlodipino4,atorvastatina1",12/29/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000438,L. TAYLOR WILLIAMS,metformina2,12/23/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000439,D. MARTINEZ WILSON,"ketorolaco4,paracetamol4",03/23/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000440,ANTHONY JOHNSON BROWN,insulina1,05/26/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000441,W. WILLIAMS BROWN,ibuprofeno2,06/30/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000442,elizabeth brown taylor,"bupropion4,atorvastatina2,vareniclina4",01/03/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000443,EMILY TAYOR RODRIGUEZ,"atorvastatina4,rosuvastatina2",01/27/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000444,jennifer taylor wilson,"glibenclamida4,metformina1,insulina1",12/18/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000445,LINDA WILLIAMS WILLIAMS,"losartan4,glibenclamida2,amlodipino1",09/30/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000446,patricia smith taylor,"losartan2,amlodipino2",08/29/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000447,karen davis martinez,"rosuvastatina2,atorvastatina4",04/17/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000448,l. moore brown,"orlistat3,metformina4",08/16/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000449,mary wilson anderson,"omeprazol1,paracetamol1",05/19/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000450,JOHN RODRIGUEZ MILLER,"rosuvastatina4,atorvastatina0",02/21/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000451,WILLIAM WILLIAMS WILLIAMS,"vareniclina4,metformina4,bupropion3",05/14/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000452,Elizabeth Rodriguez Martinez,"orlistat3,metformina1",08/22/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000453,Anthony Rodriguez Davis,"omeprazol2,ibuprofeno3,pregabalina1",12/17/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000454,t. jones johnson,"insulina2,glibenclamida2,metformina2",05/22/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000455,NANCY WILLIAMS,bupropion2,06/04/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000456,E. Miller Smith,omeprazol3,05/03/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000457,thomas wilson davis,paracetamol4,07/15/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000458,george johnson davis,"enalapril4,losartan1,sulfatoferroso3",03/13/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000459,George Moore Taylor,"atorvastatina1,rosuvastatina1",12/03/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000460,Emily Taylor Smith,"ibuprofeno4,paracetamol2",05/16/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000461,susan johnson brown,"amoxicilina3,omeprazol1",02/07/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000462,Linda Taylor Moore,"vareniclina4,bupropion1",11/09/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000463,emily jones anderson,ibuprofeno1,06/17/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000464,nancy taylor wilson,orlistat1,06/15/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000465,Michael Davis Garcia,"atorvastatina4,rosuvastatina4",07/10/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000466,SUSAN ANDERSON DAVIS,"orlistat3,metformina2",01/29/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000467,laura davis,"metformina1,orlistat2",03/28/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000468,jennifer davis smith,"insulina4,vareniclina1",09/06/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000469,J. MARTINEZ WILLIAMS,"paracetamol1,ibuprofeno1",05/15/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000470,J. Johnson Jones,enalapril4,12/02/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000471,LAURA TYLOR WILLIAMS,"rosuvastatina2,atorvastatina3",03/24/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000472,ELIZABETH DAVIS SMITH,"vareniclina1,bupropion3",03/04/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000473,Mary Garcia Davis,"paracetamol2,pregabalina2",08/25/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000474,LINDA WILLIAMS ANDERSON,"amlodipino3,losartan4,enalapril1",09/02/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000475,sarah williams johnson,bupropion1,08/04/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000476,joseph jones miller,"sulfatoferroso2,acidofolico3",03/16/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000477,James Johnson Brown,losartan4,10/02/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000478,mary jones miller,"omeprazol3,ibuprofeno4,paracetamol4",10/12/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000479,laura brown taylor,metformina2,04/26/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000480,laura davis moore,"amoxicilina1,paracetamol4",04/14/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000481,michael rodriguez,"bupropion2,metformina4",09/13/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000482,george garcia miller,vareniclina1,08/26/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000483,karen jones miller,"enalapril1,amlodipino-1",12/20/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000484,DAVID JONES WILLIAMS,atorvastatina2,01/18/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000485,susan rodriguez miller,"omeprazol2,paracetamol1",08/06/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000486,mary martinez davis,"amlodipino1,rosuvastatina3",02/21/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000487,LINDA SMITH SMITH,"bupropion3,vareniclina3",05/20/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000488,DANIEL BROWN DAVIS,metformina3,04/10/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000489,charles jones brown,"omeprazol4,paracetamol120,ketorolaco3",06/20/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000490,N. WILSON MOORE,"diclofenaco1,omeprazol3",07/27/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000491,Sarah Miller Martinez,"bupropion2,vareniclina1",05/05/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000492,linda taylor garcia,ketorolaco2,07/21/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000493,Jennifer Johnson Miller,"enalapril4,losartan1,amlodipino4",04/03/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000494,D. ANDERSON MILLER,vareniclina4,05/21/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000495,David Anderson Miller,"metformina3,losartan2",08/03/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000496,mary brown smith,"atorvastatina2,rosuvastatina3",06/18/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000497,Patricia Miller Miller,"vareniclina2,bupropion2",12/31/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000498,J. TAYLOR JOHNSON,"amlodipino2,enalapril2",11/12/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000499,ANTHONY WILSON JONES,naproxeno4,01/18/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000500,SUSAN ANDERSON JOHNSON,atorvastatina4,09/16/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000501,John Anderon Garcia,orlistat4,07/19/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000502,JESSICA JONES MILLER,losartan3,01/20/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000503,sarah johnson smith,"levotiroxina3,omeprazol4",01/19/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000504,Thomas Johnson Miller,"amlodipino3,losartan1",05/27/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000505,Patricia Davis Rodriguez,ibuprofeno4,09/24/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000506,GEORGE MOORE SMITH,"rosuvastatina1,atorvastatina1",11/20/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000507,joseph moore miller,"losartan4,amlodipino4,enalapril2",12/24/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000508,N. Anderson Brown,"sulfatoferroso3,acidofolico1",05/08/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000509,LAURA GARCIA BROWN,"omeprazol4,paracetamol3,ibuprofeno4",11/08/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000510,anthony johnson johnson,"glibenclamida3,insulina3,metformina3",06/22/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000511,JENNIFER DAVIS WILSON,"amlodipino1,losartan4",05/07/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000512,john williams smith,enalapril3,02/12/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000513,J. Miller Davis,"metformina3,orlistat4",05/06/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000514,John Davis Anderson,"rosuvastatina3,atorvastatina2",11/16/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000515,william moore anderson,losartan2,04/25/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000516,l. brown miller,"ibuprofeno3,ketorolaco4",01/30/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000517,G. WILSON MOORE,"omeprazol4,paracetamol4",10/16/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000518,linda davis smith,"atorvastatina2,rosuvastatina3",06/16/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000519,charles wilson anderson,"amlodipino4,enalapril3",04/19/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000520,James Williams Martinez,"paracetamol2,omeprazol3,ibuprofeno4",06/08/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000521,Charles Smith Rodriguez,"paracetamol1,amoxicilina1,diclofenaco4",09/21/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000522,j. williams smith,"bupropion3,vareniclina1",04/05/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000523,susan miller brown,"amlodipino1,atorvastatina1,ibuprofeno3",12/08/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000524,john moore miller,"omeprazol4,ibuprofeno99",08/13/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000525,E. Moore Wilson,"enalapril3,losartan2,amlodipino3",12/01/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000526,s. miller garcia,"metformina2,orlistat1,insulina3",04/22/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000527,daniel wilson williams,"orlistat3,acidofolico1",11/04/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000528,s. brown smith,"paracetamol3,amlodipino4",10/07/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000529,anthony taylor moore,"losartan4,enalapril4,rosuvastatina2",07/21/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000530,george garcia jones,diclofenaco2,09/27/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000531,george garcia wilson,"enalapril3,insulina4",05/23/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000532,Robert Rodriguez,"losartan1,paracetamol2",11/22/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000533,nancy brown taylor,"ibuprofeno3,atorvastatina1",03/28/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000534,GEORGE RODRIGUEZ WILSON,"ibuprofeno2,paracetamol3",04/07/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000535,D. WILSON GARCIA,"paracetamol4,omeprazol1,ibuprofeno1",01/05/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000536,Emily Davis Moore,losartan1,06/13/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000537,jessica williams johnson,"paracetamol2,ibuprofeno3,ketorolaco2",07/17/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000538,Robert Williams Smith,"loratadina1,omeprazol3",04/28/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000539,Anthony Jones Johnson,"enalapril2,amlodipino1",09/04/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000540,john smith wilson,"glibenclamida3,metformina1,bupropion1",09/03/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000541,mary anderson martinez,"metformina4,insulina1",12/19/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000542,George Williams Wilson,"insulina3,metformina3",10/23/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000543,karen anderson anderson,"omeprazol1,ibuprofeno3",09/04/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000544,Jennifer Miller Smith,"rosuvastatina3,atorvastatina1",03/11/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000545,Mary Johnson Martinez,"rosuvastatina4,atorvastatina2",03/22/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000546,KAREN GARCIA JONES,"insulina2,metformina2,glibenclamida2",06/19/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000547,JENNIFER MOORE JOHNSON,acidofolico4,02/04/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000548,EMILY TAYLOR WILSON,"paracetamol3,ibuprofeno2",06/25/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000549,Joseph Johnson Williams,orlistat1,09/20/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000550,w. moore rodriguez,"levotiroxina2,ibuprofeno3,metformina4",07/21/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000551,david wilson,"ibuprofeno2,levotiroxina2",04/16/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000552,MARY ANDERSON MILLER,ibuprofeno2,10/09/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000553,Robert Anderson Jones,"vareniclina2,bupropion4",09/09/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000554,S. WILLIAMS MARTINEZ,"bupropion1,amlodipino1",03/05/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000555,Emily Anderson Moore,"insulina3,glibenclamida4",06/13/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000556,DANIEL MILLER MARTINEZ,"ibuprofeno2,omeprazol4",12/30/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000557,JOHN MILLER BROWN,"losartan3,amlodipino4,glibenclamida2",03/22/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000558,laura davis wilson,"losartan99,amlodipino4,enalapril1",09/17/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000559,Robert Moore Moore,"acidofolico3,vareniclina1,bupropion3",11/29/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000560,EMILY DAVIS JOHNSON,"ibuprofeno2,omeprazol4",12/27/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000561,john miller jones,omeprazol3,01/23/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000562,Patricia Wilson Jones,"paracetamol1,pregabalina1,omeprazol2",10/21/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000563,SARAH MARTINEZ MOORE,"rosuvastatina3,vareniclina3,metformina1",04/19/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000564,KAREN MOORE JOHNSON,"atorvastatina1,bupropion3,vareniclina2",10/07/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000565,L. Garcia Anderson,bupropion4,04/30/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000566,LAURA MARTINEZ GARCIA,paracetamol4,01/19/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000567,SUSAN TAYLOR RODRIGUEZ,"rosuvastatina3,glibenclamida4",09/26/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000568,JESSICA ANDERSON BROWN,"enalapril3,amlodipino1,losartan3",10/01/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000569,SUSAN GARCIA MOORE,"omeprazol4,paracetamol1,atorvastatina4",08/25/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000570,JOHN SMITH GARCIA,paracetamol3,07/09/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000571,JESSICA BROWN MILLER,"acidofolico1,sulfatoferroso4",09/25/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000572,Sarah Wilson Moore,amoxicilina2,01/31/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000573,john johnson rodriguez,"paracetamol1,amoxicilina3,omeprazol3",04/12/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000574,JAMES RODRIGUEZ MOORE,"paracetamol3,ibuprofeno4,omeprazol4",07/14/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000575,JENNIFER DAVIS WILLIAMS,"ibuprofeno2,paracetamol1",05/04/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000576,john moore jones,"enalapril2,amlodipino2,losartan2",01/04/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000577,william martinez williams,"acidofolico2,sulfatoferroso2,atorvastatina1",03/24/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000578,PATRICIA SMITH TAYLOR,"losartan4,amlodipino2,enalapril4",07/20/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000579,Elizabeth Brown Brown,"diclofenaco3,ibuprofeno2",04/30/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000580,Jennifer Moore Williams,"acidofolico3,insulina2,glibenclamida4",02/05/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000581,william brown brown,omeprazol1,04/12/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000582,JENNIFER TAYLOR TAYLOR,"vareniclina3,bupropion3",04/13/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000583,JENNIFER ANDERSON MILLER,"metformina4,orlistat120",04/20/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000584,THOMAS WILSON SMITH,naproxeno4,06/22/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000585,SUSAN WILLIAMS WILSON,"enalapril4,losartan1",02/20/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000586,Elizabeth Martinez Wilson,amlodipino1,06/29/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000587,K. JONES RODRIGUEZ,"losartan4,amlodipino3",10/11/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000588,THOMAS GARCIA BROWN,orlistat1,03/24/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000589,GEORGE MARTINEZ WILSON,enalapril2,09/13/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000590,James Garcia Garcia,bupropion1,09/23/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000591,john wilsn taylor,"bupropion1,metformina3,vareniclina4",05/16/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000592,JOHN TAYLOR GARCIA,"orlistat1,metformina1",06/10/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000593,JOSEPH TAYLOR MILLER,"vareniclina1,rosuvastatina2",10/10/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000594,mary garcia davis,omeprazol3,05/12/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000595,karen brown,"amlodipino3,losartan1",12/07/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000596,william taylor davis,"orlistat4,insulina2",07/20/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000597,SARAH MOORE WILLIAMS,"losartan3,amlodipino1,orlistat1",09/07/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000598,william brown miller,"bupropion2,vareniclina2",12/16/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000599,DAVID MILLER DAVIS,"enalapril1,amlodipino4,losartan1",08/18/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000600,l. johnson taylor,losartan4,10/17/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000601,NANCY GARCIA,ibuprofeno1,02/03/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000602,george jones williams,"loratadina1,paracetamol4",08/27/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000603,george smith wilson,"bupropion2,vareniclina3",12/30/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000604,George Garcia Martinez,metformina4,09/22/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000605,charles smith anderson,ibuprofeno3,03/20/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000606,r. moore moore,"enalapril4,insulina2,amlodipino2",01/20/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000607,JESSICA WILSON MARTINEZ,bupropion2,01/10/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000608,Patricia Davis Wilson,"losartan1,amlodipino4,vareniclina3",01/03/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000609,ELIZABETH GARCIA WILSON,losartan3,12/20/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000610,c. smith anderson,omeprazol2,05/13/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000611,JAMES TAYLOR DAVIS,"metformina2,glibenclamida2",05/04/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000612,ROBERT MARTINEZ JONES,"omeprazol4,naproxeno4,paracetamol2",11/07/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000613,Karen Johnson,"vareniclina1,enalapril4",08/21/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000614,laura anderson anderson,"enalapril4,metformina1,glibenclamida4",01/08/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000615,Jessica Rodriguez Brown,"vareniclina2,metformina3",05/31/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000616,daniel davis williams,atorvastatina3,10/12/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000617,NANCY WILSON MOORE,"paracetamol2,omeprazol4",09/05/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000618,E. Davis Williams,"metformina4,insulina1",10/25/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000619,Linda Smith Miller,"rosuvastatina3,orlistat4,metformina4",06/05/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000620,emily moore miller,metformina3,05/01/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000621,Joseph Miller Wilson,"rosuvastatina2,insulina1",10/12/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000622,susan garcia jones,glibenclamida2,04/28/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000623,c. davis davis,"orlistat2,metformina2",03/16/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000624,George Williams Wilson,"paracetamol1,omeprazol2,ibuprofeno2",03/16/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000625,michael aderson moore,"ibuprofeno4,pregabalina4",09/23/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000626,Sarah Williams Smith,"orlistat2,metformina1",02/07/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000627,P. SMITH WILLIAMS,enalapril4,03/16/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000628,mary wilson martinez,vareniclina4,12/11/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000629,Michael Taylor Davis,"atorvastatina1,rosuvastatina3",09/21/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000630,ROBERT WILSON MOORE,"metformina2,insulina3,glibenclamida1",08/27/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000631,George Brown,"ibuprofeno1,amoxicilina4,diclofenaco2",04/01/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000632,MARY ANDERSON JOHNSON,bupropion1,12/15/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000633,LAURA TAYLOR RODRIGUEZ,"atorvastatina0,omeprazol2",08/15/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000634,JAMES JONES DAVIS,paracetamol4,10/08/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000635,James Martinez Garcia,"amlodipino2,losartan1",10/15/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000636,ROBERT TAYLOR TAYLOR,"atorvastatina4,paracetamol1",03/29/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000637,Sarah Jones Rodriguez,"vareniclina1,bupropion4",12/04/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000638,PATRICIA JONES TAYLOR,sulfatoferroso3,02/12/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000639,anthony jones miller,"amlodipino99,losartan3,enalapril2",06/10/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000640,jennifer williams williams,ketorolaco3,05/09/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000641,karen taylor miller,bupropion2,09/08/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000642,E. DAVIS SMITH,"vareniclina3,bupropion4",02/03/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000643,anthony jones miller,"insulina4,levotiroxina2",09/14/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000644,jennifer anderson smith,paracetamol1,09/17/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000645,Patricia Garcia Wilson,orlistat2,07/27/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000646,laura williams,"losartan1,atorvastatina2,vareniclina2",08/15/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000647,SUSAN BROWN TAYLOR,"ketorolaco2,ibuprofeno2",09/29/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000648,linda moore moore,"paracetamol4,ibuprofeno4,amlodipino1",06/07/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000649,emily rodriguez brown,"atorvastatina1,rosuvastatina1",10/06/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000650,MICHAEL WILSON WILSON,"ibuprofeno3,paracetamol2",11/04/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000651,William Taylor Wilson,"orlistat2,metformina1",11/15/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000652,nancy jones smith,vareniclina3,02/18/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000653,M. Rodriguez Martinez,vareniclina1,12/09/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000654,michael miller martinez,"orlistat2,metformina3",12/26/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000655,Daniel Williams Garcia,losartan2,11/15/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000656,ANTHONY MARTINEZ JONES,orlistat3,01/31/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000657,EMILY WLSON MOORE,amlodipino2,08/29/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000658,thomas anderson moore,"bupropion2,vareniclina3",09/25/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000659,NANCY RODRIGUEZ TAYLOR,"ketorolaco4,omeprazol3",11/06/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000660,linda brown davis,"losartan3,rosuvastatina4,atorvastatina1",01/22/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000661,MICHAEL JOHNSON WILLIAMS,"enalapril2,atorvastatina1",11/15/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000662,elizabeth garcia miller,"bupropion1,vareniclina3",04/02/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000663,michael johnson johnson,"atorvastatina4,rosuvastatina3,bupropion2",09/21/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000664,ROBERT MARTINEZ BROWN,insulina4,11/16/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000665,Daniel Johnson Brown,"atorvastatina4,rosuvastatina2",04/03/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000666,E. MOORE ANDERSON,orlistat2,06/25/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000667,JENNIFER MILLER MARTINEZ,losartan2,08/20/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000668,Mary Brown Martinez,"rosuvastatina2,atorvastatina3",01/25/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000669,ROBERT TAYLOR TAYLOR,"ibuprofeno4,omeprazol1",11/02/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000670,JAMES GARCIA WILLIAMS,rosuvastatina2,12/06/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000671,d. miller martinez,"amoxicilina2,ibuprofeno1,diclofenaco3",05/25/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000672,GEORGE JONES MOORE,"omeprazol2,ketorolaco2,ibuprofeno1",02/23/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000673,LAURA MOORE GARCIA,"atorvastatina2,rosuvastatina3",10/10/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000674,George Garcia Smith,"losartan3,amlodipino3",02/08/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000675,Anthony Williams,"losartan4,amlodipino3,enalapril4",07/24/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000676,Susan Rodriguez Williams,"sulfatoferroso1,acidofolico2",07/31/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000677,thomas taylor miller,metformina4,05/26/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000678,ANTHONY MOORE MARTINEZ,"paracetamol1,omeprazol1",01/28/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000679,Linda Rodriguez Wilson,bupropion2,03/27/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000680,anthony moore martinez,"ibuprofeno3,ketorolaco2",02/28/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000681,Robert Rodriguez Wilson,"ibuprofeno4,atorvastatina1",07/13/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000682,LINDA WILSN WILSON,"bupropion4,vareniclina2",04/27/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000683,Charles Garcia Rodriguez,"paracetamol1,amlodipino1",09/02/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000684,David Taylor Davis,amlodipino4,06/16/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000685,JOSEPH TAYLOR MILLER,"atorvastatina3,bupropion3,rosuvastatina4",01/16/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000686,Michael Williams Brown,omeprazol3,06/25/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000687,LAURA MILLER ANDERSON,paracetamol4,02/07/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000688,william jones williams,"vareniclina2,bupropion4",06/16/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000689,e. taylor moore,"orlistat4,bupropion4,vareniclina4",05/31/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000690,Mary Davis Garcia,"insulina1,losartan4,metformina2",04/29/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000691,GEORGE GARCIA WILLIAMS,"ibuprofeno2,omeprazol4",10/19/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000692,JOSEPH JONES ANDERSON,"orlistat1,amlodipino4",07/17/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000693,Nancy Anderson Smith,rosuvastatina4,08/29/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000694,E. Wilson Garcia,"paracetamol3,ibuprofeno4",07/13/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000695,robert jones,paracetamol1,09/13/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000696,david brown moore,"rosuvastatina2,atorvastatina2",01/29/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000697,CHARLES MARTINEZ RODRIGUEZ,"insulina1,enalapril4",06/24/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000698,KAREN ANDERSON SMITH,"bupropion3,vareniclina2",08/08/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000699,THOMAS GARCIA WILLIAMS,ibuprofeno2,05/01/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000700,Emily Anderson Taylor,"metformina2,glibenclamida2",07/10/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000701,CHARLES WILSON RODRIGUEZ,"sulfatoferroso3,vareniclina4,bupropion2",11/04/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000702,george johnson anderson,"omeprazol3,paracetamol3,ibuprofeno1",02/21/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000703,ANTHONY ANDERSON GARCIA,bupropion3,08/03/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000704,Michael Rodriguez Miller,"rosuvastatina4,insulina4",10/07/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000705,Karen Jones Williams,"paracetamol2,ibuprofeno4,omeprazol3",02/03/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000706,david johnson garcia,"losartan1,atorvastatina4,rosuvastatina4",02/23/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000707,elizabeth rodriguez garcia,"levotiroxina3,metformina4,insulina2",01/26/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000708,JESSICA BROWN,"ibuprofeno1,atorvastatina1",01/26/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000709,L. Wilson Moore,"metformina1,omeprazol2,insulina2",12/07/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000710,susan garcia rodriguez,"atorvastatina3,rosuvastatina1",07/27/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000711,daniel miller smith,"vareniclina3,bupropion4",05/29/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000712,ANTHONY ANDERSON,vareniclina1,07/31/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000713,emily taylor rodriguez,"rosuvastatina3,atorvastatina2",06/21/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000714,david johnson miller,"paracetamol3,omeprazol1",05/26/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000715,jennifer johnsn miller,enalapril2,06/27/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000716,thomas garcia miller,bupropion2,05/21/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000717,NANCY WILSON JOHNSON,"rosuvastatina2,metformina1",10/11/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000718,John Brown Williams,"orlistat2,metformina4",01/14/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000719,mary williams wilson,"atorvastatina3,rosuvastatina1,metformina4",06/23/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000720,Karen Moore Garcia,"bupropion3,vareniclina2,metformina1",01/13/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000721,john williams garcia,"metformina1,insulina2,paracetamol3",09/25/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000722,MICHAEL ANDERSON WILLIAMS,"bupropion3,vareniclina3",01/12/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000723,Linda Taylr Garcia,atorvastatina-2,01/15/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000724,Emily Martinez Williams,"omeprazol2,ketorolaco1,paracetamol2",03/27/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000725,SARAH DAVIS WILLIAMS,"amlodipino3,losartan1,enalapril4",10/02/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000726,susan williams rodriguez,"enalapril3,amlodipino2,losartan2",10/07/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000727,LAURA SMITH JONES,"sulfatoferroso3,acidofolico1",08/23/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000728,Laura Taylor Williams,"losartan1,enalapril1,metformina2",03/27/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000729,ANTHONY JONES WILLIAMS,"bupropion4,vareniclina3",02/17/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000730,ELIZABETH BROWN BROWN,"diclofenaco4,omeprazol3,amoxicilina2",06/20/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000731,daniel anderon brown,"glibenclamida2,amlodipino2",08/21/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000732,Laura Taylor Williams,"paracetamol2,omeprazol3",11/21/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000733,W. Rodriguez Moore,ibuprofeno1,08/31/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000734,DANIEL BROWN DAVIS,"metformina2,glibenclamida2,rosuvastatina4",07/15/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000735,David Davis Brown,omeprazol4,08/02/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000736,DANIEL MILLER SMITH,"bupropion3,vareniclina99",05/09/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000737,john williams martinez,"atorvastatina4,glibenclamida4,metformina2",05/08/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000738,MARY GARCIA JOHNSON,glibenclamida2,06/27/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000739,CHARLES WILSON,"atorvastatina3,rosuvastatina1",06/09/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000740,JAMES MILLER JOHNSON,"glibenclamida-2,acidofolico1",10/30/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000741,Linda Davis Smith,"bupropion1,vareniclina1",06/08/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000742,elizabeth johson moore,"ketorolaco4,ibuprofeno2",07/08/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000743,NANCY ANDERSON DAVIS,"bupropion-2,vareniclina3",08/03/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000744,patricia garcia miller,metformina3,08/29/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000745,JESSICA TAYLOR MARTINEZ,"rosuvastatina1,atorvastatina3",08/06/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000746,ELIZABETH MARTINEZ JOHNSON,diclofenaco3,12/11/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000747,Mary Wilson Jones,"ibuprofeno3,amoxicilina4",03/09/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000748,A. JONES DAVIS,paracetamol1,04/15/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000749,GEORGE MARTNEZ TAYLOR,rosuvastatina3,01/25/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000750,nancy wilson smith,"levotiroxina4,omeprazol3,paracetamol3",09/19/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000751,Emily Jones Brown,"rosuvastatina4,atorvastatina1,orlistat1",05/30/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000752,patricia wilson johnson,"amoxicilina1,ibuprofeno2,omeprazol2",04/17/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000753,Karen Jones,"paracetamol1,ibuprofeno2,omeprazol4",01/11/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000754,linda jones moore,"orlistat1,metformina2",11/10/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000755,E. WILLIAMS MOORE,bupropion1,06/25/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000756,MICHAEL MOORE JOHNSON,"paracetamol4,omeprazol4",05/19/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000757,EMILY TAYLR RODRIGUEZ,rosuvastatina0,07/17/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000758,Michael Brown Williams,"acidofolico3,sulfatoferroso2",02/12/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000759,joseph garcia,"paracetamol1,losartan4",01/12/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000760,patricia anderson,"metformina3,losartan4",02/28/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000761,karen jones miller,"ibuprofeno4,paracetamol1,omeprazol2",02/22/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000762,David Miller Smith,"insulina3,metformina2",05/02/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000763,CHARLES GARCIA MILLER,"insulina4,metformina3",01/18/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000764,patricia rodriguez miller,"paracetamol1,gabapentina2,omeprazol1",07/19/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000765,THOMAS MILLER WILLIAMS,metformina1,02/04/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000766,PATRICIA ANDERSON WILSON,"vareniclina3,bupropion3,glibenclamida4",04/17/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000767,john brown rodriguez,"paracetamol2,omeprazol1,diclofenaco2",05/01/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000768,J. MOORE DAVIS,metformina3,03/20/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000769,Daniel Moore Rodriguez,"insulina3,metformina3,glibenclamida2",09/01/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000770,karen miller brown,"ibuprofeno1,omeprazol2,diclofenaco1",11/17/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000771,JESSICA WILSON JOHNSON,ibuprofeno1,05/11/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000772,CHARLES MARTINEZ GARCIA,"ibuprofeno2,omeprazol2,paracetamol1",05/06/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000773,michael williams davis,ibuprofeno1,12/02/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000774,THOMAS DAVIS ANDERSON,rosuvastatina4,02/10/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000775,David Brown Davis,orlistat4,03/05/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000776,Charles Smith Smith,bupropion2,03/21/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000777,WILLIAM MOORE RODRIGUEZ,"omeprazol1,losartan4,amlodipino3",12/14/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000778,James Jones Brown,"ketorolaco3,paracetamol3,omeprazol1",04/06/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000779,nancy davis jones,ibuprofeno3,09/24/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000780,george garcia wilson,"insulina3,rosuvastatina3,losartan3",10/08/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000781,WILLIAM MOORE JOHNSON,"rosuvastatina4,orlistat2,bupropion3",05/29/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000782,daniel johnson brown,"sulfatoferroso4,rosuvastatina99,acidofolico2",04/02/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000783,laura anderson anderson,amlodipino1,06/05/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000784,Emily Davis Williams,"insulina2,glibenclamida4",12/22/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000785,daniel anderson,bupropion3,08/28/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000786,SARAH MARTINEZ RODRIGUEZ,atorvastatina1,09/09/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000787,emily davis johnson,"metformina4,orlistat2,atorvastatina1",12/18/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000788,susan moore martinez,"bupropion1,atorvastatina2,rosuvastatina4",12/09/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000789,DAVID MARTINEZ RODRIGUEZ,pregabalina1,04/20/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000790,laura davis anderson,enalapril2,11/04/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000791,WILLIAM BROWN MILLER,vareniclina4,06/13/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000792,emily johnson anderson,insulina2,12/14/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000793,david martinez,glibenclamida3,08/23/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000794,Mary Anderson Moore,"enalapril3,losartan1,rosuvastatina2",09/11/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000795,ANTHONY MOORE,atorvastatina2,08/20/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000796,Thomas Wilson Rodriguez,"metformina4,rosuvastatina0",07/27/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000797,George Davis Johnson,omeprazol4,11/26/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000798,Linda Moore Anderson,"bupropion1,atorvastatina2",10/28/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000799,nancy brown,"ibuprofeno4,omeprazol2,paracetamol3",01/16/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000800,j. garcia moore,"paracetamol4,omeprazol4",05/19/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000801,EMILY TAYLOR DAVIS,amlodipino2,02/21/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000802,D. Moore Williams,omeprazol1,07/19/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000803,thomas taylor garcia,"atorvastatina3,vareniclina2,metformina3",05/23/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000804,Charles Moore Brown,enalapril3,08/25/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000805,nancy davis wilson,paracetamol1,01/04/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000806,William Jones,levotiroxina1,11/24/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000807,Karen Miller Garcia,omeprazol1,12/05/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000808,THOMAS MARTINEZ WILSON,glibenclamida4,05/22/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000809,ROBERT GARCIA,"loratadina1,ibuprofeno1,paracetamol4",01/23/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000810,j. davis anderson,"metformina1,insulina4,rosuvastatina4",03/28/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000811,nancy johnson brown,"metformina-2,orlistat4",11/01/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000812,JAMES JOHNSON TAYLOR,"acidofolico1,sulfatoferroso1",03/23/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000813,PATRICIA WILSON MILLER,"amlodipino3,enalapril2,losartan1",01/23/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000814,karen jones taylor,rosuvastatina2,06/27/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000815,anthony moore moore,"bupropion2,vareniclina1",07/26/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000816,KAREN JONES BROWN,enalapril1,05/18/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000817,DANIEL ANDERSON BROWN,"glibenclamida4,losartan4,enalapril2",01/06/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000818,N. MOORE JONES,"rosuvastatina4,atorvastatina4",11/21/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000819,Robert Johnson Wilson,orlistat3,12/16/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000820,patricia smith williams,"enalapril3,amlodipino1,rosuvastatina4",04/30/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000821,ROBERT JONES DAVIS,acidofolico3,01/17/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000822,michael johnson johnson,vareniclina1,11/08/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000823,CHARLES BROWN MOORE,"metformina1,glibenclamida2",05/05/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000824,joseph smith wilson,"ketorolaco1,paracetamol2",01/28/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000825,a. anderson johnson,"paracetamol3,gabapentina1",07/16/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000826,JENNIFER RODRIGUEZ WILLIAMS,orlistat3,07/17/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000827,LINDA BROWN WILLIAMS,"omeprazol4,ibuprofeno3",03/01/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000828,george taylor brown,"metformina1,orlistat3",04/26/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000829,Linda Anderson Garcia,bupropion4,10/26/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000830,charles smith rodriguez,"omeprazol3,paracetamol4,ibuprofeno3",06/10/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000831,DAVID BROWN JONES,"sulfatoferroso3,acidofolico1",12/22/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000832,william willias jones,vareniclina3,06/01/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000833,ELIZABETH WILLIAMS RODRIGUEZ,"losartan4,amlodipino2",03/11/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000834,nancy williams taylor,rosuvastatina2,10/06/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000835,DANIEL RODRIGUEZ MARTINEZ,atorvastatina2,06/12/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000836,WILLIAM DAVIS RODRIGUEZ,rosuvastatina3,02/11/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000837,JAMES TAYLOR MILLER,enalapril2,01/10/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000838,Sarah Williams Johnson,"losartan4,vareniclina1",10/08/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000839,Elizabeth Miller Rodriguez,"rosuvastatina2,atorvastatina1",09/19/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000840,James Moore Jones,"orlistat1,metformina4",02/07/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000841,daniel miller jones,"metformina4,orlistat2",07/08/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000842,David Taylor Williams,"losartan4,paracetamol4",04/11/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000843,JENNIFER BROWN ANDERSON,"ibuprofeno3,paracetamol3",09/06/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000844,SUSAN JONES,"insulina4,sulfatoferroso2,enalapril2",09/30/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000845,thomas anderson taylor,ibuprofeno3,12/13/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000846,david jones taylor,"metformina4,orlistat4",11/16/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000847,JESSICA ANDERSON RODRIGUEZ,"amoxicilina2,omeprazol1,paracetamol4",08/15/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000848,daniel garcia miller,"losartan3,vareniclina2",04/09/2025,Dr. Robert Wilson,North Care Clinic USA
+FARM_USA_2025_000849,MICHAEL MILLER MILLER,orlistat4,02/21/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000850,LINDA BROWN ANDERSON,"bupropion1,vareniclina1",07/11/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000851,MICHAEL JONES SMITH,"omeprazol3,ibuprofeno3,paracetamol4",09/01/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000852,William Garcia Johnson,"ketorolaco1,omeprazol3,ibuprofeno3",01/05/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000853,Nancy Brown Taylor,"omeprazol4,amoxicilina1,ibuprofeno4",09/20/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000854,emily dvis moore,ibuprofeno1,01/08/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000855,JESSICA DAVS GARCIA,"metformina2,orlistat4",11/15/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000856,karen garcia rodriguez,"ketorolaco1,ibuprofeno4,omeprazol1",05/18/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000857,JAMES GARCIA ANDERSON,paracetamol1,03/28/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000858,daniel davis davis,"bupropion1,vareniclina1",07/10/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000859,jessica miler johnson,"paracetamol4,naproxeno4",02/07/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000860,l. garcia anderson,"vareniclina4,rosuvastatina3,atorvastatina4",10/14/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000861,NANCY WILSON ANDERSON,"loratadina3,omeprazol4,paracetamol3",08/03/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000862,jennifer davis williams,ibuprofeno1,08/19/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000863,james moore rodriguez,"amlodipino2,enalapril99",06/16/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000864,JAMES MILLER WILSON,"omeprazol4,ibuprofeno3",01/06/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000865,ELIZABETH SMITH TAYLOR,enalapril3,12/26/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000866,michael taylor anderson,"omeprazol4,loratadina1",04/03/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000867,Emily Taylor Wilson,sulfatoferroso3,05/18/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000868,ANTHONY DAVIS ANDERSON,"orlistat4,losartan3",04/25/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000869,William Moore Martinez,"omeprazol2,amlodipino3,paracetamol3",08/10/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000870,LINDA BROWN JONES,ibuprofeno3,08/06/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000871,laura davis williams,vareniclina1,04/15/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000872,charles davis martinez,losartan2,08/22/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000873,JOSEPH MILLER JOHNSON,"paracetamol3,losartan4",03/02/2025,Dr. Robert Wilson,International Hospital USA
+FARM_USA_2025_000874,KAREN DAVIS MOORE,"vareniclina4,bupropion1",02/25/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000875,Jessica Davis Johnson,"metformina1,orlistat1",02/09/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000876,susan wilson johnson,"acidofolico-1,sulfatoferroso3",10/25/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000877,Linda Taylor Moore,"vareniclina2,bupropion2",06/30/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000878,george jones davis,"losartan2,enalapril3,orlistat2",05/14/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000879,sarah johnson miller,"metformina1,insulina4,glibenclamida0",04/07/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000880,JENNIFER WILSON BROWN,"glibenclamida2,insulina3,enalapril1",02/02/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000881,elizabeth davis miller,paracetamol4,03/15/2025,Dr. John Smith,West Medical Center USA
+FARM_USA_2025_000882,Patricia Rodriguez Smith,"enalapril3,losartan3",02/13/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000883,susan williams rodriguez,"losartan3,metformina4",01/04/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000884,Jennifer Taylor Jones,omeprazol3,10/12/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000885,linda brown williams,omeprazol2,09/08/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000886,D. Moore Brown,"paracetamol2,ibuprofeno1,omeprazol2",07/06/2025,Dra. Emily Johnson,International Hospital USA
+FARM_USA_2025_000887,DAVID MARTINEZ BROWN,glibenclamida3,11/26/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000888,JESSICA JOHNSON JOHNSON,insulina2,06/06/2025,Dr. John Smith,North Care Clinic USA
+FARM_USA_2025_000889,Sarah Moore Williams,metformina4,02/06/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000890,Mary Garcia Martinez,"ibuprofeno3,omeprazol3",11/07/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000891,george rodriguez taylor,"omeprazol4,ibuprofeno4",12/20/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000892,EMILY JOHNSON ANDERSON,vareniclina4,01/03/2025,Dra. Sarah Davis,West Medical Center USA
+FARM_USA_2025_000893,Thomas Johnsn Taylor,"ibuprofeno3,losartan3",09/18/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000894,karen smith,"bupropion4,atorvastatina2,orlistat2",11/07/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000895,Joseph Moore Johnson,amoxicilina4,09/06/2025,Dr. Michael Brown,International Hospital USA
+FARM_USA_2025_000896,william moore,"paracetamol3,omeprazol4,ketorolaco2",09/08/2025,Dr. Michael Brown,West Medical Center USA
+FARM_USA_2025_000897,anthony garcia rodriguez,"enalapril3,losartan1,amlodipino2",07/17/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000898,G. DAVIS RODRIGUEZ,enalapril3,07/02/2025,Dra. Emily Johnson,West Medical Center USA
+FARM_USA_2025_000899,emily davis moore,omeprazol1,11/25/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000900,GEORGE JOHNSON SMITH,"orlistat3,atorvastatina2",06/23/2025,Dr. John Smith,International Hospital USA
+FARM_USA_2025_000901,NANCY JOHNSON DAVIS,"ibuprofeno3,paracetamol2",02/14/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000902,Linda Miller Moore,"diclofenaco1,amoxicilina2,omeprazol2",03/04/2025,Dr. Michael Brown,North Care Clinic USA
+FARM_USA_2025_000903,Patricia Davis Wilson,bupropion1,02/25/2025,Dr. Robert Wilson,West Medical Center USA
+FARM_USA_2025_000904,P. Martinez Taylor,"omeprazol2,ibuprofeno2,losartan3",08/28/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000905,nancy anderson anderson,"omeprazol2,ibuprofeno2",08/07/2025,Dra. Sarah Davis,International Hospital USA
+FARM_USA_2025_000906,susan garcia johnson,"omeprazol3,ketorolaco3",07/20/2025,Dra. Sarah Davis,North Care Clinic USA
+FARM_USA_2025_000907,John Rodriguez Brown,"atorvastatina2,vareniclina3",03/12/2025,Dra. Emily Johnson,North Care Clinic USA
+FARM_USA_2025_000908,DAVID MILLER RODRIGUEZ,"metformina4,ibuprofeno1,insulina3",04/26/2025,Dra. Emily Johnson,West Medical Center USA

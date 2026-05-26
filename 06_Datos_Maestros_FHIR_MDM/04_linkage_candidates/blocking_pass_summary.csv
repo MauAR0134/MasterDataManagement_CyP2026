@@ -1,0 +1,7 @@
+blocking_pass,candidate_pairs,auto_matches,manual_review,no_matches
+birthdate_country,14587,13030,323,1234
+birthdate_lastname_soundex_country,13029,12723,254,52
+birthdate_name_lastname_soundex_country,10618,10397,221,0
+phone_country,7433,7424,8,1
+email_exact,9734,9723,11,0
+sorted_neighborhood_full_name,0,0,0,0

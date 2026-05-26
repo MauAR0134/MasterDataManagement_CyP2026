@@ -1,0 +1,16 @@
+id_trabajador,nombre_trabajador,rol,area_hospitalaria,fhir_equivalent
+MED_00001,dr carlos hernandez,medico,no_especificada,Practitioner
+MED_00002,dr javier fernandez,medico,no_especificada,Practitioner
+MED_00003,dr john smith,medico,no_especificada,Practitioner
+MED_00004,dr michael brown,medico,no_especificada,Practitioner
+MED_00005,dr miguel lopez,medico,no_especificada,Practitioner
+MED_00006,dr pablo lopez,medico,no_especificada,Practitioner
+MED_00007,dr robert wilson,medico,no_especificada,Practitioner
+MED_00008,dra ana martinez,medico,no_especificada,Practitioner
+MED_00009,dra carmen martin,medico,no_especificada,Practitioner
+MED_00010,dra emily johnson,medico,no_especificada,Practitioner
+MED_00011,dra laura garcia,medico,no_especificada,Practitioner
+MED_00012,dra lucia garcia,medico,no_especificada,Practitioner
+MED_00013,dra marta sanchez,medico,no_especificada,Practitioner
+MED_00014,dra sarah davis,medico,no_especificada,Practitioner
+MED_00015,dra sofia ramirez,medico,no_especificada,Practitioner
