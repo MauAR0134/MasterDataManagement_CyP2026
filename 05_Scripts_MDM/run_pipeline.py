@@ -16,6 +16,7 @@ SCRIPTS = [
     "09_prepare_manual_review.py",
     "07_build_relational_model.py",
     "08_export_sqlite.py",
+    "10_preprocess_clinico.py",
 ]
 
 
